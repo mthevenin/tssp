@@ -1,13 +1,5 @@
-annee,type,n
-1990,Couples,88.1
-1999,Couples,83.7
-2010,Couples,79.5
-2019,Couples,76.9
-1990,Femmes ,10.5
-1999,Femmes,14.2
-2010,Femmes,17.4
-2019,Femmes,19.0
-1990,Hommes,1.4
-1999,Hommes,2.0
-2010,Hommes,3.1
-2019,Hommes,4.0
+année,couplesavecenfants,femmesavecenfants,hommesavecenfants
+1990,88.1,10.5,1.4
+1999,83.7,14.2,2
+2010,79.5,17.4,3.1
+2019,76.9,19,4
