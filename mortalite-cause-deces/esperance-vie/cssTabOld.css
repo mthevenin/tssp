@@ -1,0 +1,119 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+  
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+  
+:root {
+  --tabred:  #ff362d;
+  --tabredLight: #ffeeed
+}
+
+table { border-collapse:collapse; margin-bottom: 5px; border: 1px solid var(--tabred);
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 0px;}
+
+figure,
+table {
+  margin: 0rem 0;
+  margin: 7px;
+  margin-left: 0px;
+}
+
+thead tr {
+  border-bottom: solid 0px #ccc;
+  height: 15px;  
+}
+  
+table thead th {background-color: var(--tabred);
+                font-family: poppins, sans-serif;
+                color: white; padding-left: 5px;
+                font-size: calc(10px + 0.5vw);
+                border-right: 3px;
+                border-left: 3px;
+                border-top: 0px;
+                border-bottom: 0px;
+                padding-top: 10px;
+                padding-left: 10px;    
+                padding-right: 30px;
+                padding-bottom: 10px;
+                text-align: right; 
+                line-height: 15px;}
+  
+table tbody tr td {
+                font-family: poppins, sans-serif;
+                color: #414141;
+                padding-left: 5px;
+                font-size: calc(10px + 0.5vw);
+                border-right: 0px;
+                border-left: 0px;
+                border-top: 0px;
+                border-bottom: 0px;
+                padding-top: 10px;
+                padding-left: 10px;    
+                padding-right: 30px;
+                padding-bottom: 10px;
+                line-height: 20px;
+                text-align: right;
+                font-family: roboto, sans-serif;
+                }    
+  
+table::before {
+  border-left: 0px solid #ff564e;
+  border-right: 0px solid #ff564e;
+  border-bottom: 0px solid #ff564e;
+  border-top: 0px solid #ff564e;   
+}  
+  
+table::after {
+  border-left: 0px solid #ff564e;
+  border-right: 0px solid #ff564e;
+  border-bottom: 0px solid #ff564e; 
+  border-top: 0px solid #ff564e;   
+} 
+
+  
+tr:nth-child(even) {
+    background-color: var(--tabredLight);
+}
+
+
+th:last-child, td:last-child {
+  padding-right: 30px;  }  
+
+
+  /* pour que les valeurs qui passent en dessous soient cachées*/
+tr:nth-child(even) td:first-child {
+    background-color: var(--tabredLight);
+    font-family: poppins, sans-serif;
+} 
+tr:nth-child(odd) td:first-child {
+    background-color: white;
+    font-family: poppins, sans-serif;
+}
+
+  
+/*
+#tab2 tbody tr:last-child td {
+  border-top: 1px solid var(--tabred);
+  background-color: var(--tabred);
+  color: white;
+  font-style: italic
+}
+  */
+
+    tr:last-child td {
+  /*border-top: 1px solid var(--tabred);*/
+  /*background-color: var(--tabred);*/
+  color: #414141;
+  font-weight: 540
+}
+
+  tr:last-child td:first-child  {
+  /*border-top: 1px solid var(--tabred);*/
+  /*background-color: var(--tabred);*/
+  font-family: poppins, sans-serif;
+  color: #414141;
+  font-weight: 540
+}  
+  
+  
+</style>
