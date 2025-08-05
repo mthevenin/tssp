@@ -17,7 +17,7 @@ annee,n,flux,pop
 2021,104,Entrées,Non immigrés
 2022,115,Entrées,Non immigrés
 2023,120,Entrées,Non immigrés
-2006,143,Entrées,Non immigrés
+2006,143,Sorties,Non immigrés
 2007,146,Sorties,Non immigrés
 2008,161,Sorties,Non immigrés
 2009,180,Sorties,Non immigrés
@@ -71,7 +71,7 @@ annee,n,flux,pop
 2021,283,Entrées,Immigrés
 2022,375,Entrées,Immigrés
 2023,347,Entrées,Immigrés
-2006,71,Entrées,Immigrés
+2006,71,Sorties,Immigrés
 2007,91,Sorties,Immigrés
 2008,95,Sorties,Immigrés
 2009,106,Sorties,Immigrés
