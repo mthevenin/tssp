@@ -59,8 +59,8 @@ annee,n,indic,pop,provisoire
 1931,6.6,Part dans la population totale (%),Immigrés,
 1926,5.7,Part dans la population totale (%),Immigrés,
 1921,3.7,Part dans la population totale (%),Immigrés,
-2023,5613.9,Nombre,Etrangers,
-2022,5321,Nombre,Etrangers,
+2023,5613.9,Nombre,Etrangers,Provisoire
+2022,5321,Nombre,Etrangers,Provisoire
 2021,5235.9,Nombre,Etrangers,
 2020,5149.2,Nombre,Etrangers,
 2019,5000,Nombre,Etrangers,
@@ -89,8 +89,8 @@ annee,n,indic,pop,provisoire
 1931,2714.7,Nombre,Etrangers,
 1926,2409.3,Nombre,Etrangers,
 1921,1532,Nombre,Etrangers,
-2023,8.2,Part dans la population totale (%),Etrangers,
-2022,7.8,Part dans la population totale (%),Etrangers,
+2023,8.2,Part dans la population totale (%),Etrangers,Provisoire
+2022,7.8,Part dans la population totale (%),Etrangers,Provisoire
 2021,7.7,Part dans la population totale (%),Etrangers,
 2020,7.6,Part dans la population totale (%),Etrangers,
 2019,7.4,Part dans la population totale (%),Etrangers,
