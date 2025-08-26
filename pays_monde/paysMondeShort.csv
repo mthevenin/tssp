@@ -14,7 +14,7 @@ Afrique,--,Afrique septentrionale,,276302,"21,2","5,6","72,5","19,9","2,88","16,
 Afrique,--,Afrique,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7",,,Afrique 
 Afrique,Afrique australe,Afrique du Sud,🇿🇦,64747,"18,2","9,3","66,5","22,4","2,19","11,2","6,9",ZAF,ZA,Afrique du Sud 🇿🇦
 Afrique,Afrique australe,Botswana,🇧🇼,2562,"23,9","5,7","69,4","27,2","2,66","15,9","4,1",BWA,BW,Botswana 🇧🇼
-Afrique,Afrique australe,Eswatini,,1256,"23,3","7,8","64,4","36,5","2,68","10,9","4,3",SWZ,SZ,Eswatini 
+Afrique,Afrique australe,Eswatini,🇸🇿,1256,"23,3","7,8","64,4","36,5","2,68","10,9","4,3",SWZ,SZ,Eswatini 🇸🇿
 Afrique,Afrique australe,Lesotho,🇱🇸,2363,"23,5","10,3","58,2","52,9","2,64","10,9","3,9",LSO,LS,Lesotho 🇱🇸
 Afrique,Afrique australe,Namibie,🇳🇦,3093,"25,4","6,2","67,7","26,3","3,17","19,9","3,8",NAM,NA,Namibie 🇳🇦
 Afrique,Afrique australe,Afrique australe,,74022,"18,9","9,0","66,3","24,3","2,27","11,7","6,5",,,Afrique australe 
@@ -138,43 +138,43 @@ Amérique Latine-Caraïbes,Amérique centrale,Nicaragua,🇳🇮,7008,"18,8","4,
 Amérique Latine-Caraïbes,Amérique centrale,Panama,🇵🇦,4571,"15,7","5,0","80,0","10,0","2,09","12,0","9,7",PAN,PA,Panama 🇵🇦
 Amérique Latine-Caraïbes,Amérique centrale,Salvador,🇸🇻,6366,"15,4","7,5","72,5","9,0","1,75","4,1","8,3",SLV,SV,Salvador 🇸🇻
 Amérique Latine-Caraïbes,Amérique centrale,Amérique centrale,,185161,"16,1","6,0","75,3","11,0","1,95","9,3","7,9",,,Amérique centrale 
-Amérique Latine-Caraïbes,Amérique du Sud,Argentine,,45851,"11,1","7,8","77,7","8,7","1,50","3,4","12,6",ARG,AR,Argentine 
-Amérique Latine-Caraïbes,Amérique du Sud,Bolivie,,12582,"20,8","7,2","68,9","30,3","2,50","13,4","5,7",BOL,BO,Bolivie 
-Amérique Latine-Caraïbes,Amérique du Sud,Brésil,,212812,"11,9","7,2","76,2","11,6","1,60","3,7","11,5",BRA,BR,Brésil 
-Amérique Latine-Caraïbes,Amérique du Sud,Chili,,19860,"8,6","6,7","81,5","5,4","1,13","4,5","14,6",CHL,CL,Chili 
-Amérique Latine-Caraïbes,Amérique du Sud,Colombie,,53426,"13,0","5,6","78,1","9,3","1,62","9,8","10,2",COL,CO,Colombie 
-Amérique Latine-Caraïbes,Amérique du Sud,Equateur,,18290,"14,6","5,3","77,8","9,6","1,79","8,4","8,6",ECU,EC,Equateur 
-Amérique Latine-Caraïbes,Amérique du Sud,Guyana,,836,"19,5","7,6","70,4","17,9","2,37","5,9","7,0",GUY,GY,Guyana 
-Amérique Latine-Caraïbes,Amérique du Sud,Guyane (française),,314,"24,2","4,9","77,4","8,6","3,29","16,5","7,3",GUF,GF,Guyane (française) 
-Amérique Latine-Caraïbes,Amérique du Sud,Paraguay,,7013,"19,4","5,7","74,1","15,5","2,39","11,9","6,7",PRY,PY,Paraguay 
-Amérique Latine-Caraïbes,Amérique du Sud,Pérou,,34577,"15,5","5,7","78,1","9,8","1,94","10,2","9,5",PER,PE,Pérou 
-Amérique Latine-Caraïbes,Amérique du Sud,Surinam,,640,"17,0","6,9","73,9","10,5","2,21","8,5","8,2",SUR,SR,Surinam 
-Amérique Latine-Caraïbes,Amérique du Sud,Uruguay,,3385,"9,7","9,9","78,5","5,8","1,39","-0,6","16,3",URY,UY,Uruguay 
-Amérique Latine-Caraïbes,Amérique du Sud,Venezuela,,28517,"15,3","7,8","72,8","14,4","2,06","4,0","10,0",VEN,VE,Venezuela 
+Amérique Latine-Caraïbes,Amérique du Sud,Argentine,🇦🇷,45851,"11,1","7,8","77,7","8,7","1,50","3,4","12,6",ARG,AR,Argentine 🇦🇷
+Amérique Latine-Caraïbes,Amérique du Sud,Bolivie,🇧🇴,12582,"20,8","7,2","68,9","30,3","2,50","13,4","5,7",BOL,BO,Bolivie 🇧🇴
+Amérique Latine-Caraïbes,Amérique du Sud,Brésil,🇧🇷,212812,"11,9","7,2","76,2","11,6","1,60","3,7","11,5",BRA,BR,Brésil 🇧🇷
+Amérique Latine-Caraïbes,Amérique du Sud,Chili,🇨🇱,19860,"8,6","6,7","81,5","5,4","1,13","4,5","14,6",CHL,CL,Chili 🇨🇱
+Amérique Latine-Caraïbes,Amérique du Sud,Colombie,🇨🇴,53426,"13,0","5,6","78,1","9,3","1,62","9,8","10,2",COL,CO,Colombie 🇨🇴
+Amérique Latine-Caraïbes,Amérique du Sud,Equateur,🇪🇨,18290,"14,6","5,3","77,8","9,6","1,79","8,4","8,6",ECU,EC,Equateur 🇪🇨
+Amérique Latine-Caraïbes,Amérique du Sud,Guyana,🇬🇾,836,"19,5","7,6","70,4","17,9","2,37","5,9","7,0",GUY,GY,Guyana 🇬🇾
+Amérique Latine-Caraïbes,Amérique du Sud,Guyane (française),🇬🇫,314,"24,2","4,9","77,4","8,6","3,29","16,5","7,3",GUF,GF,Guyane (française) 🇬🇫
+Amérique Latine-Caraïbes,Amérique du Sud,Paraguay,🇵🇾,7013,"19,4","5,7","74,1","15,5","2,39","11,9","6,7",PRY,PY,Paraguay 🇵🇾
+Amérique Latine-Caraïbes,Amérique du Sud,Pérou,🇵🇪,34577,"15,5","5,7","78,1","9,8","1,94","10,2","9,5",PER,PE,Pérou 🇵🇪
+Amérique Latine-Caraïbes,Amérique du Sud,Surinam,🇸🇷,640,"17,0","6,9","73,9","10,5","2,21","8,5","8,2",SUR,SR,Surinam 🇸🇷
+Amérique Latine-Caraïbes,Amérique du Sud,Uruguay,🇺🇾,3385,"9,7","9,9","78,5","5,8","1,39","-0,6","16,3",URY,UY,Uruguay 🇺🇾
+Amérique Latine-Caraïbes,Amérique du Sud,Venezuela,🇻🇪,28517,"15,3","7,8","72,8","14,4","2,06","4,0","10,0",VEN,VE,Venezuela 🇻🇪
 Amérique Latine-Caraïbes,Amérique du Sud,Amérique du Sud,,438105,"12,8","6,9","76,6","11,7","1,69","5,6","11,0",,,Amérique du Sud 
-Amérique Latine-Caraïbes,Caraïbes,Antigua-et-Barbuda,,94,"11,6","7,1","77,9","7,2","1,58","4,6","12,3",ATG,AG,Antigua-et-Barbuda 
-Amérique Latine-Caraïbes,Caraïbes,Aruba,,108,"9,5","10,0","76,6","10,7","1,61","0,5","17,8",ABW,AW,Aruba 
-Amérique Latine-Caraïbes,Caraïbes,Bahamas,,403,"10,7","8,9","74,9","10,4","1,36","4,1","12,1",BHS,BS,Bahamas 
-Amérique Latine-Caraïbes,Caraïbes,Barbade,,283,"11,0","10,3","76,5","10,7","1,70","0,5","17,1",BRB,BB,Barbade 
-Amérique Latine-Caraïbes,Caraïbes,Cuba,,10937,"8,5","10,5","78,4","4,4","1,45","-4,0","17,0",CUB,CU,Cuba 
-Amérique Latine-Caraïbes,Caraïbes,Curaçao,,185,"7,5","10,2","77,2","8,0","1,07","-0,2","17,3",CUW,CW,Curaçao 
-Amérique Latine-Caraïbes,Caraïbes,Rep. Dominicaine,,11520,"17,3","6,3","74,0","24,8","2,19","7,9","8,2",DOM,DO,Rep. Dominicaine 
-Amérique Latine-Caraïbes,Caraïbes,France - Guadeloupe,,374,"10,6","9,9","82,4","6,4","2,05","-3,6","24,7",GLP,GP,France - Guadeloupe 
-Amérique Latine-Caraïbes,Caraïbes,France - Martinique,,340,"10,0","10,7","82,9","6,1","1,97","-8,1","26,3",MTQ,MQ,France - Martinique 
-Amérique Latine-Caraïbes,Caraïbes,Grenade,,117,"11,2","9,0","75,5","11,4","1,46","0,7","12,6",GRD,GD,Grenade 
-Amérique Latine-Caraïbes,Caraïbes,Haïti,,11906,"21,6","7,8","65,3","43,4","2,59","11,1","4,8",HTI,HT,Haïti 
-Amérique Latine-Caraïbes,Caraïbes,Îles Vierges américaines,,84,"11,0","15,5","75,9","4,7","2,07","-8,8","23,1",VIR,VI,Îles Vierges américaines 
-Amérique Latine-Caraïbes,Caraïbes,Jamaïque,,2837,"11,2","8,3","71,7","15,1","1,34","-1,0","8,6",JAM,JM,Jamaïque 
-Amérique Latine-Caraïbes,Caraïbes,Porto Rico,,3235,"5,9","10,7","82,1","4,8","0,94","-3,1","25,3",PRI,PR,Porto Rico 
-Amérique Latine-Caraïbes,Caraïbes,Sainte Lucie,,180,"11,0","8,8","73,0","13,4","1,38","2,1","10,0",LCA,LC,Sainte Lucie 
-Amérique Latine-Caraïbes,Caraïbes,St Vincent-et-les-Grenad.,,100,"11,8","11,6","71,5","12,1","1,75","-6,8","12,2",VCT,VC,St Vincent-et-les-Grenad. 
-Amérique Latine-Caraïbes,Caraïbes,Trinité-et-Tobago,,1511,"10,3","9,0","73,7","13,4","1,52","1,8","12,9",TTO,TT,Trinité-et-Tobago 
+Amérique Latine-Caraïbes,Caraïbes,Antigua-et-Barbuda,🇦🇬,94,"11,6","7,1","77,9","7,2","1,58","4,6","12,3",ATG,AG,Antigua-et-Barbuda 🇦🇬
+Amérique Latine-Caraïbes,Caraïbes,Aruba,🇦🇼,108,"9,5","10,0","76,6","10,7","1,61","0,5","17,8",ABW,AW,Aruba 🇦🇼
+Amérique Latine-Caraïbes,Caraïbes,Bahamas,🇧🇸,403,"10,7","8,9","74,9","10,4","1,36","4,1","12,1",BHS,BS,Bahamas 🇧🇸
+Amérique Latine-Caraïbes,Caraïbes,Barbade,🇧🇧,283,"11,0","10,3","76,5","10,7","1,70","0,5","17,1",BRB,BB,Barbade 🇧🇧
+Amérique Latine-Caraïbes,Caraïbes,Cuba,🇨🇺,10937,"8,5","10,5","78,4","4,4","1,45","-4,0","17,0",CUB,CU,Cuba 🇨🇺
+Amérique Latine-Caraïbes,Caraïbes,Curaçao,🇨🇼,185,"7,5","10,2","77,2","8,0","1,07","-0,2","17,3",CUW,CW,Curaçao 🇨🇼
+Amérique Latine-Caraïbes,Caraïbes,Rep. Dominicaine,🇩🇴,11520,"17,3","6,3","74,0","24,8","2,19","7,9","8,2",DOM,DO,Rep. Dominicaine 🇩🇴
+Amérique Latine-Caraïbes,Caraïbes,France - Guadeloupe,🇬🇵,374,"10,6","9,9","82,4","6,4","2,05","-3,6","24,7",GLP,GP,France - Guadeloupe 🇬🇵
+Amérique Latine-Caraïbes,Caraïbes,France - Martinique,🇲🇶,340,"10,0","10,7","82,9","6,1","1,97","-8,1","26,3",MTQ,MQ,France - Martinique 🇲🇶
+Amérique Latine-Caraïbes,Caraïbes,Grenade,🇬🇩,117,"11,2","9,0","75,5","11,4","1,46","0,7","12,6",GRD,GD,Grenade 🇬🇩
+Amérique Latine-Caraïbes,Caraïbes,Haïti,🇭🇹,11906,"21,6","7,8","65,3","43,4","2,59","11,1","4,8",HTI,HT,Haïti 🇭🇹
+Amérique Latine-Caraïbes,Caraïbes,Îles Vierges américaines,🇻🇮,84,"11,0","15,5","75,9","4,7","2,07","-8,8","23,1",VIR,VI,Îles Vierges américaines 🇻🇮
+Amérique Latine-Caraïbes,Caraïbes,Jamaïque,🇯🇲,2837,"11,2","8,3","71,7","15,1","1,34","-1,0","8,6",JAM,JM,Jamaïque 🇯🇲
+Amérique Latine-Caraïbes,Caraïbes,Porto Rico,🇵🇷,3235,"5,9","10,7","82,1","4,8","0,94","-3,1","25,3",PRI,PR,Porto Rico 🇵🇷
+Amérique Latine-Caraïbes,Caraïbes,Sainte Lucie,🇱🇨,180,"11,0","8,8","73,0","13,4","1,38","2,1","10,0",LCA,LC,Sainte Lucie 🇱🇨
+Amérique Latine-Caraïbes,Caraïbes,St Vincent-et-les-Grenad.,🇻🇨,100,"11,8","11,6","71,5","12,1","1,75","-6,8","12,2",VCT,VC,St Vincent-et-les-Grenad. 🇻🇨
+Amérique Latine-Caraïbes,Caraïbes,Trinité-et-Tobago,🇹🇹,1511,"10,3","9,0","73,7","13,4","1,52","1,8","12,9",TTO,TT,Trinité-et-Tobago 🇹🇹
 Amérique Latine-Caraïbes,Caraïbes,Caraïbes,,44622,"14,4","8,5","73,4","27,2","1,95","3,8","11,4",,,Caraïbes 
 Amérique septentrionale,--,Canada,,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3",CAN,CA,Canada 
 Amérique septentrionale,--,Etats-Unis,,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4",USA,US,Etats-Unis 
 Amérique septentrionale,--,Amérique septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique septentrionale 
-Amérique septentrionale,Amérique septentrionale,Canada,,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3",CAN,CA,Canada 
-Amérique septentrionale,Amérique septentrionale,Etats-Unis,,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4",USA,US,Etats-Unis 
+Amérique septentrionale,Amérique septentrionale,Canada,🇨🇦,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3",CAN,CA,Canada 🇨🇦
+Amérique septentrionale,Amérique septentrionale,Etats-Unis,🇺🇸,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4",USA,US,Etats-Unis 🇺🇸
 Amérique septentrionale,Amérique septentrionale,Amérique septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique septentrionale 
 Asie,--,Asie de l'Est,,1652186,"6,2","8,6","79,3","5,8","1,03","-2,4","16,3",,,Asie de l'Est 
 Asie,--,Asie de l'Ouest,,314297,"19,0","4,8","75,9","16,3","2,52","15,1","6,3",,,Asie de l'Ouest 

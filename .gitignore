@@ -1,4 +1,7 @@
 *.xlsx
 *.do
 *.txt
+*.dta
+*.do
+*.stswp
 
