@@ -1,0 +1,721 @@
+age,j,c,structure
+1,1,0,Personne vivant seule
+1,2,.0005246243672445,Famille monoparentale
+1,4,2.69975294032e-06,Couple sans enfant
+1,6,.0046143163926899,Couple avec enfant
+1,8,.0001963982589027,Autre cas
+1,9,.0000343947399485,Hors logement ordinaire
+2,1,0,Personne vivant seule
+2,2,.0006420644349419,Famille monoparentale
+2,4,3.33036200573e-06,Couple sans enfant
+2,6,.0045909057371318,Couple avec enfant
+2,8,.000184212599358,Autre cas
+2,9,.0000314754094116,Hors logement ordinaire
+3,1,0,Personne vivant seule
+3,2,.0007569584413432,Famille monoparentale
+3,4,4.34282583228e-06,Couple sans enfant
+3,6,.0046714348718524,Couple avec enfant
+3,8,.0001818330389152,Autre cas
+3,9,.0000281903165819,Hors logement ordinaire
+4,1,0,Personne vivant seule
+4,2,.0008510875049978,Famille monoparentale
+4,4,3.41443319485e-06,Couple sans enfant
+4,6,.004704455845058,Couple avec enfant
+4,8,.0001728820896475,Autre cas
+4,9,.0000288428834357,Hors logement ordinaire
+5,1,0,Personne vivant seule
+5,2,.0009601872297935,Famille monoparentale
+5,4,4.56932139059e-06,Couple sans enfant
+5,6,.0047527910210192,Couple avec enfant
+5,8,.0001688257677727,Autre cas
+5,9,.0000280176623417,Hors logement ordinaire
+6,1,0,Personne vivant seule
+6,2,.001039392198436,Famille monoparentale
+6,4,5.09675919602e-06,Couple sans enfant
+6,6,.0047439197078347,Couple avec enfant
+6,8,.0001640880030736,Autre cas
+6,9,.000028207160898,Hors logement ordinaire
+7,1,0,Personne vivant seule
+7,2,.0011085059959441,Famille monoparentale
+7,4,5.28610735273e-06,Couple sans enfant
+7,6,.0047287405468524,Couple avec enfant
+7,8,.000157825827766,Autre cas
+7,9,.0000281239920872,Hors logement ordinaire
+8,1,0,Personne vivant seule
+8,2,.0011713829590008,Famille monoparentale
+8,4,5.58404099138e-06,Couple sans enfant
+8,6,.0047401427291334,Couple avec enfant
+8,8,.0001501240650131,Autre cas
+8,9,.0000289409414188,Hors logement ordinaire
+9,1,0,Personne vivant seule
+9,2,.0012127620866522,Famille monoparentale
+9,4,6.82540712660e-06,Couple sans enfant
+9,6,.0047149155288935,Couple avec enfant
+9,8,.0001521491428391,Autre cas
+9,9,.0000299765660686,Hors logement ordinaire
+10,1,0,Personne vivant seule
+10,2,.0012632301077247,Famille monoparentale
+10,4,5.82888515055e-06,Couple sans enfant
+10,6,.0046476502902806,Couple avec enfant
+10,8,.0001489813586394,Autre cas
+10,9,.0000299300938036,Hors logement ordinaire
+11,1,0,Personne vivant seule
+11,2,.0013039906043559,Famille monoparentale
+11,4,4.88635578222e-06,Couple sans enfant
+11,6,.0046118958853185,Couple avec enfant
+11,8,.0001496214426519,Autre cas
+11,9,.0000293546799334,Hors logement ordinaire
+12,1,0,Personne vivant seule
+12,2,.0013330858200788,Famille monoparentale
+12,4,7.45992656448e-06,Couple sans enfant
+12,6,.0045555247925222,Couple avec enfant
+12,8,.0001497919913525,Autre cas
+12,9,.0000318895991133,Hors logement ordinaire
+13,1,0,Personne vivant seule
+13,2,.0013919010525569,Famille monoparentale
+13,4,6.53875304124e-06,Couple sans enfant
+13,6,.0044760359451175,Couple avec enfant
+13,8,.000144964290037,Autre cas
+13,9,.0000326236804254,Hors logement ordinaire
+14,1,0,Personne vivant seule
+14,2,.0014386122347787,Famille monoparentale
+14,4,7.35555204301e-06,Couple sans enfant
+14,6,.0044135246425867,Couple avec enfant
+14,8,.0001479087366525,Autre cas
+14,9,.0000371223159939,Hors logement ordinaire
+15,1,7.73981285980e-06,Personne vivant seule
+15,2,.0014949376927689,Famille monoparentale
+15,4,9.82504934655e-06,Couple sans enfant
+15,6,.0043728086166084,Couple avec enfant
+15,8,.0001591404364015,Autre cas
+15,9,.0000427725312812,Hors logement ordinaire
+16,1,.0000143736158917,Personne vivant seule
+16,2,.0015452080406249,Famille monoparentale
+16,4,.0000145715366671,Couple sans enfant
+16,6,.0042991954833269,Couple avec enfant
+16,8,.0001734468254244,Autre cas
+16,9,.0000474265255868,Hors logement ordinaire
+17,1,.0000203786145872,Personne vivant seule
+17,2,.0015819385880604,Famille monoparentale
+17,4,.000017349344489,Couple sans enfant
+17,6,.0042236209847033,Couple avec enfant
+17,8,.0001827509037478,Autre cas
+17,9,.0000504660222717,Hors logement ordinaire
+18,1,.000074861855857,Personne vivant seule
+18,2,.0016081589274108,Famille monoparentale
+18,4,.0000325247201545,Couple sans enfant
+18,6,.0040779653936625,Couple avec enfant
+18,8,.0001663522100301,Autre cas
+18,9,.0000732727751062,Hors logement ordinaire
+19,1,.0008286956854089,Personne vivant seule
+19,2,.001256012939848,Famille monoparentale
+19,4,.0001701118017081,Couple sans enfant
+19,6,.0028993063606322,Couple avec enfant
+19,8,.0003811622088221,Autre cas
+19,9,.0004626338044023,Hors logement ordinaire
+20,1,.0010323944513913,Personne vivant seule
+20,2,.0011280780890957,Famille monoparentale
+20,4,.0003226237022318,Couple sans enfant
+20,6,.0025624830741435,Couple avec enfant
+20,8,.0004459477045409,Autre cas
+20,9,.0003005976495857,Hors logement ordinaire
+21,1,.0011485101429568,Personne vivant seule
+21,2,.00099898991175,Famille monoparentale
+21,4,.0005483400891535,Couple sans enfant
+21,6,.0022297636605799,Couple avec enfant
+21,8,.0005028959309995,Autre cas
+21,9,.0002090387149826,Hors logement ordinaire
+22,1,.001163211170243,Personne vivant seule
+22,2,.0008696007425897,Famille monoparentale
+22,4,.0007829610840417,Couple sans enfant
+22,6,.0020079875830561,Couple avec enfant
+22,8,.0005172719532221,Autre cas
+22,9,.000160544680862,Hors logement ordinaire
+23,1,.0011843262724733,Personne vivant seule
+23,2,.0008046382572502,Famille monoparentale
+23,4,.0010336460545659,Couple sans enfant
+23,6,.0018650217680261,Couple avec enfant
+23,8,.0005112078490245,Autre cas
+23,9,.0001347369326365,Hors logement ordinaire
+24,1,.0011378825826528,Personne vivant seule
+24,2,.0007312981178984,Famille monoparentale
+24,4,.0012731192400679,Couple sans enfant
+24,6,.0017743859207258,Couple avec enfant
+24,8,.0004821929129314,Autre cas
+24,9,.0001167108072697,Hors logement ordinaire
+25,1,.0011033120301548,Personne vivant seule
+25,2,.000685948994942,Famille monoparentale
+25,4,.0015029991045594,Couple sans enfant
+25,6,.0017411155859008,Couple avec enfant
+25,8,.0004554596296936,Autre cas
+25,9,.000110443518509,Hors logement ordinaire
+26,1,.0010856042924418,Personne vivant seule
+26,2,.0006455527036451,Famille monoparentale
+26,4,.0016473302384838,Couple sans enfant
+26,6,.0017840575892478,Couple avec enfant
+26,8,.000428090172731,Autre cas
+26,9,.0000905157901693,Hors logement ordinaire
+27,1,.0010474562779129,Personne vivant seule
+27,2,.0006231237202883,Famille monoparentale
+27,4,.0017230127705261,Couple sans enfant
+27,6,.0019384141778573,Couple avec enfant
+27,8,.0003970307577692,Autre cas
+27,9,.0000734102367574,Hors logement ordinaire
+28,1,.0009970255986259,Personne vivant seule
+28,2,.0005997586995363,Famille monoparentale
+28,4,.0016804077895358,Couple sans enfant
+28,6,.0021688845008612,Couple avec enfant
+28,8,.0003575078259373,Autre cas
+28,9,.0000640647996221,Hors logement ordinaire
+29,1,.0009325121686915,Personne vivant seule
+29,2,.0006362039712258,Famille monoparentale
+29,4,.0015772859333083,Couple sans enfant
+29,6,.0025137735065073,Couple avec enfant
+29,8,.0003192667164828,Autre cas
+29,9,.0000597989765656,Hors logement ordinaire
+30,1,.0008902962518205,Personne vivant seule
+30,2,.0006420295103453,Famille monoparentale
+30,4,.001390719669871,Couple sans enfant
+30,6,.0028282625135034,Couple avec enfant
+30,8,.0002825175321699,Autre cas
+30,9,.0000581322916442,Hors logement ordinaire
+31,1,.0008248452552195,Personne vivant seule
+31,2,.0006738543161191,Famille monoparentale
+31,4,.0012084353948012,Couple sans enfant
+31,6,.0031606697011739,Couple avec enfant
+31,8,.0002503880519477,Autre cas
+31,9,.0000514667551238,Hors logement ordinaire
+32,1,.0007454895764557,Personne vivant seule
+32,2,.000698349555023,Famille monoparentale
+32,4,.0010167805012316,Couple sans enfant
+32,6,.0034211659803987,Couple avec enfant
+32,8,.000228063467662,Autre cas
+32,9,.0000468819428309,Hors logement ordinaire
+33,1,.0007144885150176,Personne vivant seule
+33,2,.0007406299700961,Famille monoparentale
+33,4,.000857048726175,Couple sans enfant
+33,6,.003660756861791,Couple avec enfant
+33,8,.000209790091798,Autre cas
+33,9,.0000459592653365,Hors logement ordinaire
+34,1,.000678369638998,Personne vivant seule
+34,2,.0007897344767116,Famille monoparentale
+34,4,.0007452044519596,Couple sans enfant
+34,6,.0039080502465367,Couple avec enfant
+34,8,.0001950158218157,Autre cas
+34,9,.0000470508371791,Hors logement ordinaire
+35,1,.0006376913675554,Personne vivant seule
+35,2,.0008213272085413,Famille monoparentale
+35,4,.0006437784759328,Couple sans enfant
+35,6,.0040864823386073,Couple avec enfant
+35,8,.0001834320457808,Autre cas
+35,9,.0000479578735228,Hors logement ordinaire
+36,1,.0006025604407552,Personne vivant seule
+36,2,.0008599464199506,Famille monoparentale
+36,4,.0005631155800074,Couple sans enfant
+36,6,.0041822786442935,Couple avec enfant
+36,8,.0001666169064263,Autre cas
+36,9,.0000422801358262,Hors logement ordinaire
+37,1,.000577090030039,Personne vivant seule
+37,2,.0009062300669029,Famille monoparentale
+37,4,.0005011158646084,Couple sans enfant
+37,6,.0042466656304896,Couple avec enfant
+37,8,.0001607469630511,Autre cas
+37,9,.0000454324292708,Hors logement ordinaire
+38,1,.0005449591962557,Personne vivant seule
+38,2,.0009344618883915,Famille monoparentale
+38,4,.0004645531589631,Couple sans enfant
+38,6,.0042497632093728,Couple avec enfant
+38,8,.0001515644044368,Autre cas
+38,9,.0000410404242392,Hors logement ordinaire
+39,1,.000533402040256,Personne vivant seule
+39,2,.0009616505703889,Famille monoparentale
+39,4,.0004131746827625,Couple sans enfant
+39,6,.0041570840403438,Couple avec enfant
+39,8,.000145982468788,Autre cas
+39,9,.0000393391483114,Hors logement ordinaire
+40,1,.0005281160833048,Personne vivant seule
+40,2,.0009903709869832,Famille monoparentale
+40,4,.0004009696131106,Couple sans enfant
+40,6,.0041061644442379,Couple avec enfant
+40,8,.0001471660827865,Autre cas
+40,9,.0000385471646626,Hors logement ordinaire
+41,1,.0005106116805506,Personne vivant seule
+41,2,.0010273674270138,Famille monoparentale
+41,4,.0003848365158774,Couple sans enfant
+41,6,.0041093095205724,Couple avec enfant
+41,8,.0001347531753699,Autre cas
+41,9,.0000382086239878,Hors logement ordinaire
+42,1,.0005207364680976,Personne vivant seule
+42,2,.0010900689521804,Famille monoparentale
+42,4,.0004065583343618,Couple sans enfant
+42,6,.0041673118248582,Couple avec enfant
+42,8,.0001344771992978,Autre cas
+42,9,.0000401810633259,Hors logement ordinaire
+43,1,.0005507187492021,Personne vivant seule
+43,2,.001168290968053,Famille monoparentale
+43,4,.0004352512769401,Couple sans enfant
+43,6,.0042247548699379,Couple avec enfant
+43,8,.0001438797867914,Autre cas
+43,9,.0000412353370399,Hors logement ordinaire
+44,1,.0005762825556352,Personne vivant seule
+44,2,.001224746927619,Famille monoparentale
+44,4,.0004782942123711,Couple sans enfant
+44,6,.004290132317692,Couple avec enfant
+44,8,.0001408607439189,Autre cas
+44,9,.0000425891989478,Hors logement ordinaire
+45,1,.0006135745179558,Personne vivant seule
+45,2,.0012970097595826,Famille monoparentale
+45,4,.0005280843470246,Couple sans enfant
+45,6,.004239191301167,Couple avec enfant
+45,8,.0001525794248784,Autre cas
+45,9,.000044501480014,Hors logement ordinaire
+46,1,.0006561112288114,Personne vivant seule
+46,2,.0013072976144031,Famille monoparentale
+46,4,.0006101625040174,Couple sans enfant
+46,6,.0041393046267331,Couple avec enfant
+46,8,.0001582854369629,Autre cas
+46,9,.0000452148067224,Hors logement ordinaire
+47,1,.0006842234900355,Personne vivant seule
+47,2,.0013237483799458,Famille monoparentale
+47,4,.00071878003655,Couple sans enfant
+47,6,.003943482413888,Couple avec enfant
+47,8,.0001620335980901,Autre cas
+47,9,.0000420274710844,Hors logement ordinaire
+48,1,.0007287218117403,Personne vivant seule
+48,2,.001244778977707,Famille monoparentale
+48,4,.0008651505340822,Couple sans enfant
+48,6,.0037395707331598,Couple avec enfant
+48,8,.0001676850165428,Autre cas
+48,9,.0000440202138393,Hors logement ordinaire
+49,1,.0007884965746015,Personne vivant seule
+49,2,.0012559397146106,Famille monoparentale
+49,4,.0010270751081407,Couple sans enfant
+49,6,.0035095086786896,Couple avec enfant
+49,8,.0001771312187835,Autre cas
+49,9,.0000487233875321,Hors logement ordinaire
+50,1,.0008478900844148,Personne vivant seule
+50,2,.0012134750140831,Famille monoparentale
+50,4,.001233427436091,Couple sans enfant
+50,6,.003321070689708,Couple avec enfant
+50,8,.0001846824354611,Autre cas
+50,9,.0000449738728437,Hors logement ordinaire
+51,1,.0009173592023881,Personne vivant seule
+51,2,.0011713388375938,Famille monoparentale
+51,4,.0014701311010867,Couple sans enfant
+51,6,.0030675746966153,Couple avec enfant
+51,8,.0001898185983154,Autre cas
+51,9,.0000461104129945,Hors logement ordinaire
+52,1,.0010014165508878,Personne vivant seule
+52,2,.0010978466598317,Famille monoparentale
+52,4,.0017203200841323,Couple sans enfant
+52,6,.0028294329531491,Couple avec enfant
+52,8,.0002017755060315,Autre cas
+52,9,.0000483732663899,Hors logement ordinaire
+53,1,.0010730734748123,Personne vivant seule
+53,2,.0010185864521191,Famille monoparentale
+53,4,.001970267156139,Couple sans enfant
+53,6,.0025452605914325,Couple avec enfant
+53,8,.0002086900977973,Autre cas
+53,9,.0000432956074549,Hors logement ordinaire
+54,1,.0011492502400961,Personne vivant seule
+54,2,.0009318642551079,Famille monoparentale
+54,4,.0022381243761629,Couple sans enfant
+54,6,.0022516874596477,Couple avec enfant
+54,8,.0002116309349164,Autre cas
+54,9,.0000487406830352,Hors logement ordinaire
+55,1,.001222662131206,Personne vivant seule
+55,2,.0008635918493383,Famille monoparentale
+55,4,.0024846780579537,Couple sans enfant
+55,6,.0019890069961548,Couple avec enfant
+55,8,.0002117359111008,Autre cas
+55,9,.0000472179267792,Hors logement ordinaire
+56,1,.0012831004398057,Personne vivant seule
+56,2,.0007755396654829,Famille monoparentale
+56,4,.0026969113387167,Couple sans enfant
+56,6,.0017316760495305,Couple avec enfant
+56,8,.0002130454062831,Autre cas
+56,9,.0000462301279555,Hors logement ordinaire
+57,1,.0013454450136443,Personne vivant seule
+57,2,.0007044915691949,Famille monoparentale
+57,4,.002865572925657,Couple sans enfant
+57,6,.0014896281063557,Couple avec enfant
+57,8,.0002128315436267,Autre cas
+57,9,.0000425771672934,Hors logement ordinaire
+58,1,.0014180531902424,Personne vivant seule
+58,2,.0006372474017553,Famille monoparentale
+58,4,.0030455375090241,Couple sans enfant
+58,6,.0012811125488952,Couple avec enfant
+58,8,.0002104855214205,Autre cas
+58,9,.0000418423340028,Hors logement ordinaire
+59,1,.0014779872221283,Personne vivant seule
+59,2,.0005760980420746,Famille monoparentale
+59,4,.0031847765203565,Couple sans enfant
+59,6,.001106207841076,Couple avec enfant
+59,8,.0002074888875042,Autre cas
+59,9,.0000464397795328,Hors logement ordinaire
+60,1,.0015312611317383,Personne vivant seule
+60,2,.0005222634645179,Famille monoparentale
+60,4,.0033019057009369,Couple sans enfant
+60,6,.0009446158655919,Couple avec enfant
+60,8,.0002062881283982,Autre cas
+60,9,.0000460699565567,Hors logement ordinaire
+61,1,.0015841623608543,Personne vivant seule
+61,2,.0004596854560077,Famille monoparentale
+61,4,.0033800771925598,Couple sans enfant
+61,6,.0008030679891817,Couple avec enfant
+61,8,.0002156401829435,Autre cas
+61,9,.0000462253152937,Hors logement ordinaire
+62,1,.0016259487476643,Personne vivant seule
+62,2,.0004216005909257,Famille monoparentale
+62,4,.0034433202818036,Couple sans enfant
+62,6,.0006889955257066,Couple avec enfant
+62,8,.0002136026222761,Autre cas
+62,9,.0000446711263406,Hors logement ordinaire
+63,1,.0016696759907197,Personne vivant seule
+63,2,.0003790408663917,Famille monoparentale
+63,4,.0034878272563219,Couple sans enfant
+63,6,.0006102722836658,Couple avec enfant
+63,8,.0002054773452895,Autre cas
+63,9,.00004725131462,Hors logement ordinaire
+64,1,.0017045538015911,Personne vivant seule
+64,2,.0003560357436072,Famille monoparentale
+64,4,.0035227814223617,Couple sans enfant
+64,6,.000517895037774,Couple avec enfant
+64,8,.0002017084295584,Autre cas
+64,9,.0000483076938736,Hors logement ordinaire
+65,1,.0017521090658796,Personne vivant seule
+65,2,.0003283997939434,Famille monoparentale
+65,4,.0035648171324283,Couple sans enfant
+65,6,.000454264896689,Couple avec enfant
+65,8,.0001911419299003,Autre cas
+65,9,.0000553010929755,Hors logement ordinaire
+66,1,.0017979570384132,Personne vivant seule
+66,2,.0002972477232106,Famille monoparentale
+66,4,.0035750286187977,Couple sans enfant
+66,6,.0004042605869472,Couple avec enfant
+66,8,.0001916638029086,Autre cas
+66,9,.0000499221914942,Hors logement ordinaire
+67,1,.0018586066529427,Personne vivant seule
+67,2,.000279512925772,Famille monoparentale
+67,4,.0035887805279344,Couple sans enfant
+67,6,.0003598979092203,Couple avec enfant
+67,8,.000184596559528,Autre cas
+67,9,.0000572067566318,Hors logement ordinaire
+68,1,.0018853459520077,Personne vivant seule
+68,2,.0002609682269394,Famille monoparentale
+68,4,.0035524338018149,Couple sans enfant
+68,6,.0003285759012215,Couple avec enfant
+68,8,.0001736250443047,Autre cas
+68,9,.0000537978881578,Hors logement ordinaire
+69,1,.0018970489918166,Personne vivant seule
+69,2,.0002541043213569,Famille monoparentale
+69,4,.0034615236800164,Couple sans enfant
+69,6,.0002900687395595,Couple avec enfant
+69,8,.0001775070575868,Autre cas
+69,9,.0000635260822977,Hors logement ordinaire
+70,1,.0018605327704115,Personne vivant seule
+70,2,.0002259308530483,Famille monoparentale
+70,4,.0032233956735581,Couple sans enfant
+70,6,.0002580836589914,Couple avec enfant
+70,8,.000161986223451,Autre cas
+70,9,.0000585810723521,Hors logement ordinaire
+71,1,.0017492489912405,Personne vivant seule
+71,2,.0002024491259363,Famille monoparentale
+71,4,.0029439651407301,Couple sans enfant
+71,6,.0002303693327121,Couple avec enfant
+71,8,.0001465544235576,Autre cas
+71,9,.0000660073102199,Hors logement ordinaire
+72,1,.0016795061531304,Personne vivant seule
+72,2,.0001977088104468,Famille monoparentale
+72,4,.0026827855035663,Couple sans enfant
+72,6,.0002033152559306,Couple avec enfant
+72,8,.0001298065110718,Autre cas
+72,9,.0000604392109737,Hors logement ordinaire
+73,1,.0015661457104153,Personne vivant seule
+73,2,.0001885764795588,Famille monoparentale
+73,4,.0023806672543287,Couple sans enfant
+73,6,.0001793455012375,Couple avec enfant
+73,8,.0001265391649323,Autre cas
+73,9,.0000622165871154,Hors logement ordinaire
+74,1,.0014473662105726,Personne vivant seule
+74,2,.0001749677758198,Famille monoparentale
+74,4,.0020779978949577,Couple sans enfant
+74,6,.0001573728368385,Couple avec enfant
+74,8,.0001069526843896,Autre cas
+74,9,.0000614324240419,Hors logement ordinaire
+75,1,.0014373588820513,Personne vivant seule
+75,2,.0001707977498882,Famille monoparentale
+75,4,.0019583988469094,Couple sans enfant
+75,6,.0001404253416695,Couple avec enfant
+75,8,.0001031366948108,Autre cas
+75,9,.0000745194048945,Hors logement ordinaire
+76,1,.001458866216214,Personne vivant seule
+76,2,.0001658053661231,Famille monoparentale
+76,4,.0018335349159315,Couple sans enfant
+76,6,.0001380927133141,Couple avec enfant
+76,8,.0001006786278233,Autre cas
+76,9,.0000751814466762,Hors logement ordinaire
+77,1,.0014734139903027,Personne vivant seule
+77,2,.0001696118852124,Famille monoparentale
+77,4,.0017000990919769,Couple sans enfant
+77,6,.000126738435938,Couple avec enfant
+77,8,.0000981052073494,Autre cas
+77,9,.0000924176939336,Hors logement ordinaire
+78,1,.0014935002356888,Personne vivant seule
+78,2,.0001793044357328,Famille monoparentale
+78,4,.0016085536917672,Couple sans enfant
+78,6,.000129085208755,Couple avec enfant
+78,8,.0000942379328439,Autre cas
+78,9,.0001069072648943,Hors logement ordinaire
+79,1,.0015757681763925,Personne vivant seule
+79,2,.0001923289964907,Famille monoparentale
+79,4,.0015559921739623,Couple sans enfant
+79,6,.0001199238613481,Couple avec enfant
+79,8,.0000942528220162,Autre cas
+79,9,.0001365210765837,Hors logement ordinaire
+80,1,.0016450536612409,Personne vivant seule
+80,2,.000191581537365,Famille monoparentale
+80,4,.001466887886636,Couple sans enfant
+80,6,.0001149480231106,Couple avec enfant
+80,8,.0000911236895062,Autre cas
+80,9,.0001455464717128,Hors logement ordinaire
+81,1,.0016897130567185,Personne vivant seule
+81,2,.0002033316559391,Famille monoparentale
+81,4,.0013420486357063,Couple sans enfant
+81,6,.0000984184807749,Couple avec enfant
+81,8,.0000869944257269,Autre cas
+81,9,.0001653683214941,Hors logement ordinaire
+82,1,.0017097764419613,Personne vivant seule
+82,2,.0002048348542303,Famille monoparentale
+82,4,.0012043925235048,Couple sans enfant
+82,6,.0000945909123402,Couple avec enfant
+82,8,.0000776250756785,Autre cas
+82,9,.000193996590295,Hors logement ordinaire
+83,1,.0017560425144842,Personne vivant seule
+83,2,.0001981466048164,Famille monoparentale
+83,4,.0010761223966256,Couple sans enfant
+83,6,.0000899525548448,Couple avec enfant
+83,8,.0000797567840413,Autre cas
+83,9,.0002241444570427,Hors logement ordinaire
+84,1,.0017427576129171,Personne vivant seule
+84,2,.0001995591301238,Famille monoparentale
+84,4,.0009752726764418,Couple sans enfant
+84,6,.0000795454761828,Couple avec enfant
+84,8,.0000741659750474,Autre cas
+84,9,.0002565123144171,Hors logement ordinaire
+85,1,.0017279911635103,Personne vivant seule
+85,2,.0002058668760583,Famille monoparentale
+85,4,.0008410282898694,Couple sans enfant
+85,6,.0000732452535885,Couple avec enfant
+85,8,.0000689965747479,Autre cas
+85,9,.0002992352151241,Hors logement ordinaire
+86,1,.001674300056285,Personne vivant seule
+86,2,.0001895692403195,Famille monoparentale
+86,4,.0007114127511159,Couple sans enfant
+86,6,.0000636163167655,Couple avec enfant
+86,8,.0000659858036377,Autre cas
+86,9,.0003464692342409,Hors logement ordinaire
+87,1,.0015760000865305,Personne vivant seule
+87,2,.0001806981599657,Famille monoparentale
+87,4,.000576235470362,Couple sans enfant
+87,6,.000049748334277,Couple avec enfant
+87,8,.0000568913768917,Autre cas
+87,9,.0003875865106724,Hors logement ordinaire
+88,1,.0014607039010231,Personne vivant seule
+88,2,.0001650935446378,Famille monoparentale
+88,4,.0004545097181108,Couple sans enfant
+88,6,.000042932551878,Couple avec enfant
+88,8,.0000535258223734,Autre cas
+88,9,.0004079079749014,Hors logement ordinaire
+89,1,.0013219981767974,Personne vivant seule
+89,2,.0001528689317638,Famille monoparentale
+89,4,.0003564520447981,Couple sans enfant
+89,6,.0000325185537804,Couple avec enfant
+89,8,.0000472225890452,Autre cas
+89,9,.000435240284131,Hors logement ordinaire
+90,1,.0011530245700716,Personne vivant seule
+90,2,.0001372228289256,Famille monoparentale
+90,4,.0002790190337691,Couple sans enfant
+90,6,.0000284835878119,Couple avec enfant
+90,8,.0000380084473382,Autre cas
+90,9,.0004529895310516,Hors logement ordinaire
+91,1,.0009892387119184,Personne vivant seule
+91,2,.0001191793999169,Famille monoparentale
+91,4,.0002034737699432,Couple sans enfant
+91,6,.0000239213350142,Couple avec enfant
+91,8,.0000345297952688,Autre cas
+91,9,.0004567975496594,Hors logement ordinaire
+92,1,.0008440195012044,Personne vivant seule
+92,2,.0001019171395455,Famille monoparentale
+92,4,.0001534354814794,Couple sans enfant
+92,6,.0000185786793736,Couple avec enfant
+92,8,.000033110210449,Autre cas
+92,9,.0004602226608668,Hors logement ordinaire
+93,1,.0006920900864532,Personne vivant seule
+93,2,.0000898218640941,Famille monoparentale
+93,4,.0001053640517057,Couple sans enfant
+93,6,.0000145395024447,Couple avec enfant
+93,8,.0000226653808957,Autre cas
+93,9,.0004302263929642,Hors logement ordinaire
+94,1,.0005550689442348,Personne vivant seule
+94,2,.0000733529377612,Famille monoparentale
+94,4,.0000855003963807,Couple sans enfant
+94,6,.000011409317267,Couple avec enfant
+94,8,.0000187001988028,Autre cas
+94,9,.0004020541238639,Hors logement ordinaire
+95,1,.0004262530895046,Personne vivant seule
+95,2,.0000589155533817,Famille monoparentale
+95,4,.0000546646188013,Couple sans enfant
+95,6,8.03443799668e-06,Couple avec enfant
+95,8,.000017509666603,Autre cas
+95,9,.0003559131805464,Hors logement ordinaire
+96,1,.0002977083981847,Personne vivant seule
+96,2,.0000423026940553,Famille monoparentale
+96,4,.000039722508518,Couple sans enfant
+96,6,7.83426094131e-06,Couple avec enfant
+96,8,.0000107480272434,Autre cas
+96,9,.0002953668878488,Hors logement ordinaire
+97,1,.0001947387929739,Personne vivant seule
+97,2,.0000301042528008,Famille monoparentale
+97,4,.0000240939898504,Couple sans enfant
+97,6,4.03180729336e-06,Couple avec enfant
+97,8,6.48310656097e-06,Autre cas
+97,9,.0002151772650416,Hors logement ordinaire
+98,1,.0001190407371383,Personne vivant seule
+98,2,.0000201390339498,Famille monoparentale
+98,4,.0000147192249642,Couple sans enfant
+98,6,2.76878449768e-06,Couple avec enfant
+98,8,4.38659078720e-06,Autre cas
+98,9,.0001450348256108,Hors logement ordinaire
+99,1,.0000689356644976,Personne vivant seule
+99,2,.0000142110384331,Famille monoparentale
+99,4,7.91758066043e-06,Couple sans enfant
+99,6,2.23863958126e-06,Couple avec enfant
+99,8,3.10912988459e-06,Autre cas
+99,9,.0000988535762512,Hors logement ordinaire
+100,1,.0000377745820564,Personne vivant seule
+100,2,7.76267279434e-06,Famille monoparentale
+100,4,5.27723386767e-06,Couple sans enfant
+100,6,9.64487526289e-07,Couple avec enfant
+100,8,1.55208341358e-06,Autre cas
+100,9,.000057789690286,Hors logement ordinaire
+101,1,.0000270267052087,Personne vivant seule
+101,2,4.60466435470e-06,Famille monoparentale
+101,4,3.97931944462e-06,Couple sans enfant
+101,6,1.04088849184e-06,Couple avec enfant
+101,8,1.79677718431e-06,Autre cas
+101,9,.0000443217571769,Hors logement ordinaire
+102,1,.0000175404977173,Personne vivant seule
+102,2,4.02518980991e-06,Famille monoparentale
+102,4,2.47446018875e-06,Couple sans enfant
+102,6,6.76479771755e-07,Couple avec enfant
+102,8,1.16767205650e-06,Autre cas
+102,9,.0000339256558238,Hors logement ordinaire
+103,1,.0000123772636406,Personne vivant seule
+103,2,2.87962598122e-06,Famille monoparentale
+103,4,2.34181106862e-06,Couple sans enfant
+103,6,5.88498267007e-07,Couple avec enfant
+103,8,1.36905187149e-06,Autre cas
+103,9,.0000261306477496,Hors logement ordinaire
+104,1,7.19026704650e-06,Personne vivant seule
+104,2,2.53461848843e-06,Famille monoparentale
+104,4,1.60096203672e-06,Couple sans enfant
+104,6,3.11619857030e-07,Couple avec enfant
+104,8,7.20244909655e-07,Autre cas
+104,9,.0000172736957817,Hors logement ordinaire
+105,1,4.25965683361e-06,Personne vivant seule
+105,2,1.41176428770e-06,Famille monoparentale
+105,4,5.87595934576e-07,Couple sans enfant
+105,6,7.14379453370e-08,Couple avec enfant
+105,8,7.34532499218e-07,Autre cas
+105,9,.0000101726133732,Hors logement ordinaire
+106,1,2.97347298158e-06,Personne vivant seule
+106,2,3.34329598672e-07,Famille monoparentale
+106,4,5.03975911670e-07,Couple sans enfant
+106,6,5.77519401190e-08,Couple avec enfant
+106,8,7.51978398053e-08,Autre cas
+106,9,5.92604096369e-06,Hors logement ordinaire
+107,1,1.42093838096e-06,Personne vivant seule
+107,2,2.78532809261e-07,Famille monoparentale
+107,4,6.23690880275e-07,Couple sans enfant
+107,6,2.86503762936e-07,Couple avec enfant
+107,8,1.70699096358e-07,Autre cas
+107,9,3.07092938197e-06,Hors logement ordinaire
+108,1,9.68548176692e-07,Personne vivant seule
+108,2,5.17361122832e-08,Famille monoparentale
+108,4,5.20369063395e-08,Couple sans enfant
+108,6,1.82730744314e-07,Couple avec enfant
+108,8,2.20780857668e-07,Autre cas
+108,9,1.31581180091e-06,Hors logement ordinaire
+109,1,5.42477216355e-07,Personne vivant seule
+109,2,8.19656449380e-08,Famille monoparentale
+109,4,1.74759776428e-07,Couple sans enfant
+109,6,0,Couple avec enfant
+109,8,8.79814725721e-08,Autre cas
+109,9,8.49134007081e-07,Hors logement ordinaire
+110,1,3.65010314415e-07,Personne vivant seule
+110,2,1.46485390928e-07,Famille monoparentale
+110,4,5.51952155092e-08,Couple sans enfant
+110,6,3.01242550904e-07,Couple avec enfant
+110,8,8.99366164071e-08,Autre cas
+110,9,3.54633012522e-07,Hors logement ordinaire
+111,1,2.64094813396e-07,Personne vivant seule
+111,2,0,Famille monoparentale
+111,4,1.45733409340e-07,Couple sans enfant
+111,6,1.65284845366e-07,Couple avec enfant
+111,8,7.57994225237e-08,Autre cas
+111,9,7.47466527664e-08,Hors logement ordinaire
+112,1,2.20780857668e-07,Personne vivant seule
+112,2,1.29490686618e-07,Famille monoparentale
+112,4,1.08736074367e-07,Couple sans enfant
+112,6,3.69973385261e-08,Couple avec enfant
+112,8,0,Autre cas
+112,9,9.02374077663e-08,Hors logement ordinaire
+113,1,3.19741214852e-07,Personne vivant seule
+113,2,8.93350318165e-08,Famille monoparentale
+113,4,1.71751864286e-07,Couple sans enfant
+113,6,0,Couple avec enfant
+113,8,0,Autre cas
+113,9,3.72981285434e-07,Hors logement ordinaire
+114,1,2.78833589998e-07,Personne vivant seule
+114,2,8.60263256186e-08,Famille monoparentale
+114,4,2.63493234343e-07,Couple sans enfant
+114,6,0,Couple avec enfant
+114,8,4.04564378152e-08,Autre cas
+114,9,7.45962570868e-08,Hors logement ordinaire
+115,1,3.51775494609e-07,Personne vivant seule
+115,2,6.37677715076e-08,Famille monoparentale
+115,4,5.89851879340e-07,Couple sans enfant
+115,6,2.52664733580e-07,Couple avec enfant
+115,8,4.31635600482e-08,Autre cas
+115,9,0,Hors logement ordinaire
+116,1,7.89878109314e-07,Personne vivant seule
+116,2,1.48891729168e-07,Famille monoparentale
+116,4,7.72733017129e-07,Couple sans enfant
+116,6,5.76015466436e-08,Couple avec enfant
+116,8,4.02910025677e-07,Autre cas
+116,9,6.88812212616e-08,Hors logement ordinaire
+117,1,4.54495743783e-07,Personne vivant seule
+117,2,0,Famille monoparentale
+117,4,8.65527113092e-07,Couple sans enfant
+117,6,1.81677975775e-07,Couple avec enfant
+117,8,1.00434234844e-06,Autre cas
+117,9,1.50395679611e-08,Hors logement ordinaire
+118,1,1.51899636407e-08,Personne vivant seule
+118,2,0,Famille monoparentale
+118,4,6.48205400466e-08,Couple sans enfant
+118,6,7.00843898471e-08,Couple avec enfant
+118,8,0,Autre cas
+118,9,0,Hors logement ordinaire
+119,1,1.36709672766e-07,Personne vivant seule
+119,2,0,Famille monoparentale
+119,4,6.48205400466e-08,Couple sans enfant
+119,6,0,Couple avec enfant
+119,8,4.39155384463e-08,Autre cas
+119,9,0,Hors logement ordinaire
+120,1,3.23952293881e-07,Personne vivant seule
+120,2,1.07232118296e-07,Famille monoparentale
+120,4,1.71150290385e-07,Couple sans enfant
+120,6,1.85437869504e-07,Couple avec enfant
+120,8,3.36585530968e-07,Autre cas
+120,9,0,Hors logement ordinaire
