@@ -1,4 +1,4 @@
-région1,région2,pays,paysflag,population_totale,taux_natalité,taux_mortalité,espérance_vie,taux_mortalité_infantile,nombre_enfant_femme,taux_croissance,part_65ans,iso3,iso2,paysf
+région1,région2,Pays,paysflag,population_totale,taux_natalité,taux_mortalité,espérance_vie,taux_mortalité_infantile,nombre_enfant_femme,taux_croissance,part_65ans,iso3,iso2,paysf
 Monde,--,Afrique,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7",,,Afrique 
 Monde,--,Amérique Latine-Caraïbes,,667889,"13,8","6,7","76,0","12,6","1,78","6,5","10,2",,,Amérique Latine-Caraïbes 
 Monde,--,Amérique Septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique Septentrionale 
@@ -93,7 +93,7 @@ Europe,Europe de l'Est,Europe de l'Est,,284452,"8,1","12,7","75,1","4,0","1,40",
 Europe,Europe de l'Ouest,Allemagne,🇩🇪,84075,"8,4","12,4","81,7","2,7","1,46","-7,9","23,7",DEU,DE,Allemagne 🇩🇪
 Europe,Europe de l'Ouest,Autriche,🇦🇹,9114,"8,3","10,2","82,3","2,5","1,33","-0,7","21,1",AUT,AT,Autriche 🇦🇹
 Europe,Europe de l'Ouest,Belgique,🇧🇪,11759,"8,6","9,8","82,4","2,8","1,39","1,5","21,0",BEL,BE,Belgique 🇧🇪
-Europe,Europe de l'Ouest,France (hexa.),🇫🇷,66651,"9,5","9,4","83,6","3,1","1,64","1,5","22,5",FRA,FR,France (hexa.) 🇫🇷
+Europe,Europe de l'Ouest,France (métro.),🇫🇷,66651,"9,5","9,4","83,6","3,1","1,64","1,5","22,5",FRA,FR,France (métro.) 🇫🇷
 Europe,Europe de l'Ouest,Luxembourg,🇱🇺,680,"10,2","7,4","82,5","2,8","1,40","10,5","15,8",LUX,LU,Luxembourg 🇱🇺
 Europe,Europe de l'Ouest,Pays-Bas,🇳🇱,18347,"9,5","9,2","82,4","3,0","1,44","6,0","20,9",NLD,NL,Pays-Bas 🇳🇱
 Europe,Europe de l'Ouest,Suisse,🇨🇭,8967,"9,1","8,5","84,2","3,1","1,44","4,8","20,4",CHE,CH,Suisse 🇨🇭
