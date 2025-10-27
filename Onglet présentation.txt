@@ -1,3 +1,14 @@
+=> insertion iframe
+
+<span style="color:#4e4e4e; font-size:15px">Vidéo – TITRE</span>
+
+<CODE IFRAME>
+
+<style>
+.paragraph--type--iframe iframe {margin-left:0px; margin-top:5px}
+</style>
+
+
 
 ESPERANCE DE VIE
 A mettre 
@@ -75,10 +86,143 @@ Espérance de vie à la naissance et mortalité infantile au sein de l'Union eur
 Combien d'années d'écart d’espérance de vie y a-t-il entre le pays où la longévité est la plus élevée et celui où elle est la plus basse ? Dans quel pays la mortalité infantile est-elle la plus faible ?
 
 
+=============================
+FECONDITE NAISSANCES
+=============================
+
+La fécondité en France en chiffres : Ses variations à diverses périodes et selon le mode de calcul 
+
+La fécondité en quelques questions clés
 
 
+Graphique : Evolution de la fécondité de 1901 à 2022
+
+Quelle est la différence entre la fécondité d’une génération et la fécondité d’une année donnée ? Quel est le nombre moyen d’enfants par femme le plus élevé au cours du 20e siècle ?
 
 
+Tableau 1 : Indicateurs conjoncturels de fécondité par âge (titre modifié)
+
+Sur une année en moyenne, combien d’enfants et à quel âge, les femmes ont-elles leur(s) enfant(s) ? D’une année sur l’autre, est-il vrai que le nombre moyen d’enfants est toujours en baisse depuis 30 ans ?
 
 
+Tableau 2 : Nombre moyen d’enfants à divers âges par génération (à faire migrer depuis 3700#17086)
 
+Dans quelle mesure avoir des enfants avant 25 ans est-il de plus en plus rare ? Sachant que le remplacement d’une génération nécessite 2,05 enfants par femme en moyenne, les générations atteignant bientôt 50 ans sont-elles très en dessous de ce seuil ?
+
+ 
+Lecture Tableau 1
+En 1994, l’indicateur conjoncturel de fécondité s’établit à 167,6 pour 100 femmes (soit une moyenne de 1,68 enfant pour 1 femme).
+
+ 
+
+Lecture Tableau 2
+Pour 100 femmes nées en 1885, le nombre cumulé d’enfants mis au monde avant l’âge de 25 ans est de 73. A la fin de leur vie féconde, elles ont eu au total 225 enfants (soit une moyenne de 2,25 enfants pour 1 femme), et ce à l’âge de 28,3 ans en moyenne.
+
+ 
+
+page Présentation
+
+Pour plus de précisions
+
+Animation – Mesurer la fécondité
+https://www.ined.fr/fr/tout-savoir-population/videos/animation-mesurer-la-fecondite/
+
+Vidéo – Natalité et fécondité
+https://www.ined.fr/fr/tout-savoir-population/videos/taux-de-natalite/
+
+Revue Population – article de conjoncture (page 455)
+https://www.revue-population.fr/wp-content/uploads/sites/37/2025/07/POPU_Rapport-2024-avec-compression.pdf
+
+The Conversation – Fécondité française : anatomie d’une chute
+https://theconversation.com/fecondite-francaise-anatomie-dune-chute-222555
+
+ 
+
+Tableau 1
+Pour plus de précisions
+
+Base de données : Population de la France – séries longues
+https://www.ined.fr/fr/tout-savoir-population/chiffres/bases-donnees/population-de-la-france-series-longues/
+
+Insee Résultats - Bilan démographique 2024 et tableaux rétrospectifs
+https://www.insee.fr/fr/statistiques/8313951?sommaire=8313983
+
+
+Tableau 2
+Pour plus de précisions
+
+Base de données : Population de la France – séries longues
+https://www.ined.fr/fr/tout-savoir-population/chiffres/bases-donnees/population-de-la-france-series-longues/
+
+Insee Résultats - Bilan démographique 2024 et tableaux rétrospectifs
+https://www.insee.fr/fr/statistiques/8313951?sommaire=8313983
+
+=================================
+
+
+La fécondité en France en chiffres : Situation des parents à l’arrivée de l’enfant 
+
+La fécondité en quelques questions clés
+
+
+Graphique : Evolution conjointe des âges au mariage et à la maternité et de la fréquence des naissances hors mariage
+Quelle est actuellement la proportion de nouveau-nés dont les parents ne sont pas mariés ? Qu’est ce qui, démographiquement, en est la cause ?
+
+ 
+
+Tableau 1 : Naissances hors mariage
+
+Combien y a-t-il de de naissances en France ? Est-il vrai qu’actuellement la majorité surviennent en dehors d’un couple marié ?
+
+
+Tableau 2 : Naissances selon le statut migratoire des parents (titre modifié)
+Quelle est la part des enfants issus de deux parents nés en France ? La "seconde génération" est le groupe des personnes nées en France avec au moins un parent est immigré. Est-elle de plus en plus nombreuse?
+
+ 
+
+Lecture Tableau 1
+En 1994, il est né 740 774 enfants, dont 37,2 % issus de parents non mariés.
+
+
+Lecture Tableau 2
+En 1998, pour 100 naissances, 76,8 % étaient issus de deux parents nés en France, 13,8 % étaient issus d’un couple dont l’un des parents est né à l’étranger, et 9,4 % avaient leurs deux parents nés à l’étranger.
+
+ 
+
+Sommaire
+
+Pour plus de précisions
+
+Animation – Mesurer la fécondité
+https://www.ined.fr/fr/tout-savoir-population/videos/animation-mesurer-la-fecondite/
+
+Vidéo – Natalité et fécondité
+https://www.ined.fr/fr/tout-savoir-population/videos/taux-de-natalite/
+
+Revue Population – article de conjoncture (page 455)
+https://www.revue-population.fr/wp-content/uploads/sites/37/2025/07/POPU_Rapport-2024-avec-compression.pdf
+
+Base de données : Population de la France – séries longues
+https://www.ined.fr/fr/tout-savoir-population/chiffres/bases-donnees/population-de-la-france-series-longues/
+
+Insee Focus – L’âge au premier enfant
+https://www.insee.fr/fr/statistiques/8608134
+
+ 
+
+Tableau 1
+
+Pour plus de précisions
+
+Question du jour – Le double-nom des enfants
+https://www.ined.fr/fr/tout-savoir-population/memos-demo/faq/en-france-les-enfants-portent-ils-le-nom-de-famille-de-leurs-deux-parents/
+
+ 
+Tableau 2
+
+Pour plus de précisions
+
+Insee Première - Combien les femmes immigrées ont-elles d’enfants ?
+https://www.insee.fr/fr/statistiques/6801884
+
+ 
