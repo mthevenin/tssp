@@ -1,7 +1,7 @@
-diplôme,hommes35,femmes35,hommes65,femmes65
-Sans diplôme,40.5,47.2,16.7,20.9
-Brevet,43.6,50.5,18.3,22.9
-CAP-BEP,44.9,51.1,19,23.3
-Baccalauréat,46.5,51.7,19.5,23.7
-Supérieur,48.5,52.6,20.7,24
-Ensemble,45.3,50.8,18.9,22.9
+diplôme,femmes35,hommes35,femmes65,hommes65,diplomeEn,x
+Sans diplôme,47.2,40.5,20.9,16.7,No diploma,
+Brevet,50.5,43.6,22.9,18.3,Brevet,
+CAP-BEP,51.1,44.9,23.3,19,CAP-BEP,
+Baccalauréat,51.7,46.5,23.7,19.5,Baccalaureate,
+Supérieur,52.6,48.5,24,20.7,Higher education,
+Ensemble ,50.8,45.3,22.9,18.9,Total ,
