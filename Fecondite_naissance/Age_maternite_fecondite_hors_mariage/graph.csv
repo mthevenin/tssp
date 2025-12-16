@@ -110,7 +110,7 @@ annee,type,typeNum,ageM,pHorsM
 2009,Âge moyen à la 1ère naissance,1,28,52.90000152587891
 2010,Âge moyen à la 1ère naissance,1,28.1,54.09999847412109
 2011,Âge moyen à la 1ère naissance,1,,55
-2012,Âge moyen à la 1ère naissance,1,,55.79999923706055
+2012,Âge moyen à la 1ère naissance,1,n.d.,55.79999923706055
 2013,Âge moyen à la 1ère naissance,1,28.1,56.40000152587891
 2014,Âge moyen à la 1ère naissance,1,28.3,57.5
 2015,Âge moyen à la 1ère naissance,1,28.4,57.90000152587891
@@ -121,6 +121,8 @@ annee,type,typeNum,ageM,pHorsM
 2020,Âge moyen à la 1ère naissance,1,28.9,61.09999847412109
 2021,Âge moyen à la 1ère naissance,1,29.1,62.29999923706055
 2022,Âge moyen à la 1ère naissance,1,29.1,63.90000152587891
+2023,Âge moyen à la 1ère naissance,1,29.1,56.9
+2024,,,,58.2
 1946,Âge moyen au premier mariage,2,24.3,
 1947,Âge moyen au premier mariage,2,24,
 1948,Âge moyen au premier mariage,2,23.8,
