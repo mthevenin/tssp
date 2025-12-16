@@ -32,7 +32,8 @@ annee,type,n,provisoire
 2020,Mariages sexes différents,149983,
 2021,Mariages sexes différents,212413,
 2022,Mariages sexes différents,234841,
-2023,Mariages sexes différents,235000,Provisoire
+2023,Mariages sexes différents,234466,
+2024,Mariages sexes différents,240000,Provisoire
 2013,Ensemble des mariages,238592,
 2014,Ensemble des mariages,241292,
 2015,Ensemble des mariages,236316,
@@ -43,7 +44,8 @@ annee,type,n,provisoire
 2020,Ensemble des mariages,154581,
 2021,Ensemble des mariages,218819,
 2022,Ensemble des mariages,241710,
-2023,Ensemble des mariages,242000,Provisoire
+2023,Ensemble des mariages,241080,
+2024,Ensemble des mariages,247000,Provisoire
 1999,Pacs,6151,
 2000,Pacs,22271,
 2001,Pacs,19629,
@@ -68,3 +70,4 @@ annee,type,n,provisoire
 2020,Pacs,173894,Provisoire
 2021,Pacs,209461,Provisoire
 2022,Pacs,209827,Provisoire
+2023,Pacs,204061,Provisoire
