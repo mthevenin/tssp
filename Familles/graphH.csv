@@ -1,721 +1,721 @@
-age,j,c,structure
-1,1,0,Personne vivant seule
-1,2,-.0005428790464066,Famille monoparentale
-1,4,-2.97978954222e-06,Couple sans enfant
-1,6,-.0047920872457325,Couple avec enfant
-1,8,-.0002099245455355,Autre cas
-1,9,-.0000366245062944,Hors logement ordinaire
-2,1,0,Personne vivant seule
-2,2,-.0006470231455751,Famille monoparentale
-2,4,-3.53429845745e-06,Couple sans enfant
-2,6,-.0047850254923105,Couple avec enfant
-2,8,-.00020132371741,Autre cas
-2,9,-.0000322991265488,Hors logement ordinaire
-3,1,0,Personne vivant seule
-3,2,-.0007783164619468,Famille monoparentale
-3,4,-3.02746502712e-06,Couple sans enfant
-3,6,-.0048810821026564,Couple avec enfant
-3,8,-.0001885074487806,Autre cas
-3,9,-.000030116283655,Hors logement ordinaire
-4,1,0,Personne vivant seule
-4,2,-.0008891228935681,Famille monoparentale
-4,4,-4.25273856308e-06,Couple sans enfant
-4,6,-.0049096662551165,Couple avec enfant
-4,8,-.0001751306554533,Autre cas
-4,9,-.0000274754859167,Hors logement ordinaire
-5,1,0,Personne vivant seule
-5,2,-.0009881870355457,Famille monoparentale
-5,4,-4.66768051410e-06,Couple sans enfant
-5,6,-.0049204803071916,Couple avec enfant
-5,8,-.0001736078991973,Autre cas
-5,9,-.0000305916843982,Hors logement ordinaire
-6,1,0,Personne vivant seule
-6,2,-.0010855002328753,Famille monoparentale
-6,4,-6.23720961812e-06,Couple sans enfant
-6,6,-.0049580810591578,Couple avec enfant
-6,8,-.0001682462932192,Autre cas
-6,9,-.0000303919589357,Hors logement ordinaire
-7,1,0,Personne vivant seule
-7,2,-.001172129297629,Famille monoparentale
-7,4,-5.11631060363e-06,Couple sans enfant
-7,6,-.0049810418859124,Couple avec enfant
-7,8,-.0001649845117198,Autre cas
-7,9,-.000031766725843,Hors logement ordinaire
-8,1,0,Personne vivant seule
-8,2,-.0012375221122056,Famille monoparentale
-8,4,-6.06139701631e-06,Couple sans enfant
-8,6,-.0049222838133574,Couple avec enfant
-8,8,-.00016343438345,Autre cas
-8,9,-.0000297422495998,Hors logement ordinaire
-9,1,0,Personne vivant seule
-9,2,-.0012746565043926,Famille monoparentale
-9,4,-5.88708826399e-06,Couple sans enfant
-9,6,-.0049141705967486,Couple avec enfant
-9,8,-.000161880645684,Autre cas
-9,9,-.0000335683156891,Hors logement ordinaire
-10,1,0,Personne vivant seule
-10,2,-.0013401142787188,Famille monoparentale
-10,4,-6.94467098583e-06,Couple sans enfant
-10,6,-.0048836595378816,Couple avec enfant
-10,8,-.0001561995992824,Autre cas
-10,9,-.0000358028946967,Hors logement ordinaire
-11,1,0,Personne vivant seule
-11,2,-.0013671859633178,Famille monoparentale
-11,4,-6.44671081318e-06,Couple sans enfant
-11,6,-.0048433663323522,Couple avec enfant
-11,8,-.0001553712198791,Autre cas
-11,9,-.000037502065085,Hors logement ordinaire
-12,1,0,Personne vivant seule
-12,2,-.0014012178871781,Famille monoparentale
-12,4,-6.68042548568e-06,Couple sans enfant
-12,6,-.0047424170188606,Couple avec enfant
-12,8,-.0001597514940477,Autre cas
-12,9,-.0000358836571767,Hors logement ordinaire
-13,1,0,Personne vivant seule
-13,2,-.0014340820489451,Famille monoparentale
-13,4,-8.71031625138e-06,Couple sans enfant
-13,6,-.0046356278471649,Couple avec enfant
-13,8,-.0001537782288406,Autre cas
-13,9,-.0000392893673414,Hors logement ordinaire
-14,1,0,Personne vivant seule
-14,2,-.0014803144149482,Famille monoparentale
-14,4,-8.09805533208e-06,Couple sans enfant
-14,6,-.0046257809735835,Couple avec enfant
-14,8,-.0001543715397967,Autre cas
-14,9,-.0000440542032629,Hors logement ordinaire
-15,1,-9.57704648192e-06,Personne vivant seule
-15,2,-.0015434955712408,Famille monoparentale
-15,4,-.0000100145471151,Couple sans enfant
-15,6,-.0045680454932153,Couple avec enfant
-15,8,-.0001700200598645,Autre cas
-15,9,-.0000492013450019,Hors logement ordinaire
-16,1,-.000016584432382,Personne vivant seule
-16,2,-.0015953227411956,Famille monoparentale
-16,4,-.0000162753694894,Couple sans enfant
-16,6,-.0045428974553943,Couple avec enfant
-16,8,-.0001802290689921,Autre cas
-16,9,-.0000633576391366,Hors logement ordinaire
-17,1,-.0000306731988566,Personne vivant seule
-17,2,-.0016229047905654,Famille monoparentale
-17,4,-.0000153910423251,Couple sans enfant
-17,6,-.0044445460662246,Couple avec enfant
-17,8,-.0001989333284782,Autre cas
-17,9,-.0000820871650968,Hors logement ordinaire
-18,1,-.0000860272311113,Personne vivant seule
-18,2,-.0016604433767498,Famille monoparentale
-18,4,-.0000304103068629,Couple sans enfant
-18,6,-.0043480945751071,Couple avec enfant
-18,8,-.0001624536532233,Autre cas
-18,9,-.0001254495482335,Hors logement ordinaire
-19,1,-.0006753328494353,Personne vivant seule
-19,2,-.0013953846646473,Famille monoparentale
-19,4,-.0000861544685904,Couple sans enfant
-19,6,-.0032406912650913,Couple avec enfant
-19,8,-.0003250590556873,Autre cas
-19,9,-.0006288596820616,Hors logement ordinaire
-20,1,-.0008628857368374,Personne vivant seule
-20,2,-.0012907256605104,Famille monoparentale
-20,4,-.0001582849799888,Couple sans enfant
-20,6,-.0029257542919368,Couple avec enfant
-20,8,-.0003915022125867,Autre cas
-20,9,-.0004645988743521,Hors logement ordinaire
-21,1,-.0010008182768743,Personne vivant seule
-21,2,-.0011400899384171,Famille monoparentale
-21,4,-.0002859310770873,Couple sans enfant
-21,6,-.0026421146467328,Couple avec enfant
-21,8,-.0004675738512905,Autre cas
-21,9,-.000368561757993,Hors logement ordinaire
-22,1,-.0010279659002094,Personne vivant seule
-22,2,-.001003586105071,Famille monoparentale
-22,4,-.0004491055733524,Couple sans enfant
-22,6,-.0023877648636699,Couple avec enfant
-22,8,-.0004946041659955,Autre cas
-22,9,-.0003314672651998,Hors logement ordinaire
-23,1,-.0010699596826616,Personne vivant seule
-23,2,-.000904283078853,Famille monoparentale
-23,4,-.0006411231006496,Couple sans enfant
-23,6,-.0022043923381716,Couple avec enfant
-23,8,-.0004992768093654,Autre cas
-23,9,-.0003098406672632,Hors logement ordinaire
-24,1,-.0011138463451374,Personne vivant seule
-24,2,-.0008116913377307,Famille monoparentale
-24,4,-.0008626586641185,Couple sans enfant
-24,6,-.0020417619962245,Couple avec enfant
-24,8,-.0005124720751074,Autre cas
-24,9,-.0002752985395486,Hors logement ordinaire
-25,1,-.0011544103158636,Personne vivant seule
-25,2,-.0007128810975701,Famille monoparentale
-25,4,-.0011010756716132,Couple sans enfant
-25,6,-.0018991339020431,Couple avec enfant
-25,8,-.0004798291440349,Autre cas
-25,9,-.0002614774773838,Hors logement ordinaire
-26,1,-.0011940797330874,Personne vivant seule
-26,2,-.0006130028632469,Famille monoparentale
-26,4,-.001325806020759,Couple sans enfant
-26,6,-.0018076606793329,Couple avec enfant
-26,8,-.0004680438377893,Autre cas
-26,9,-.000225902732933,Hors logement ordinaire
-27,1,-.0012353887640103,Personne vivant seule
-27,2,-.0005355853354558,Famille monoparentale
-27,4,-.0014853111933917,Couple sans enfant
-27,6,-.0017760818591341,Couple avec enfant
-27,8,-.0004520733205715,Autre cas
-27,9,-.000201304466763,Hors logement ordinaire
-28,1,-.0012371142536425,Personne vivant seule
-28,2,-.0004637527454179,Famille monoparentale
-28,4,-.0015916225966066,Couple sans enfant
-28,6,-.0018500054720789,Couple avec enfant
-28,8,-.0004123529192122,Autre cas
-28,9,-.0001890730869316,Hors logement ordinaire
-29,1,-.0012121405998561,Personne vivant seule
-29,2,-.000422025914304,Famille monoparentale
-29,4,-.0015806794399396,Couple sans enfant
-29,6,-.0020232072565705,Couple avec enfant
-29,8,-.0003754291255154,Autre cas
-29,9,-.0001708890461013,Hors logement ordinaire
-30,1,-.0011858760999517,Personne vivant seule
-30,2,-.0003733295889106,Famille monoparentale
-30,4,-.0014917057706043,Couple sans enfant
-30,6,-.0022925822995603,Couple avec enfant
-30,8,-.0003292752481695,Autre cas
-30,9,-.0001518274464804,Hors logement ordinaire
-31,1,-.0011638771223123,Personne vivant seule
-31,2,-.0003481502062641,Famille monoparentale
-31,4,-.0013855090364814,Couple sans enfant
-31,6,-.0025505989324301,Couple avec enfant
-31,8,-.0002973242876189,Autre cas
-31,9,-.0001429646290809,Hors logement ordinaire
-32,1,-.0011035747714071,Personne vivant seule
-32,2,-.0003070773091167,Famille monoparentale
-32,4,-.0012071415549144,Couple sans enfant
-32,6,-.0028196808416396,Couple avec enfant
-32,8,-.0002667956190105,Autre cas
-32,9,-.0001311003651035,Hors logement ordinaire
-33,1,-.0010894485564083,Personne vivant seule
-33,2,-.000303672044538,Famille monoparentale
-33,4,-.0010950427968055,Couple sans enfant
-33,6,-.0030824816785753,Couple avec enfant
-33,8,-.0002525354014612,Autre cas
-33,9,-.0001290955906943,Hors logement ordinaire
-34,1,-.001074258893559,Personne vivant seule
-34,2,-.0002949369081762,Famille monoparentale
-34,4,-.0009605257655494,Couple sans enfant
-34,6,-.0033382228575647,Couple avec enfant
-34,8,-.0002271437980812,Autre cas
-34,9,-.000116411670263,Hors logement ordinaire
-35,1,-.0010712714337792,Personne vivant seule
-35,2,-.0002981388242915,Famille monoparentale
-35,4,-.0008382265805267,Couple sans enfant
-35,6,-.0035764030180871,Couple avec enfant
-35,8,-.000222463334136,Autre cas
-35,9,-.0001174342104887,Hors logement ordinaire
-36,1,-.0010559951430185,Personne vivant seule
-36,2,-.0002920891565736,Famille monoparentale
-36,4,-.000765671604313,Couple sans enfant
-36,6,-.0037012510001659,Couple avec enfant
-36,8,-.000200967430045,Autre cas
-36,9,-.0001097001126647,Hors logement ordinaire
-37,1,-.0010329704668442,Personne vivant seule
-37,2,-.0002994902897626,Famille monoparentale
-37,4,-.0006793715874664,Couple sans enfant
-37,6,-.0038504446856678,Couple avec enfant
-37,8,-.0001943963420114,Autre cas
-37,9,-.000106485405013,Hors logement ordinaire
-38,1,-.0010151953518667,Personne vivant seule
-38,2,-.0003028549253941,Famille monoparentale
-38,4,-.0006228433921933,Couple sans enfant
-38,6,-.0039405506104231,Couple avec enfant
-38,8,-.0001791117794883,Autre cas
-38,9,-.0001060972337639,Hors logement ordinaire
-39,1,-.0010153562752439,Personne vivant seule
-39,2,-.0003046977508347,Famille monoparentale
-39,4,-.0005629743682221,Couple sans enfant
-39,6,-.0039230743423104,Couple avec enfant
-39,8,-.0001719746021167,Autre cas
-39,9,-.0001057925321171,Hors logement ordinaire
-40,1,-.0010034825363386,Personne vivant seule
-40,2,-.0003190730058122,Famille monoparentale
-40,4,-.0005420501111075,Couple sans enfant
-40,6,-.0039384011179209,Couple avec enfant
-40,8,-.0001658528963738,Autre cas
-40,9,-.0000982070252245,Hors logement ordinaire
-41,1,-.000991659179986,Personne vivant seule
-41,2,-.0003236299962737,Famille monoparentale
-41,4,-.0005068575264886,Couple sans enfant
-41,6,-.00398775562644,Couple avec enfant
-41,8,-.0001590091409732,Autre cas
-41,9,-.0001037888104776,Hors logement ordinaire
-42,1,-.0010130299548716,Personne vivant seule
-42,2,-.0003567129897419,Famille monoparentale
-42,4,-.0005050477921031,Couple sans enfant
-42,6,-.0041148844175041,Couple avec enfant
-42,8,-.0001561953882033,Autre cas
-42,9,-.0000989561461047,Hors logement ordinaire
-43,1,-.0010606465805974,Personne vivant seule
-43,2,-.0003808984183706,Famille monoparentale
-43,4,-.0005078660324216,Couple sans enfant
-43,6,-.0041939676739275,Couple avec enfant
-43,8,-.0001597878898022,Autre cas
-43,9,-.0000981838642899,Hors logement ordinaire
-44,1,-.0011072716476076,Personne vivant seule
-44,2,-.0004148717562202,Famille monoparentale
-44,4,-.0005354637978598,Couple sans enfant
-44,6,-.004310957621783,Couple avec enfant
-44,8,-.0001560416838188,Autre cas
-44,9,-.0000967496910891,Hors logement ordinaire
-45,1,-.0011360220377003,Personne vivant seule
-45,2,-.0004342072061263,Famille monoparentale
-45,4,-.0005581100704148,Couple sans enfant
-45,6,-.0043338965624571,Couple avec enfant
-45,8,-.0001602724646819,Autre cas
-45,9,-.0000999475544247,Hors logement ordinaire
-46,1,-.0011807636996147,Personne vivant seule
-46,2,-.0004526005941443,Famille monoparentale
-46,4,-.0005958041874692,Couple sans enfant
-46,6,-.0042966110631824,Couple avec enfant
-46,8,-.0001679217393426,Autre cas
-46,9,-.0000999758288124,Hors logement ordinaire
-47,1,-.0011740470285633,Personne vivant seule
-47,2,-.0004704346647486,Famille monoparentale
-47,4,-.0006434835377149,Couple sans enfant
-47,6,-.0041936333291233,Couple avec enfant
-47,8,-.0001723370557046,Autre cas
-47,9,-.0001052407303686,Hors logement ordinaire
-48,1,-.0011836177584267,Personne vivant seule
-48,2,-.0004748566134367,Famille monoparentale
-48,4,-.0007082305382937,Couple sans enfant
-48,6,-.0040308157913387,Couple avec enfant
-48,8,-.0001698383818835,Autre cas
-48,9,-.0000934145164981,Hors logement ordinaire
-49,1,-.0011874525474654,Personne vivant seule
-49,2,-.0004733767127618,Famille monoparentale
-49,4,-.0008270727703348,Couple sans enfant
-49,6,-.0038432851433754,Couple avec enfant
-49,8,-.0001705363682326,Autre cas
-49,9,-.0000963087309565,Hors logement ordinaire
-50,1,-.0011928633328307,Personne vivant seule
-50,2,-.0004711371730082,Famille monoparentale
-50,4,-.0009574470459484,Couple sans enfant
-50,6,-.0037394356913865,Couple avec enfant
-50,8,-.0001767516200882,Autre cas
-50,9,-.0000963706939765,Hors logement ordinaire
-51,1,-.0012168625730089,Personne vivant seule
-51,2,-.0004749515210278,Famille monoparentale
-51,4,-.0011226508067921,Couple sans enfant
-51,6,-.0035533760674298,Couple avec enfant
-51,8,-.0001813705722004,Autre cas
-51,9,-.0000984466055422,Hors logement ordinaire
-52,1,-.0012465455667109,Personne vivant seule
-52,2,-.0004534486797638,Famille monoparentale
-52,4,-.0013152208412066,Couple sans enfant
-52,6,-.003358754562214,Couple avec enfant
-52,8,-.0001856712870545,Autre cas
-52,9,-.0000977074107769,Hors logement ordinaire
-53,1,-.0012592433235447,Personne vivant seule
-53,2,-.0004391995898914,Famille monoparentale
-53,4,-.0015076322015375,Couple sans enfant
-53,6,-.0031187667045742,Couple avec enfant
-53,8,-.0001878393911718,Autre cas
-53,9,-.0000915106575899,Hors logement ordinaire
-54,1,-.0012466204637593,Personne vivant seule
-54,2,-.0004268626507837,Famille monoparentale
-54,4,-.001727940980345,Couple sans enfant
-54,6,-.0028572790324688,Couple avec enfant
-54,8,-.0001901287142068,Autre cas
-54,9,-.0000881487125679,Hors logement ordinaire
-55,1,-.0012684198663318,Personne vivant seule
-55,2,-.000401661003707,Famille monoparentale
-55,4,-.0019576684571803,Couple sans enfant
-55,6,-.0025997983757406,Couple avec enfant
-55,8,-.0001928779472301,Autre cas
-55,9,-.0000972775799245,Hors logement ordinaire
-56,1,-.0012415220502205,Personne vivant seule
-56,2,-.0003731554315891,Famille monoparentale
-56,4,-.0021439471747726,Couple sans enfant
-56,6,-.002343392232433,Couple avec enfant
-56,8,-.0001993783492942,Autre cas
-56,9,-.0000899324053281,Hors logement ordinaire
-57,1,-.0012378736014289,Personne vivant seule
-57,2,-.0003351895720698,Famille monoparentale
-57,4,-.0023626848123968,Couple sans enfant
-57,6,-.0020872608292848,Couple avec enfant
-57,8,-.000199441816271,Autre cas
-57,9,-.000084791880999,Hors logement ordinaire
-58,1,-.0012270951942582,Personne vivant seule
-58,2,-.0003149527765345,Famille monoparentale
-58,4,-.0025629163719714,Couple sans enfant
-58,6,-.00183593807742,Couple avec enfant
-58,8,-.0002031459114641,Autre cas
-58,9,-.0000825255685029,Hors logement ordinaire
-59,1,-.0012168263276501,Personne vivant seule
-59,2,-.0002829652512446,Famille monoparentale
-59,4,-.0027706508990377,Couple sans enfant
-59,6,-.0016302770236507,Couple avec enfant
-59,8,-.0001994974626725,Autre cas
-59,9,-.0000881509685031,Hors logement ordinaire
-60,1,-.0011892234565928,Personne vivant seule
-60,2,-.0002591185329948,Famille monoparentale
-60,4,-.0029162494465709,Couple sans enfant
-60,6,-.0014155629323795,Couple avec enfant
-60,8,-.0002015673584109,Autre cas
-60,9,-.0000817624608246,Hors logement ordinaire
-61,1,-.0011599561565492,Personne vivant seule
-61,2,-.0002247534139315,Famille monoparentale
-61,4,-.0030409798491746,Couple sans enfant
-61,6,-.0012500914745033,Couple avec enfant
-61,8,-.0001969058443214,Autre cas
-61,9,-.0000847282636265,Hors logement ordinaire
-62,1,-.0011376765405717,Personne vivant seule
-62,2,-.0002038356324192,Famille monoparentale
-62,4,-.0031536149326712,Couple sans enfant
-62,6,-.0010853833518922,Couple avec enfant
-62,8,-.0001916734282321,Autre cas
-62,9,-.0000850022845547,Hors logement ordinaire
-63,1,-.0011342428568105,Personne vivant seule
-63,2,-.0001806095679058,Famille monoparentale
-63,4,-.0033084985334426,Couple sans enfant
-63,6,-.0009828581241891,Couple avec enfant
-63,8,-.0001957150113303,Autre cas
-63,9,-.000089056049703,Hors logement ordinaire
-64,1,-.0010969979683377,Personne vivant seule
-64,2,-.0001647530589253,Famille monoparentale
-64,4,-.0034002864267677,Couple sans enfant
-64,6,-.0008561934228055,Couple avec enfant
-64,8,-.0001894441130732,Autre cas
-64,9,-.0000791854308544,Hors logement ordinaire
-65,1,-.0010902528725028,Personne vivant seule
-65,2,-.000152504973812,Famille monoparentale
-65,4,-.0034741249401122,Couple sans enfant
-65,6,-.0007497283513658,Couple avec enfant
-65,8,-.0001808381714945,Autre cas
-65,9,-.0000845655355012,Hors logement ordinaire
-66,1,-.0010816285826513,Personne vivant seule
-66,2,-.000131657885504,Famille monoparentale
-66,4,-.003542783902958,Couple sans enfant
-66,6,-.0006877343403175,Couple avec enfant
-66,8,-.0001811297887173,Autre cas
-66,9,-.0000799670372014,Hors logement ordinaire
-67,1,-.0010655759493924,Personne vivant seule
-67,2,-.0001209325637319,Famille monoparentale
-67,4,-.0036406493745744,Couple sans enfant
-67,6,-.0006139642209746,Couple avec enfant
-67,8,-.0001723621717831,Autre cas
-67,9,-.0000861228827635,Hors logement ordinaire
-68,1,-.0010482460056265,Personne vivant seule
-68,2,-.0001089919023798,Famille monoparentale
-68,4,-.0036554071120918,Couple sans enfant
-68,6,-.0005575416143984,Couple avec enfant
-68,8,-.0001739357617788,Autre cas
-68,9,-.0000860067772989,Hors logement ordinaire
-69,1,-.0010020770887126,Personne vivant seule
-69,2,-.0000963463317021,Famille monoparentale
-69,4,-.0036841386463493,Couple sans enfant
-69,6,-.0004967927234247,Couple avec enfant
-69,8,-.0001673383545013,Autre cas
-69,9,-.0000824834577126,Hors logement ordinaire
-70,1,-.0009299321308078,Personne vivant seule
-70,2,-.0000847022456583,Famille monoparentale
-70,4,-.0034872102551162,Couple sans enfant
-70,6,-.0004242383874953,Couple avec enfant
-70,8,-.0001467341463947,Autre cas
-70,9,-.0000834047816459,Hors logement ordinaire
-71,1,-.0008491687484829,Personne vivant seule
-71,2,-.0000718043083907,Famille monoparentale
-71,4,-.003197685116902,Couple sans enfant
-71,6,-.0003718736115843,Couple avec enfant
-71,8,-.0001303011624621,Autre cas
-71,9,-.0000826452834639,Hors logement ordinaire
-72,1,-.0007617724655001,Personne vivant seule
-72,2,-.0000618598496658,Famille monoparentale
-72,4,-.0029576197266579,Couple sans enfant
-72,6,-.0003234573523514,Couple avec enfant
-72,8,-.0001211595114726,Autre cas
-72,9,-.0000743178746839,Hors logement ordinaire
-73,1,-.0006936590141829,Personne vivant seule
-73,2,-.0000523267190147,Famille monoparentale
-73,4,-.0026629441417754,Couple sans enfant
-73,6,-.0002831216843333,Couple avec enfant
-73,8,-.0001095364821653,Autre cas
-73,9,-.0000774115138134,Hors logement ordinaire
-74,1,-.0006258051458087,Personne vivant seule
-74,2,-.0000435315778304,Famille monoparentale
-74,4,-.0023635262623429,Couple sans enfant
-74,6,-.0002388752618572,Couple avec enfant
-74,8,-.0000956875967997,Autre cas
-74,9,-.0000707858321482,Hors logement ordinaire
-75,1,-.0005825627784244,Personne vivant seule
-75,2,-.0000421607219323,Famille monoparentale
-75,4,-.0022554215975106,Couple sans enfant
-75,6,-.0002186900528613,Couple avec enfant
-75,8,-.0000940057219146,Autre cas
-75,9,-.000071023908509,Hors logement ordinaire
-76,1,-.0005712039943261,Personne vivant seule
-76,2,-.0000441546690126,Famille monoparentale
-76,4,-.002126234350726,Couple sans enfant
-76,6,-.0001990071759792,Couple avec enfant
-76,8,-.0000861950726897,Autre cas
-76,9,-.0000729554402223,Hors logement ordinaire
-77,1,-.0005428942635746,Personne vivant seule
-77,2,-.0000400076569349,Famille monoparentale
-77,4,-.002027208218351,Couple sans enfant
-77,6,-.0001810366957216,Couple avec enfant
-77,8,-.0000834353119689,Autre cas
-77,9,-.0000737728407409,Hors logement ordinaire
-78,1,-.0005290507924535,Personne vivant seule
-78,2,-.0000374187475245,Famille monoparentale
-78,4,-.0019555054605007,Couple sans enfant
-78,6,-.0001711381046334,Couple avec enfant
-78,8,-.0000765326014618,Autre cas
-78,9,-.0000769297964516,Hors logement ordinaire
-79,1,-.0005239723815401,Personne vivant seule
-79,2,-.0000352539500454,Famille monoparentale
-79,4,-.0019137006020173,Couple sans enfant
-79,6,-.0001646077726036,Couple avec enfant
-79,8,-.0000758738683851,Autre cas
-79,9,-.0000801282613699,Hors logement ordinaire
-80,1,-.0005257193777545,Personne vivant seule
-80,2,-.0000363364997611,Famille monoparentale
-80,4,-.0018123171757907,Couple sans enfant
-80,6,-.000146585109178,Couple avec enfant
-80,8,-.0000687774482427,Autre cas
-80,9,-.0000855110731389,Hors logement ordinaire
-81,1,-.0005193520758668,Personne vivant seule
-81,2,-.0000357622884621,Famille monoparentale
-81,4,-.0017112415516749,Couple sans enfant
-81,6,-.0001387209194945,Couple avec enfant
-81,8,-.0000689738650003,Autre cas
-81,9,-.0000912972461205,Hors logement ordinaire
-82,1,-.0005006421013449,Personne vivant seule
-82,2,-.0000389756423829,Famille monoparentale
-82,4,-.0015740485396236,Couple sans enfant
-82,6,-.0001245181483682,Couple avec enfant
-82,8,-.0000645102716251,Autre cas
-82,9,-.0001004691266416,Hors logement ordinaire
-83,1,-.0004934268686156,Personne vivant seule
-83,2,-.0000391027278965,Famille monoparentale
-83,4,-.0014667719369754,Couple sans enfant
-83,6,-.0001123965557781,Couple avec enfant
-83,8,-.0000576374898582,Autre cas
-83,9,-.0001037615888596,Hors logement ordinaire
-84,1,-.0004647730325491,Personne vivant seule
-84,2,-.0000371478818124,Famille monoparentale
-84,4,-.0013248663162813,Couple sans enfant
-84,6,-.0001049973870977,Couple avec enfant
-84,8,-.0000544697056586,Autre cas
-84,9,-.0001150863835343,Hors logement ordinaire
-85,1,-.00044782298827,Personne vivant seule
-85,2,-.0000366411986761,Famille monoparentale
-85,4,-.001194060081616,Couple sans enfant
-85,6,-.0000896634956007,Couple avec enfant
-85,8,-.0000503470592891,Autre cas
-85,9,-.0001177289860207,Hors logement ordinaire
-86,1,-.0004284434521824,Personne vivant seule
-86,2,-.0000316373843816,Famille monoparentale
-86,4,-.0010337240528315,Couple sans enfant
-86,6,-.0000817774998723,Couple avec enfant
-86,8,-.0000421044736724,Autre cas
-86,9,-.0001219125426404,Hors logement ordinaire
-87,1,-.0003947462473959,Personne vivant seule
-87,2,-.0000341244776791,Famille monoparentale
-87,4,-.0009023651946336,Couple sans enfant
-87,6,-.0000645131294732,Couple avec enfant
-87,8,-.0000374539384675,Autre cas
-87,9,-.000126245893357,Hors logement ordinaire
-88,1,-.000349835841529,Personne vivant seule
-88,2,-.0000287971633952,Famille monoparentale
-88,4,-.000744576798752,Couple sans enfant
-88,6,-.0000554755533813,Couple avec enfant
-88,8,-.0000299523523642,Autre cas
-88,9,-.0001341824237658,Hors logement ordinaire
-89,1,-.0003113862836625,Personne vivant seule
-89,2,-.0000259940879914,Famille monoparentale
-89,4,-.0006037706625648,Couple sans enfant
-89,6,-.0000431191947428,Couple avec enfant
-89,8,-.0000260931992254,Autre cas
-89,9,-.0001272514388709,Hors logement ordinaire
-90,1,-.0002798813966977,Personne vivant seule
-90,2,-.0000256952516793,Famille monoparentale
-90,4,-.0004751838860102,Couple sans enfant
-90,6,-.0000345639346051,Couple avec enfant
-90,8,-.0000229181960331,Autre cas
-90,9,-.0001190196817431,Hors logement ordinaire
-91,1,-.0002383945980815,Personne vivant seule
-91,2,-.0000229075176321,Famille monoparentale
-91,4,-.0003649104619399,Couple sans enfant
-91,6,-.0000253245270869,Couple avec enfant
-91,8,-.0000179634103684,Autre cas
-91,9,-.0001192682858015,Hors logement ordinaire
-92,1,-.0001964260821035,Personne vivant seule
-92,2,-.0000199501373572,Famille monoparentale
-92,4,-.0002738473704085,Couple sans enfant
-92,6,-.0000190083592315,Couple avec enfant
-92,8,-.0000138085793234,Autre cas
-92,9,-.0001116164544143,Hors logement ordinaire
-93,1,-.0001589901911175,Personne vivant seule
-93,2,-.0000149081224663,Famille monoparentale
-93,4,-.0002032427728409,Couple sans enfant
-93,6,-.000016492089344,Couple avec enfant
-93,8,-.0000121420447977,Autre cas
-93,9,-.0001026101595365,Hors logement ordinaire
-94,1,-.000125524445282,Personne vivant seule
-94,2,-.0000136417902468,Famille monoparentale
-94,4,-.0001410675322404,Couple sans enfant
-94,6,-.0000110823566501,Couple avec enfant
-94,8,-8.23566741547e-06,Autre cas
-94,9,-.0000875654781223,Hors logement ordinaire
-95,1,-.0001015918303899,Personne vivant seule
-95,2,-9.58892815106e-06,Famille monoparentale
-95,4,-.0000963455750025,Couple sans enfant
-95,6,-8.65030870045e-06,Couple avec enfant
-95,8,-7.16906125567e-06,Autre cas
-95,9,-.0000738131467831,Hors logement ordinaire
-96,1,-.0000689893557553,Personne vivant seule
-96,2,-7.61994760978e-06,Famille monoparentale
-96,4,-.0000582007232879,Couple sans enfant
-96,6,-4.55337976746e-06,Couple avec enfant
-96,8,-3.41849379755e-06,Autre cas
-96,9,-.000052731733185,Hors logement ordinaire
-97,1,-.0000412697776506,Personne vivant seule
-97,2,-5.16127875017e-06,Famille monoparentale
-97,4,-.0000329735012201,Couple sans enfant
-97,6,-3.52512438440e-06,Couple avec enfant
-97,8,-2.49867382105e-06,Autre cas
-97,9,-.0000389921854785,Hors logement ordinaire
-98,1,-.0000267734388843,Personne vivant seule
-98,2,-3.58979445991e-06,Famille monoparentale
-98,4,-.0000189366201084,Couple sans enfant
-98,6,-2.11757105717e-06,Couple avec enfant
-98,8,-1.66909125232e-06,Autre cas
-98,9,-.0000270097104969,Hors logement ordinaire
-99,1,-.0000148398424985,Personne vivant seule
-99,2,-2.22405128625e-06,Famille monoparentale
-99,4,-9.29896486923e-06,Couple sans enfant
-99,6,-1.55960321990e-06,Couple avec enfant
-99,8,-1.10495705810e-06,Autre cas
-99,9,-.0000139731121969,Hors logement ordinaire
-100,1,-7.86584443931e-06,Personne vivant seule
-100,2,-1.01757711946e-06,Famille monoparentale
-100,4,-5.65578011447e-06,Couple sans enfant
-100,6,-1.21444509205e-06,Couple avec enfant
-100,8,-6.72268687859e-07,Autre cas
-100,9,-9.01261149634e-06,Hors logement ordinaire
-101,1,-5.07991487020e-06,Personne vivant seule
-101,2,-1.51267977344e-06,Famille monoparentale
-101,4,-3.08311132358e-06,Couple sans enfant
-101,6,-5.91506193359e-07,Couple avec enfant
-101,8,-4.98110490870e-07,Autre cas
-101,9,-5.23316806773e-06,Hors logement ordinaire
-102,1,-4.18536136788e-06,Personne vivant seule
-102,2,-5.80527341754e-07,Famille monoparentale
-102,4,-2.47476100412e-06,Couple sans enfant
-102,6,-5.27287227214e-07,Couple avec enfant
-102,8,-3.25456250677e-07,Autre cas
-102,9,-4.40975172186e-06,Hors logement ordinaire
-103,1,-1.64487754790e-06,Personne vivant seule
-103,2,-5.02020782278e-07,Famille monoparentale
-103,4,-1.74098033767e-06,Couple sans enfant
-103,6,-2.75073688272e-07,Couple avec enfant
-103,8,-2.85150208542e-07,Autre cas
-103,9,-2.61372651595e-06,Hors logement ordinaire
-104,1,-1.99409631596e-06,Personne vivant seule
-104,2,-1.77767688569e-07,Famille monoparentale
-104,4,-8.31387296785e-07,Couple sans enfant
-104,6,-4.58706814754e-08,Couple avec enfant
-104,8,-2.52965533105e-07,Autre cas
-104,9,-1.99695383387e-06,Hors logement ordinaire
-105,1,-8.33041669363e-07,Personne vivant seule
-105,2,-2.20480060875e-07,Famille monoparentale
-105,4,-9.23880634218e-07,Couple sans enfant
-105,6,-9.18917635317e-08,Couple avec enfant
-105,8,-3.30569703784e-07,Autre cas
-105,9,-9.27941343197e-07,Hors logement ordinaire
-106,1,-8.02360950722e-07,Personne vivant seule
-106,2,-2.99888995414e-07,Famille monoparentale
-106,4,-3.91028777358e-07,Couple sans enfant
-106,6,0,Couple avec enfant
-106,8,-7.61002138829e-08,Autre cas
-106,9,-5.20218655773e-07,Hors logement ordinaire
-107,1,-4.74197577812e-07,Personne vivant seule
-107,2,-3.86516880724e-08,Famille monoparentale
-107,4,-4.36598668330e-07,Couple sans enfant
-107,6,-6.25646023877e-08,Couple avec enfant
-107,8,-1.21670104805e-07,Autre cas
-107,9,-1.54005175921e-07,Hors logement ordinaire
-108,1,-2.55371863979e-07,Personne vivant seule
-108,2,-1.28738705030e-07,Famille monoparentale
-108,4,-1.31897010647e-07,Couple sans enfant
-108,6,-1.51899630652e-08,Couple avec enfant
-108,8,0,Autre cas
-108,9,-3.75989199026e-08,Hors logement ordinaire
-109,1,-2.50859993590e-07,Personne vivant seule
-109,2,0,Famille monoparentale
-109,4,-4.25619788302e-08,Couple sans enfant
-109,6,-4.43667254046e-08,Couple avec enfant
-109,8,0,Autre cas
-109,9,-2.21984023105e-07,Hors logement ordinaire
-110,1,-2.77179237522e-07,Personne vivant seule
-110,2,-7.44458645840e-08,Famille monoparentale
-110,4,-2.15065814047e-08,Couple sans enfant
-110,6,-2.88308513063e-07,Couple avec enfant
-110,8,-8.70790984945e-08,Autre cas
-110,9,-7.51978398053e-08,Hors logement ordinaire
-111,1,-1.76865319222e-07,Personne vivant seule
-111,2,0,Famille monoparentale
-111,4,-1.84836295603e-07,Couple sans enfant
-111,6,-2.76427272183e-07,Couple avec enfant
-111,8,-1.42274312912e-07,Autre cas
-111,9,0,Hors logement ordinaire
-112,1,-3.53580242764e-07,Personne vivant seule
-112,2,0,Famille monoparentale
-112,4,-4.57202880000e-08,Couple sans enfant
-112,6,-1.91002520467e-08,Couple avec enfant
-112,8,0,Autre cas
-112,9,0,Hors logement ordinaire
-113,1,-6.19630199995e-08,Personne vivant seule
-113,2,-4.10580192067e-08,Famille monoparentale
-113,4,-3.95089443828e-07,Couple sans enfant
-113,6,-5.02321562124e-08,Couple avec enfant
-113,8,0,Autre cas
-113,9,0,Hors logement ordinaire
-114,1,-9.27941343197e-08,Personne vivant seule
-114,2,-1.15804674294e-07,Famille monoparentale
-114,4,-1.34152941200e-07,Couple sans enfant
-114,6,-6.30157899195e-08,Couple avec enfant
-114,8,-4.64722649996e-08,Autre cas
-114,9,0,Hors logement ordinaire
-115,1,-6.16772682083e-07,Personne vivant seule
-115,2,-1.47387764216e-08,Famille monoparentale
-115,4,-4.32838760389e-07,Couple sans enfant
-115,6,-1.92205675376e-07,Couple avec enfant
-115,8,-2.27999850290e-07,Autre cas
-115,9,-3.75989199026e-08,Hors logement ordinaire
-116,1,-7.11371564558e-08,Personne vivant seule
-116,2,-5.30896748785e-08,Famille monoparentale
-116,4,-7.66416405895e-07,Couple sans enfant
-116,6,-3.27110598164e-07,Couple avec enfant
-116,8,-6.82495594072e-07,Autre cas
-116,9,0,Hors logement ordinaire
-117,1,-5.32551101501e-07,Personne vivant seule
-117,2,0,Famille monoparentale
-117,4,-9.16962449082e-07,Couple sans enfant
-117,6,-1.85889064142e-07,Couple avec enfant
-117,8,-1.13142669771e-06,Autre cas
-117,9,-7.51978398053e-08,Hors logement ordinaire
-118,1,-3.77493155822e-08,Personne vivant seule
-118,2,0,Famille monoparentale
-118,4,0,Couple sans enfant
-118,6,0,Couple avec enfant
-118,8,0,Autre cas
-118,9,0,Hors logement ordinaire
-119,1,0,Personne vivant seule
-119,2,0,Famille monoparentale
-119,4,0,Couple sans enfant
-119,6,0,Couple avec enfant
-119,8,0,Autre cas
-119,9,0,Hors logement ordinaire
-120,1,-3.55535386599e-07,Personne vivant seule
-120,2,-5.35408624103e-08,Famille monoparentale
-120,4,-2.01229426011e-07,Couple sans enfant
-120,6,-7.51978390667e-08,Couple avec enfant
-120,8,-3.39743840240e-07,Autre cas
-120,9,0,Hors logement ordinaire
+age,j,c,structure,structureEn
+1,1,0,Personne vivant seule,Living alone
+1,2,-.00054287905,Famille monoparentale,Single-parent family
+1,4,-2.9797895e-06,Couple sans enfant,childless couple
+1,6,-.0047920872,Couple avec enfant,Couple with child
+1,8,-.00020992455,Autre cas,Other case
+1,9,-.000036624508,Hors logement ordinaire,Not in ordinary housing
+2,1,0,Personne vivant seule,Living alone
+2,2,-.00064702315,Famille monoparentale,Single-parent family
+2,4,-3.5342985e-06,Couple sans enfant,childless couple
+2,6,-.0047850255,Couple avec enfant,Couple with child
+2,8,-.00020132372,Autre cas,Other case
+2,9,-.000032299125,Hors logement ordinaire,Not in ordinary housing
+3,1,0,Personne vivant seule,Living alone
+3,2,-.00077831646,Famille monoparentale,Single-parent family
+3,4,-3.0274650e-06,Couple sans enfant,childless couple
+3,6,-.0048810821,Couple avec enfant,Couple with child
+3,8,-.00018850745,Autre cas,Other case
+3,9,-.000030116284,Hors logement ordinaire,Not in ordinary housing
+4,1,0,Personne vivant seule,Living alone
+4,2,-.00088912289,Famille monoparentale,Single-parent family
+4,4,-4.2527386e-06,Couple sans enfant,childless couple
+4,6,-.0049096663,Couple avec enfant,Couple with child
+4,8,-.00017513066,Autre cas,Other case
+4,9,-.000027475486,Hors logement ordinaire,Not in ordinary housing
+5,1,0,Personne vivant seule,Living alone
+5,2,-.00098818704,Famille monoparentale,Single-parent family
+5,4,-4.6676805e-06,Couple sans enfant,childless couple
+5,6,-.0049204803,Couple avec enfant,Couple with child
+5,8,-.0001736079,Autre cas,Other case
+5,9,-.000030591684,Hors logement ordinaire,Not in ordinary housing
+6,1,0,Personne vivant seule,Living alone
+6,2,-.0010855002,Famille monoparentale,Single-parent family
+6,4,-6.2372096e-06,Couple sans enfant,childless couple
+6,6,-.0049580811,Couple avec enfant,Couple with child
+6,8,-.00016824629,Autre cas,Other case
+6,9,-.000030391959,Hors logement ordinaire,Not in ordinary housing
+7,1,0,Personne vivant seule,Living alone
+7,2,-.0011721293,Famille monoparentale,Single-parent family
+7,4,-5.1163106e-06,Couple sans enfant,childless couple
+7,6,-.0049810419,Couple avec enfant,Couple with child
+7,8,-.00016498451,Autre cas,Other case
+7,9,-.000031766725,Hors logement ordinaire,Not in ordinary housing
+8,1,0,Personne vivant seule,Living alone
+8,2,-.0012375221,Famille monoparentale,Single-parent family
+8,4,-6.0613970e-06,Couple sans enfant,childless couple
+8,6,-.0049222838,Couple avec enfant,Couple with child
+8,8,-.00016343438,Autre cas,Other case
+8,9,-.00002974225,Hors logement ordinaire,Not in ordinary housing
+9,1,0,Personne vivant seule,Living alone
+9,2,-.0012746565,Famille monoparentale,Single-parent family
+9,4,-5.8870883e-06,Couple sans enfant,childless couple
+9,6,-.0049141706,Couple avec enfant,Couple with child
+9,8,-.00016188064,Autre cas,Other case
+9,9,-.000033568314,Hors logement ordinaire,Not in ordinary housing
+10,1,0,Personne vivant seule,Living alone
+10,2,-.0013401143,Famille monoparentale,Single-parent family
+10,4,-6.9446710e-06,Couple sans enfant,childless couple
+10,6,-.0048836595,Couple avec enfant,Couple with child
+10,8,-.0001561996,Autre cas,Other case
+10,9,-.000035802896,Hors logement ordinaire,Not in ordinary housing
+11,1,0,Personne vivant seule,Living alone
+11,2,-.001367186,Famille monoparentale,Single-parent family
+11,4,-6.4467108e-06,Couple sans enfant,childless couple
+11,6,-.0048433663,Couple avec enfant,Couple with child
+11,8,-.00015537122,Autre cas,Other case
+11,9,-.000037502065,Hors logement ordinaire,Not in ordinary housing
+12,1,0,Personne vivant seule,Living alone
+12,2,-.0014012179,Famille monoparentale,Single-parent family
+12,4,-6.6804255e-06,Couple sans enfant,childless couple
+12,6,-.004742417,Couple avec enfant,Couple with child
+12,8,-.00015975149,Autre cas,Other case
+12,9,-.000035883659,Hors logement ordinaire,Not in ordinary housing
+13,1,0,Personne vivant seule,Living alone
+13,2,-.001434082,Famille monoparentale,Single-parent family
+13,4,-8.7103163e-06,Couple sans enfant,childless couple
+13,6,-.0046356278,Couple avec enfant,Couple with child
+13,8,-.00015377822,Autre cas,Other case
+13,9,-.000039289367,Hors logement ordinaire,Not in ordinary housing
+14,1,0,Personne vivant seule,Living alone
+14,2,-.0014803144,Famille monoparentale,Single-parent family
+14,4,-8.0980553e-06,Couple sans enfant,childless couple
+14,6,-.004625781,Couple avec enfant,Couple with child
+14,8,-.00015437153,Autre cas,Other case
+14,9,-.000044054203,Hors logement ordinaire,Not in ordinary housing
+15,1,-9.5770465e-06,Personne vivant seule,Living alone
+15,2,-.0015434956,Famille monoparentale,Single-parent family
+15,4,-.000010014547,Couple sans enfant,childless couple
+15,6,-.0045680455,Couple avec enfant,Couple with child
+15,8,-.00017002007,Autre cas,Other case
+15,9,-.000049201346,Hors logement ordinaire,Not in ordinary housing
+16,1,-.000016584432,Personne vivant seule,Living alone
+16,2,-.0015953227,Famille monoparentale,Single-parent family
+16,4,-.000016275369,Couple sans enfant,childless couple
+16,6,-.0045428975,Couple avec enfant,Couple with child
+16,8,-.00018022906,Autre cas,Other case
+16,9,-.000063357642,Hors logement ordinaire,Not in ordinary housing
+17,1,-.0000306732,Personne vivant seule,Living alone
+17,2,-.0016229048,Famille monoparentale,Single-parent family
+17,4,-.000015391042,Couple sans enfant,childless couple
+17,6,-.0044445461,Couple avec enfant,Couple with child
+17,8,-.00019893333,Autre cas,Other case
+17,9,-.000082087165,Hors logement ordinaire,Not in ordinary housing
+18,1,-.000086027234,Personne vivant seule,Living alone
+18,2,-.0016604434,Famille monoparentale,Single-parent family
+18,4,-.000030410307,Couple sans enfant,childless couple
+18,6,-.0043480946,Couple avec enfant,Couple with child
+18,8,-.00016245365,Autre cas,Other case
+18,9,-.00012544954,Hors logement ordinaire,Not in ordinary housing
+19,1,-.00067533285,Personne vivant seule,Living alone
+19,2,-.0013953847,Famille monoparentale,Single-parent family
+19,4,-.000086154469,Couple sans enfant,childless couple
+19,6,-.0032406913,Couple avec enfant,Couple with child
+19,8,-.00032505905,Autre cas,Other case
+19,9,-.00062885968,Hors logement ordinaire,Not in ordinary housing
+20,1,-.00086288573,Personne vivant seule,Living alone
+20,2,-.0012907257,Famille monoparentale,Single-parent family
+20,4,-.00015828498,Couple sans enfant,childless couple
+20,6,-.0029257543,Couple avec enfant,Couple with child
+20,8,-.00039150222,Autre cas,Other case
+20,9,-.00046459888,Hors logement ordinaire,Not in ordinary housing
+21,1,-.0010008183,Personne vivant seule,Living alone
+21,2,-.0011400899,Famille monoparentale,Single-parent family
+21,4,-.00028593108,Couple sans enfant,childless couple
+21,6,-.0026421146,Couple avec enfant,Couple with child
+21,8,-.00046757385,Autre cas,Other case
+21,9,-.00036856177,Hors logement ordinaire,Not in ordinary housing
+22,1,-.0010279659,Personne vivant seule,Living alone
+22,2,-.0010035861,Famille monoparentale,Single-parent family
+22,4,-.00044910557,Couple sans enfant,childless couple
+22,6,-.0023877649,Couple avec enfant,Couple with child
+22,8,-.00049460417,Autre cas,Other case
+22,9,-.00033146728,Hors logement ordinaire,Not in ordinary housing
+23,1,-.0010699597,Personne vivant seule,Living alone
+23,2,-.00090428308,Famille monoparentale,Single-parent family
+23,4,-.0006411231,Couple sans enfant,childless couple
+23,6,-.0022043923,Couple avec enfant,Couple with child
+23,8,-.00049927679,Autre cas,Other case
+23,9,-.00030984066,Hors logement ordinaire,Not in ordinary housing
+24,1,-.0011138463,Personne vivant seule,Living alone
+24,2,-.00081169134,Famille monoparentale,Single-parent family
+24,4,-.00086265866,Couple sans enfant,childless couple
+24,6,-.002041762,Couple avec enfant,Couple with child
+24,8,-.00051247206,Autre cas,Other case
+24,9,-.00027529855,Hors logement ordinaire,Not in ordinary housing
+25,1,-.0011544103,Personne vivant seule,Living alone
+25,2,-.0007128811,Famille monoparentale,Single-parent family
+25,4,-.0011010757,Couple sans enfant,childless couple
+25,6,-.0018991339,Couple avec enfant,Couple with child
+25,8,-.00047982915,Autre cas,Other case
+25,9,-.00026147749,Hors logement ordinaire,Not in ordinary housing
+26,1,-.0011940798,Personne vivant seule,Living alone
+26,2,-.00061300286,Famille monoparentale,Single-parent family
+26,4,-.001325806,Couple sans enfant,childless couple
+26,6,-.0018076607,Couple avec enfant,Couple with child
+26,8,-.00046804384,Autre cas,Other case
+26,9,-.00022590274,Hors logement ordinaire,Not in ordinary housing
+27,1,-.0012353888,Personne vivant seule,Living alone
+27,2,-.00053558534,Famille monoparentale,Single-parent family
+27,4,-.0014853112,Couple sans enfant,childless couple
+27,6,-.0017760819,Couple avec enfant,Couple with child
+27,8,-.00045207332,Autre cas,Other case
+27,9,-.00020130447,Hors logement ordinaire,Not in ordinary housing
+28,1,-.0012371143,Personne vivant seule,Living alone
+28,2,-.00046375275,Famille monoparentale,Single-parent family
+28,4,-.0015916226,Couple sans enfant,childless couple
+28,6,-.0018500055,Couple avec enfant,Couple with child
+28,8,-.00041235291,Autre cas,Other case
+28,9,-.00018907309,Hors logement ordinaire,Not in ordinary housing
+29,1,-.0012121405,Personne vivant seule,Living alone
+29,2,-.00042202591,Famille monoparentale,Single-parent family
+29,4,-.0015806794,Couple sans enfant,childless couple
+29,6,-.0020232073,Couple avec enfant,Couple with child
+29,8,-.00037542914,Autre cas,Other case
+29,9,-.00017088905,Hors logement ordinaire,Not in ordinary housing
+30,1,-.0011858761,Personne vivant seule,Living alone
+30,2,-.00037332959,Famille monoparentale,Single-parent family
+30,4,-.0014917058,Couple sans enfant,childless couple
+30,6,-.0022925823,Couple avec enfant,Couple with child
+30,8,-.00032927524,Autre cas,Other case
+30,9,-.00015182745,Hors logement ordinaire,Not in ordinary housing
+31,1,-.0011638771,Personne vivant seule,Living alone
+31,2,-.00034815021,Famille monoparentale,Single-parent family
+31,4,-.001385509,Couple sans enfant,childless couple
+31,6,-.0025505989,Couple avec enfant,Couple with child
+31,8,-.0002973243,Autre cas,Other case
+31,9,-.00014296464,Hors logement ordinaire,Not in ordinary housing
+32,1,-.0011035748,Personne vivant seule,Living alone
+32,2,-.00030707731,Famille monoparentale,Single-parent family
+32,4,-.0012071416,Couple sans enfant,childless couple
+32,6,-.0028196808,Couple avec enfant,Couple with child
+32,8,-.00026679563,Autre cas,Other case
+32,9,-.00013110036,Hors logement ordinaire,Not in ordinary housing
+33,1,-.0010894486,Personne vivant seule,Living alone
+33,2,-.00030367204,Famille monoparentale,Single-parent family
+33,4,-.0010950428,Couple sans enfant,childless couple
+33,6,-.0030824817,Couple avec enfant,Couple with child
+33,8,-.00025253539,Autre cas,Other case
+33,9,-.00012909558,Hors logement ordinaire,Not in ordinary housing
+34,1,-.0010742589,Personne vivant seule,Living alone
+34,2,-.00029493691,Famille monoparentale,Single-parent family
+34,4,-.00096052577,Couple sans enfant,childless couple
+34,6,-.0033382229,Couple avec enfant,Couple with child
+34,8,-.0002271438,Autre cas,Other case
+34,9,-.00011641167,Hors logement ordinaire,Not in ordinary housing
+35,1,-.0010712715,Personne vivant seule,Living alone
+35,2,-.00029813882,Famille monoparentale,Single-parent family
+35,4,-.00083822658,Couple sans enfant,childless couple
+35,6,-.003576403,Couple avec enfant,Couple with child
+35,8,-.00022246334,Autre cas,Other case
+35,9,-.00011743421,Hors logement ordinaire,Not in ordinary housing
+36,1,-.0010559951,Personne vivant seule,Living alone
+36,2,-.00029208916,Famille monoparentale,Single-parent family
+36,4,-.0007656716,Couple sans enfant,childless couple
+36,6,-.003701251,Couple avec enfant,Couple with child
+36,8,-.00020096744,Autre cas,Other case
+36,9,-.00010970011,Hors logement ordinaire,Not in ordinary housing
+37,1,-.0010329705,Personne vivant seule,Living alone
+37,2,-.00029949029,Famille monoparentale,Single-parent family
+37,4,-.00067937159,Couple sans enfant,childless couple
+37,6,-.0038504447,Couple avec enfant,Couple with child
+37,8,-.00019439634,Autre cas,Other case
+37,9,-.00010648541,Hors logement ordinaire,Not in ordinary housing
+38,1,-.0010151954,Personne vivant seule,Living alone
+38,2,-.00030285493,Famille monoparentale,Single-parent family
+38,4,-.00062284339,Couple sans enfant,childless couple
+38,6,-.0039405506,Couple avec enfant,Couple with child
+38,8,-.00017911178,Autre cas,Other case
+38,9,-.00010609724,Hors logement ordinaire,Not in ordinary housing
+39,1,-.0010153563,Personne vivant seule,Living alone
+39,2,-.00030469775,Famille monoparentale,Single-parent family
+39,4,-.00056297437,Couple sans enfant,childless couple
+39,6,-.0039230743,Couple avec enfant,Couple with child
+39,8,-.00017197461,Autre cas,Other case
+39,9,-.00010579253,Hors logement ordinaire,Not in ordinary housing
+40,1,-.0010034825,Personne vivant seule,Living alone
+40,2,-.00031907301,Famille monoparentale,Single-parent family
+40,4,-.00054205011,Couple sans enfant,childless couple
+40,6,-.0039384011,Couple avec enfant,Couple with child
+40,8,-.00016585289,Autre cas,Other case
+40,9,-.000098207027,Hors logement ordinaire,Not in ordinary housing
+41,1,-.00099165912,Personne vivant seule,Living alone
+41,2,-.00032363,Famille monoparentale,Single-parent family
+41,4,-.00050685753,Couple sans enfant,childless couple
+41,6,-.0039877556,Couple avec enfant,Couple with child
+41,8,-.00015900914,Autre cas,Other case
+41,9,-.00010378881,Hors logement ordinaire,Not in ordinary housing
+42,1,-.0010130299,Personne vivant seule,Living alone
+42,2,-.00035671299,Famille monoparentale,Single-parent family
+42,4,-.00050504779,Couple sans enfant,childless couple
+42,6,-.0041148844,Couple avec enfant,Couple with child
+42,8,-.00015619538,Autre cas,Other case
+42,9,-.000098956145,Hors logement ordinaire,Not in ordinary housing
+43,1,-.0010606466,Personne vivant seule,Living alone
+43,2,-.00038089842,Famille monoparentale,Single-parent family
+43,4,-.00050786603,Couple sans enfant,childless couple
+43,6,-.0041939677,Couple avec enfant,Couple with child
+43,8,-.00015978789,Autre cas,Other case
+43,9,-.000098183868,Hors logement ordinaire,Not in ordinary housing
+44,1,-.0011072716,Personne vivant seule,Living alone
+44,2,-.00041487176,Famille monoparentale,Single-parent family
+44,4,-.0005354638,Couple sans enfant,childless couple
+44,6,-.0043109576,Couple avec enfant,Couple with child
+44,8,-.00015604169,Autre cas,Other case
+44,9,-.000096749689,Hors logement ordinaire,Not in ordinary housing
+45,1,-.001136022,Personne vivant seule,Living alone
+45,2,-.00043420721,Famille monoparentale,Single-parent family
+45,4,-.00055811007,Couple sans enfant,childless couple
+45,6,-.0043338966,Couple avec enfant,Couple with child
+45,8,-.00016027247,Autre cas,Other case
+45,9,-.000099947552,Hors logement ordinaire,Not in ordinary housing
+46,1,-.0011807637,Personne vivant seule,Living alone
+46,2,-.00045260059,Famille monoparentale,Single-parent family
+46,4,-.00059580419,Couple sans enfant,childless couple
+46,6,-.0042966111,Couple avec enfant,Couple with child
+46,8,-.00016792174,Autre cas,Other case
+46,9,-.000099975827,Hors logement ordinaire,Not in ordinary housing
+47,1,-.001174047,Personne vivant seule,Living alone
+47,2,-.00047043466,Famille monoparentale,Single-parent family
+47,4,-.00064348354,Couple sans enfant,childless couple
+47,6,-.0041936333,Couple avec enfant,Couple with child
+47,8,-.00017233705,Autre cas,Other case
+47,9,-.00010524073,Hors logement ordinaire,Not in ordinary housing
+48,1,-.0011836177,Personne vivant seule,Living alone
+48,2,-.00047485661,Famille monoparentale,Single-parent family
+48,4,-.00070823054,Couple sans enfant,childless couple
+48,6,-.0040308158,Couple avec enfant,Couple with child
+48,8,-.00016983839,Autre cas,Other case
+48,9,-.000093414514,Hors logement ordinaire,Not in ordinary housing
+49,1,-.0011874526,Personne vivant seule,Living alone
+49,2,-.00047337671,Famille monoparentale,Single-parent family
+49,4,-.00082707277,Couple sans enfant,childless couple
+49,6,-.0038432851,Couple avec enfant,Couple with child
+49,8,-.00017053637,Autre cas,Other case
+49,9,-.00009630873,Hors logement ordinaire,Not in ordinary housing
+50,1,-.0011928633,Personne vivant seule,Living alone
+50,2,-.00047113717,Famille monoparentale,Single-parent family
+50,4,-.00095744705,Couple sans enfant,childless couple
+50,6,-.0037394357,Couple avec enfant,Couple with child
+50,8,-.00017675162,Autre cas,Other case
+50,9,-.000096370692,Hors logement ordinaire,Not in ordinary housing
+51,1,-.0012168626,Personne vivant seule,Living alone
+51,2,-.00047495152,Famille monoparentale,Single-parent family
+51,4,-.0011226508,Couple sans enfant,childless couple
+51,6,-.0035533761,Couple avec enfant,Couple with child
+51,8,-.00018137057,Autre cas,Other case
+51,9,-.000098446602,Hors logement ordinaire,Not in ordinary housing
+52,1,-.0012465456,Personne vivant seule,Living alone
+52,2,-.00045344868,Famille monoparentale,Single-parent family
+52,4,-.0013152208,Couple sans enfant,childless couple
+52,6,-.0033587546,Couple avec enfant,Couple with child
+52,8,-.00018567129,Autre cas,Other case
+52,9,-.000097707409,Hors logement ordinaire,Not in ordinary housing
+53,1,-.0012592433,Personne vivant seule,Living alone
+53,2,-.00043919959,Famille monoparentale,Single-parent family
+53,4,-.0015076322,Couple sans enfant,childless couple
+53,6,-.0031187667,Couple avec enfant,Couple with child
+53,8,-.0001878394,Autre cas,Other case
+53,9,-.000091510658,Hors logement ordinaire,Not in ordinary housing
+54,1,-.0012466204,Personne vivant seule,Living alone
+54,2,-.00042686265,Famille monoparentale,Single-parent family
+54,4,-.001727941,Couple sans enfant,childless couple
+54,6,-.002857279,Couple avec enfant,Couple with child
+54,8,-.00019012872,Autre cas,Other case
+54,9,-.000088148714,Hors logement ordinaire,Not in ordinary housing
+55,1,-.0012684199,Personne vivant seule,Living alone
+55,2,-.000401661,Famille monoparentale,Single-parent family
+55,4,-.0019576685,Couple sans enfant,childless couple
+55,6,-.0025997984,Couple avec enfant,Couple with child
+55,8,-.00019287795,Autre cas,Other case
+55,9,-.000097277582,Hors logement ordinaire,Not in ordinary housing
+56,1,-.001241522,Personne vivant seule,Living alone
+56,2,-.00037315543,Famille monoparentale,Single-parent family
+56,4,-.0021439472,Couple sans enfant,childless couple
+56,6,-.0023433922,Couple avec enfant,Couple with child
+56,8,-.00019937835,Autre cas,Other case
+56,9,-.000089932408,Hors logement ordinaire,Not in ordinary housing
+57,1,-.0012378736,Personne vivant seule,Living alone
+57,2,-.00033518957,Famille monoparentale,Single-parent family
+57,4,-.0023626848,Couple sans enfant,childless couple
+57,6,-.0020872608,Couple avec enfant,Couple with child
+57,8,-.00019944181,Autre cas,Other case
+57,9,-.000084791878,Hors logement ordinaire,Not in ordinary housing
+58,1,-.0012270951,Personne vivant seule,Living alone
+58,2,-.00031495278,Famille monoparentale,Single-parent family
+58,4,-.0025629164,Couple sans enfant,childless couple
+58,6,-.0018359381,Couple avec enfant,Couple with child
+58,8,-.00020314592,Autre cas,Other case
+58,9,-.00008252557,Hors logement ordinaire,Not in ordinary housing
+59,1,-.0012168264,Personne vivant seule,Living alone
+59,2,-.00028296525,Famille monoparentale,Single-parent family
+59,4,-.0027706509,Couple sans enfant,childless couple
+59,6,-.001630277,Couple avec enfant,Couple with child
+59,8,-.00019949746,Autre cas,Other case
+59,9,-.00008815097,Hors logement ordinaire,Not in ordinary housing
+60,1,-.0011892235,Personne vivant seule,Living alone
+60,2,-.00025911853,Famille monoparentale,Single-parent family
+60,4,-.0029162494,Couple sans enfant,childless couple
+60,6,-.0014155629,Couple avec enfant,Couple with child
+60,8,-.00020156735,Autre cas,Other case
+60,9,-.00008176246,Hors logement ordinaire,Not in ordinary housing
+61,1,-.0011599562,Personne vivant seule,Living alone
+61,2,-.00022475341,Famille monoparentale,Single-parent family
+61,4,-.0030409798,Couple sans enfant,childless couple
+61,6,-.0012500915,Couple avec enfant,Couple with child
+61,8,-.00019690585,Autre cas,Other case
+61,9,-.000084728264,Hors logement ordinaire,Not in ordinary housing
+62,1,-.0011376765,Personne vivant seule,Living alone
+62,2,-.00020383563,Famille monoparentale,Single-parent family
+62,4,-.0031536149,Couple sans enfant,childless couple
+62,6,-.0010853834,Couple avec enfant,Couple with child
+62,8,-.00019167343,Autre cas,Other case
+62,9,-.000085002284,Hors logement ordinaire,Not in ordinary housing
+63,1,-.0011342429,Personne vivant seule,Living alone
+63,2,-.00018060957,Famille monoparentale,Single-parent family
+63,4,-.0033084985,Couple sans enfant,childless couple
+63,6,-.00098285812,Couple avec enfant,Couple with child
+63,8,-.00019571501,Autre cas,Other case
+63,9,-.000089056048,Hors logement ordinaire,Not in ordinary housing
+64,1,-.001096998,Personne vivant seule,Living alone
+64,2,-.00016475306,Famille monoparentale,Single-parent family
+64,4,-.0034002864,Couple sans enfant,childless couple
+64,6,-.00085619342,Couple avec enfant,Couple with child
+64,8,-.00018944411,Autre cas,Other case
+64,9,-.000079185433,Hors logement ordinaire,Not in ordinary housing
+65,1,-.0010902529,Personne vivant seule,Living alone
+65,2,-.00015250497,Famille monoparentale,Single-parent family
+65,4,-.0034741249,Couple sans enfant,childless couple
+65,6,-.00074972835,Couple avec enfant,Couple with child
+65,8,-.00018083818,Autre cas,Other case
+65,9,-.000084565538,Hors logement ordinaire,Not in ordinary housing
+66,1,-.0010816286,Personne vivant seule,Living alone
+66,2,-.00013165789,Famille monoparentale,Single-parent family
+66,4,-.0035427839,Couple sans enfant,childless couple
+66,6,-.00068773434,Couple avec enfant,Couple with child
+66,8,-.00018112978,Autre cas,Other case
+66,9,-.000079967038,Hors logement ordinaire,Not in ordinary housing
+67,1,-.001065576,Personne vivant seule,Living alone
+67,2,-.00012093256,Famille monoparentale,Single-parent family
+67,4,-.0036406494,Couple sans enfant,childless couple
+67,6,-.00061396422,Couple avec enfant,Couple with child
+67,8,-.00017236217,Autre cas,Other case
+67,9,-.000086122884,Hors logement ordinaire,Not in ordinary housing
+68,1,-.001048246,Personne vivant seule,Living alone
+68,2,-.0001089919,Famille monoparentale,Single-parent family
+68,4,-.0036554071,Couple sans enfant,childless couple
+68,6,-.00055754161,Couple avec enfant,Couple with child
+68,8,-.00017393577,Autre cas,Other case
+68,9,-.000086006774,Hors logement ordinaire,Not in ordinary housing
+69,1,-.0010020771,Personne vivant seule,Living alone
+69,2,-.000096346332,Famille monoparentale,Single-parent family
+69,4,-.0036841386,Couple sans enfant,childless couple
+69,6,-.00049679272,Couple avec enfant,Couple with child
+69,8,-.00016733835,Autre cas,Other case
+69,9,-.000082483457,Hors logement ordinaire,Not in ordinary housing
+70,1,-.00092993211,Personne vivant seule,Living alone
+70,2,-.000084702246,Famille monoparentale,Single-parent family
+70,4,-.0034872103,Couple sans enfant,childless couple
+70,6,-.00042423839,Couple avec enfant,Couple with child
+70,8,-.00014673415,Autre cas,Other case
+70,9,-.000083404782,Hors logement ordinaire,Not in ordinary housing
+71,1,-.00084916875,Personne vivant seule,Living alone
+71,2,-.000071804308,Famille monoparentale,Single-parent family
+71,4,-.0031976851,Couple sans enfant,childless couple
+71,6,-.00037187361,Couple avec enfant,Couple with child
+71,8,-.00013030117,Autre cas,Other case
+71,9,-.000082645282,Hors logement ordinaire,Not in ordinary housing
+72,1,-.00076177245,Personne vivant seule,Living alone
+72,2,-.00006185985,Famille monoparentale,Single-parent family
+72,4,-.0029576197,Couple sans enfant,childless couple
+72,6,-.00032345735,Couple avec enfant,Couple with child
+72,8,-.00012115951,Autre cas,Other case
+72,9,-.000074317875,Hors logement ordinaire,Not in ordinary housing
+73,1,-.00069365901,Personne vivant seule,Living alone
+73,2,-.000052326719,Famille monoparentale,Single-parent family
+73,4,-.0026629441,Couple sans enfant,childless couple
+73,6,-.00028312168,Couple avec enfant,Couple with child
+73,8,-.00010953648,Autre cas,Other case
+73,9,-.000077411511,Hors logement ordinaire,Not in ordinary housing
+74,1,-.00062580517,Personne vivant seule,Living alone
+74,2,-.000043531578,Famille monoparentale,Single-parent family
+74,4,-.0023635263,Couple sans enfant,childless couple
+74,6,-.00023887526,Couple avec enfant,Couple with child
+74,8,-.000095687596,Autre cas,Other case
+74,9,-.000070785834,Hors logement ordinaire,Not in ordinary housing
+75,1,-.00058256276,Personne vivant seule,Living alone
+75,2,-.000042160722,Famille monoparentale,Single-parent family
+75,4,-.0022554216,Couple sans enfant,childless couple
+75,6,-.00021869005,Couple avec enfant,Couple with child
+75,8,-.000094005722,Autre cas,Other case
+75,9,-.000071023911,Hors logement ordinaire,Not in ordinary housing
+76,1,-.000571204,Personne vivant seule,Living alone
+76,2,-.000044154669,Famille monoparentale,Single-parent family
+76,4,-.0021262344,Couple sans enfant,childless couple
+76,6,-.00019900718,Couple avec enfant,Couple with child
+76,8,-.000086195076,Autre cas,Other case
+76,9,-.000072955438,Hors logement ordinaire,Not in ordinary housing
+77,1,-.00054289424,Personne vivant seule,Living alone
+77,2,-.000040007657,Famille monoparentale,Single-parent family
+77,4,-.0020272082,Couple sans enfant,childless couple
+77,6,-.0001810367,Couple avec enfant,Couple with child
+77,8,-.000083435312,Autre cas,Other case
+77,9,-.000073772841,Hors logement ordinaire,Not in ordinary housing
+78,1,-.00052905077,Personne vivant seule,Living alone
+78,2,-.000037418748,Famille monoparentale,Single-parent family
+78,4,-.0019555055,Couple sans enfant,childless couple
+78,6,-.0001711381,Couple avec enfant,Couple with child
+78,8,-.000076532604,Autre cas,Other case
+78,9,-.000076929799,Hors logement ordinaire,Not in ordinary housing
+79,1,-.00052397238,Personne vivant seule,Living alone
+79,2,-.00003525395,Famille monoparentale,Single-parent family
+79,4,-.0019137006,Couple sans enfant,childless couple
+79,6,-.00016460777,Couple avec enfant,Couple with child
+79,8,-.000075873868,Autre cas,Other case
+79,9,-.000080128259,Hors logement ordinaire,Not in ordinary housing
+80,1,-.00052571937,Personne vivant seule,Living alone
+80,2,-.0000363365,Famille monoparentale,Single-parent family
+80,4,-.0018123172,Couple sans enfant,childless couple
+80,6,-.00014658511,Couple avec enfant,Couple with child
+80,8,-.000068777452,Autre cas,Other case
+80,9,-.00008551107,Hors logement ordinaire,Not in ordinary housing
+81,1,-.00051935209,Personne vivant seule,Living alone
+81,2,-.000035762288,Famille monoparentale,Single-parent family
+81,4,-.0017112416,Couple sans enfant,childless couple
+81,6,-.00013872092,Couple avec enfant,Couple with child
+81,8,-.000068973866,Autre cas,Other case
+81,9,-.000091297246,Hors logement ordinaire,Not in ordinary housing
+82,1,-.00050064211,Personne vivant seule,Living alone
+82,2,-.000038975642,Famille monoparentale,Single-parent family
+82,4,-.0015740485,Couple sans enfant,childless couple
+82,6,-.00012451815,Couple avec enfant,Couple with child
+82,8,-.00006451027,Autre cas,Other case
+82,9,-.00010046913,Hors logement ordinaire,Not in ordinary housing
+83,1,-.00049342687,Personne vivant seule,Living alone
+83,2,-.000039102728,Famille monoparentale,Single-parent family
+83,4,-.0014667719,Couple sans enfant,childless couple
+83,6,-.00011239656,Couple avec enfant,Couple with child
+83,8,-.000057637491,Autre cas,Other case
+83,9,-.00010376159,Hors logement ordinaire,Not in ordinary housing
+84,1,-.00046477304,Personne vivant seule,Living alone
+84,2,-.000037147882,Famille monoparentale,Single-parent family
+84,4,-.0013248663,Couple sans enfant,childless couple
+84,6,-.00010499739,Couple avec enfant,Couple with child
+84,8,-.000054469707,Autre cas,Other case
+84,9,-.00011508638,Hors logement ordinaire,Not in ordinary housing
+85,1,-.000447823,Personne vivant seule,Living alone
+85,2,-.000036641199,Famille monoparentale,Single-parent family
+85,4,-.0011940601,Couple sans enfant,childless couple
+85,6,-.000089663496,Couple avec enfant,Couple with child
+85,8,-.000050347058,Autre cas,Other case
+85,9,-.00011772899,Hors logement ordinaire,Not in ordinary housing
+86,1,-.00042844345,Personne vivant seule,Living alone
+86,2,-.000031637384,Famille monoparentale,Single-parent family
+86,4,-.0010337241,Couple sans enfant,childless couple
+86,6,-.0000817775,Couple avec enfant,Couple with child
+86,8,-.000042104475,Autre cas,Other case
+86,9,-.00012191254,Hors logement ordinaire,Not in ordinary housing
+87,1,-.00039474625,Personne vivant seule,Living alone
+87,2,-.000034124478,Famille monoparentale,Single-parent family
+87,4,-.00090236519,Couple sans enfant,childless couple
+87,6,-.000064513129,Couple avec enfant,Couple with child
+87,8,-.000037453938,Autre cas,Other case
+87,9,-.0001262459,Hors logement ordinaire,Not in ordinary housing
+88,1,-.00034983584,Personne vivant seule,Living alone
+88,2,-.000028797163,Famille monoparentale,Single-parent family
+88,4,-.0007445768,Couple sans enfant,childless couple
+88,6,-.000055475553,Couple avec enfant,Couple with child
+88,8,-.000029952353,Autre cas,Other case
+88,9,-.00013418242,Hors logement ordinaire,Not in ordinary housing
+89,1,-.00031138628,Personne vivant seule,Living alone
+89,2,-.000025994088,Famille monoparentale,Single-parent family
+89,4,-.00060377066,Couple sans enfant,childless couple
+89,6,-.000043119195,Couple avec enfant,Couple with child
+89,8,-.000026093199,Autre cas,Other case
+89,9,-.00012725143,Hors logement ordinaire,Not in ordinary housing
+90,1,-.00027988141,Personne vivant seule,Living alone
+90,2,-.000025695252,Famille monoparentale,Single-parent family
+90,4,-.00047518389,Couple sans enfant,childless couple
+90,6,-.000034563935,Couple avec enfant,Couple with child
+90,8,-.000022918197,Autre cas,Other case
+90,9,-.00011901969,Hors logement ordinaire,Not in ordinary housing
+91,1,-.0002383946,Personne vivant seule,Living alone
+91,2,-.000022907518,Famille monoparentale,Single-parent family
+91,4,-.00036491046,Couple sans enfant,childless couple
+91,6,-.000025324527,Couple avec enfant,Couple with child
+91,8,-.00001796341,Autre cas,Other case
+91,9,-.00011926828,Hors logement ordinaire,Not in ordinary housing
+92,1,-.00019642609,Personne vivant seule,Living alone
+92,2,-.000019950137,Famille monoparentale,Single-parent family
+92,4,-.00027384737,Couple sans enfant,childless couple
+92,6,-.000019008359,Couple avec enfant,Couple with child
+92,8,-.00001380858,Autre cas,Other case
+92,9,-.00011161646,Hors logement ordinaire,Not in ordinary housing
+93,1,-.00015899019,Personne vivant seule,Living alone
+93,2,-.000014908122,Famille monoparentale,Single-parent family
+93,4,-.00020324277,Couple sans enfant,childless couple
+93,6,-.000016492089,Couple avec enfant,Couple with child
+93,8,-.000012142044,Autre cas,Other case
+93,9,-.00010261016,Hors logement ordinaire,Not in ordinary housing
+94,1,-.00012552444,Personne vivant seule,Living alone
+94,2,-.00001364179,Famille monoparentale,Single-parent family
+94,4,-.00014106753,Couple sans enfant,childless couple
+94,6,-.000011082357,Couple avec enfant,Couple with child
+94,8,-8.2356673e-06,Autre cas,Other case
+94,9,-.00008756548,Hors logement ordinaire,Not in ordinary housing
+95,1,-.00010159183,Personne vivant seule,Living alone
+95,2,-9.5889282e-06,Famille monoparentale,Single-parent family
+95,4,-.000096345575,Couple sans enfant,childless couple
+95,6,-8.6503087e-06,Couple avec enfant,Couple with child
+95,8,-7.1690611e-06,Autre cas,Other case
+95,9,-.000073813149,Hors logement ordinaire,Not in ordinary housing
+96,1,-.000068989357,Personne vivant seule,Living alone
+96,2,-7.6199476e-06,Famille monoparentale,Single-parent family
+96,4,-.000058200723,Couple sans enfant,childless couple
+96,6,-4.5533798e-06,Couple avec enfant,Couple with child
+96,8,-3.4184939e-06,Autre cas,Other case
+96,9,-.000052731732,Hors logement ordinaire,Not in ordinary housing
+97,1,-.000041269777,Personne vivant seule,Living alone
+97,2,-5.1612788e-06,Famille monoparentale,Single-parent family
+97,4,-.000032973501,Couple sans enfant,childless couple
+97,6,-3.5251244e-06,Couple avec enfant,Couple with child
+97,8,-2.4986739e-06,Autre cas,Other case
+97,9,-.000038992184,Hors logement ordinaire,Not in ordinary housing
+98,1,-.000026773439,Personne vivant seule,Living alone
+98,2,-3.5897945e-06,Famille monoparentale,Single-parent family
+98,4,-.00001893662,Couple sans enfant,childless couple
+98,6,-2.1175711e-06,Couple avec enfant,Couple with child
+98,8,-1.6690913e-06,Autre cas,Other case
+98,9,-.00002700971,Hors logement ordinaire,Not in ordinary housing
+99,1,-.000014839842,Personne vivant seule,Living alone
+99,2,-2.2240513e-06,Famille monoparentale,Single-parent family
+99,4,-9.2989649e-06,Couple sans enfant,childless couple
+99,6,-1.5596032e-06,Couple avec enfant,Couple with child
+99,8,-1.1049571e-06,Autre cas,Other case
+99,9,-.000013973112,Hors logement ordinaire,Not in ordinary housing
+100,1,-7.8658441e-06,Personne vivant seule,Living alone
+100,2,-1.0175771e-06,Famille monoparentale,Single-parent family
+100,4,-5.6557801e-06,Couple sans enfant,childless couple
+100,6,-1.2144451e-06,Couple avec enfant,Couple with child
+100,8,-6.7226870e-07,Autre cas,Other case
+100,9,-9.0126114e-06,Hors logement ordinaire,Not in ordinary housing
+101,1,-5.0799149e-06,Personne vivant seule,Living alone
+101,2,-1.5126798e-06,Famille monoparentale,Single-parent family
+101,4,-3.0831113e-06,Couple sans enfant,childless couple
+101,6,-5.9150619e-07,Couple avec enfant,Couple with child
+101,8,-4.9811047e-07,Autre cas,Other case
+101,9,-5.2331679e-06,Hors logement ordinaire,Not in ordinary housing
+102,1,-4.1853614e-06,Personne vivant seule,Living alone
+102,2,-5.8052734e-07,Famille monoparentale,Single-parent family
+102,4,-2.4747610e-06,Couple sans enfant,childless couple
+102,6,-5.2728723e-07,Couple avec enfant,Couple with child
+102,8,-3.2545626e-07,Autre cas,Other case
+102,9,-4.4097519e-06,Hors logement ordinaire,Not in ordinary housing
+103,1,-1.6448776e-06,Personne vivant seule,Living alone
+103,2,-5.0202078e-07,Famille monoparentale,Single-parent family
+103,4,-1.7409803e-06,Couple sans enfant,childless couple
+103,6,-2.7507369e-07,Couple avec enfant,Couple with child
+103,8,-2.8515021e-07,Autre cas,Other case
+103,9,-2.6137266e-06,Hors logement ordinaire,Not in ordinary housing
+104,1,-1.9940962e-06,Personne vivant seule,Living alone
+104,2,-1.7776769e-07,Famille monoparentale,Single-parent family
+104,4,-8.3138730e-07,Couple sans enfant,childless couple
+104,6,-4.5870681e-08,Couple avec enfant,Couple with child
+104,8,-2.5296552e-07,Autre cas,Other case
+104,9,-1.9969539e-06,Hors logement ordinaire,Not in ordinary housing
+105,1,-8.3304167e-07,Personne vivant seule,Living alone
+105,2,-2.2048006e-07,Famille monoparentale,Single-parent family
+105,4,-9.2388063e-07,Couple sans enfant,childless couple
+105,6,-9.1891764e-08,Couple avec enfant,Couple with child
+105,8,-3.3056969e-07,Autre cas,Other case
+105,9,-9.2794136e-07,Hors logement ordinaire,Not in ordinary housing
+106,1,-8.0236094e-07,Personne vivant seule,Living alone
+106,2,-2.9988900e-07,Famille monoparentale,Single-parent family
+106,4,-3.9102878e-07,Couple sans enfant,childless couple
+106,6,0,Couple avec enfant,Couple with child
+106,8,-7.6100214e-08,Autre cas,Other case
+106,9,-5.2021863e-07,Hors logement ordinaire,Not in ordinary housing
+107,1,-4.7419758e-07,Personne vivant seule,Living alone
+107,2,-3.8651688e-08,Famille monoparentale,Single-parent family
+107,4,-4.3659867e-07,Couple sans enfant,childless couple
+107,6,-6.2564602e-08,Couple avec enfant,Couple with child
+107,8,-1.2167010e-07,Autre cas,Other case
+107,9,-1.5400518e-07,Hors logement ordinaire,Not in ordinary housing
+108,1,-2.5537187e-07,Personne vivant seule,Living alone
+108,2,-1.2873871e-07,Famille monoparentale,Single-parent family
+108,4,-1.3189701e-07,Couple sans enfant,childless couple
+108,6,-1.5189963e-08,Couple avec enfant,Couple with child
+108,8,0,Autre cas,Other case
+108,9,-3.7598920e-08,Hors logement ordinaire,Not in ordinary housing
+109,1,-2.5085998e-07,Personne vivant seule,Living alone
+109,2,0,Famille monoparentale,Single-parent family
+109,4,-4.2561979e-08,Couple sans enfant,childless couple
+109,6,-4.4366725e-08,Couple avec enfant,Couple with child
+109,8,0,Autre cas,Other case
+109,9,-2.2198402e-07,Hors logement ordinaire,Not in ordinary housing
+110,1,-2.7717923e-07,Personne vivant seule,Living alone
+110,2,-7.4445865e-08,Famille monoparentale,Single-parent family
+110,4,-2.1506581e-08,Couple sans enfant,childless couple
+110,6,-2.8830851e-07,Couple avec enfant,Couple with child
+110,8,-8.7079101e-08,Autre cas,Other case
+110,9,-7.5197839e-08,Hors logement ordinaire,Not in ordinary housing
+111,1,-1.7686531e-07,Personne vivant seule,Living alone
+111,2,0,Famille monoparentale,Single-parent family
+111,4,-1.8483630e-07,Couple sans enfant,childless couple
+111,6,-2.7642727e-07,Couple avec enfant,Couple with child
+111,8,-1.4227432e-07,Autre cas,Other case
+111,9,0,Hors logement ordinaire,Not in ordinary housing
+112,1,-3.5358025e-07,Personne vivant seule,Living alone
+112,2,0,Famille monoparentale,Single-parent family
+112,4,-4.5720288e-08,Couple sans enfant,childless couple
+112,6,-1.9100252e-08,Couple avec enfant,Couple with child
+112,8,0,Autre cas,Other case
+112,9,0,Hors logement ordinaire,Not in ordinary housing
+113,1,-6.1963021e-08,Personne vivant seule,Living alone
+113,2,-4.1058019e-08,Famille monoparentale,Single-parent family
+113,4,-3.9508944e-07,Couple sans enfant,childless couple
+113,6,-5.0232156e-08,Couple avec enfant,Couple with child
+113,8,0,Autre cas,Other case
+113,9,0,Hors logement ordinaire,Not in ordinary housing
+114,1,-9.2794131e-08,Personne vivant seule,Living alone
+114,2,-1.1580467e-07,Famille monoparentale,Single-parent family
+114,4,-1.3415294e-07,Couple sans enfant,childless couple
+114,6,-6.3015790e-08,Couple avec enfant,Couple with child
+114,8,-4.6472266e-08,Autre cas,Other case
+114,9,0,Hors logement ordinaire,Not in ordinary housing
+115,1,-6.1677270e-07,Personne vivant seule,Living alone
+115,2,-1.4738776e-08,Famille monoparentale,Single-parent family
+115,4,-4.3283876e-07,Couple sans enfant,childless couple
+115,6,-1.9220568e-07,Couple avec enfant,Couple with child
+115,8,-2.2799985e-07,Autre cas,Other case
+115,9,-3.7598920e-08,Hors logement ordinaire,Not in ordinary housing
+116,1,-7.1137158e-08,Personne vivant seule,Living alone
+116,2,-5.3089675e-08,Famille monoparentale,Single-parent family
+116,4,-7.6641641e-07,Couple sans enfant,childless couple
+116,6,-3.2711060e-07,Couple avec enfant,Couple with child
+116,8,-6.8249557e-07,Autre cas,Other case
+116,9,0,Hors logement ordinaire,Not in ordinary housing
+117,1,-5.3255110e-07,Personne vivant seule,Living alone
+117,2,0,Famille monoparentale,Single-parent family
+117,4,-9.1696245e-07,Couple sans enfant,childless couple
+117,6,-1.8588906e-07,Couple avec enfant,Couple with child
+117,8,-1.1314266e-06,Autre cas,Other case
+117,9,-7.5197839e-08,Hors logement ordinaire,Not in ordinary housing
+118,1,-3.7749317e-08,Personne vivant seule,Living alone
+118,2,0,Famille monoparentale,Single-parent family
+118,4,0,Couple sans enfant,childless couple
+118,6,0,Couple avec enfant,Couple with child
+118,8,0,Autre cas,Other case
+118,9,0,Hors logement ordinaire,Not in ordinary housing
+119,1,0,Personne vivant seule,Living alone
+119,2,0,Famille monoparentale,Single-parent family
+119,4,0,Couple sans enfant,childless couple
+119,6,0,Couple avec enfant,Couple with child
+119,8,0,Autre cas,Other case
+119,9,0,Hors logement ordinaire,Not in ordinary housing
+120,1,-3.5553538e-07,Personne vivant seule,Living alone
+120,2,-5.3540862e-08,Famille monoparentale,Single-parent family
+120,4,-2.0122943e-07,Couple sans enfant,childless couple
+120,6,-7.5197839e-08,Couple avec enfant,Couple with child
+120,8,-3.3974385e-07,Autre cas,Other case
+120,9,0,Hors logement ordinaire,Not in ordinary housing
