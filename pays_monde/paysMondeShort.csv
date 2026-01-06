@@ -1,260 +1,260 @@
-région1,région2,pays,paysflag,population_totale,taux_natalité,taux_mortalité,espérance_vie,taux_mortalité_infantile,nombre_enfant_femme,taux_croissance,part_65ans,iso3,iso2,paysf
-Monde,--,Afrique,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7",,,Afrique 
-Monde,--,Amérique Latine-Caraïbes,,667889,"13,8","6,7","76,0","12,6","1,78","6,5","10,2",,,Amérique Latine-Caraïbes 
-Monde,--,Amérique Septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique Septentrionale 
-Monde,--,Asie,,4835320,"13,5","7,2","75,0","20,3","1,87","5,8","10,3",,,Asie 
-Monde,--,Europe,,744399,"8,3","11,4","79,5","3,3","1,41","-1,0","20,9",,,Europe 
-Monde,--,Océanie,,46610,"14,9","6,8","79,5","14,5","2,13","11,1","13,8",,,Océanie 
-Monde,--,Monde,,8231615,"16,1","7,7","73,5","26,4","2,24","8,4","10,4",,,Monde 
-Afrique,--,Afrique Australe,,74022,"18,9","9,0","66,3","24,3","2,27","11,7","6,5",,,Afrique Australe 
-Afrique,--,Afrique centrale,,219525,"38,5","8,0","62,4","48,8","5,37","29,6","2,9",,,Afrique centrale 
-Afrique,--,Afrique occidentale,,466533,"32,2","9,6","58,6","58,7","4,27","22,2","3,1",,,Afrique occidentale 
-Afrique,--,Afrique orientale,,513486,"31,8","6,3","66,0","34,3","3,96","25,0","3,0",,,Afrique orientale 
-Afrique,--,Afrique septentrionale,,276302,"21,2","5,6","72,5","19,9","2,88","16,2","5,8",,,Afrique septentrionale 
-Afrique,--,Afrique,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7",,,Afrique 
-Afrique,Afrique australe,Afrique du Sud,🇿🇦,64747,"18,2","9,3","66,5","22,4","2,19","11,2","6,9",ZAF,ZA,Afrique du Sud 🇿🇦
-Afrique,Afrique australe,Botswana,🇧🇼,2562,"23,9","5,7","69,4","27,2","2,66","15,9","4,1",BWA,BW,Botswana 🇧🇼
-Afrique,Afrique australe,Eswatini,🇸🇿,1256,"23,3","7,8","64,4","36,5","2,68","10,9","4,3",SWZ,SZ,Eswatini 🇸🇿
-Afrique,Afrique australe,Lesotho,🇱🇸,2363,"23,5","10,3","58,2","52,9","2,64","10,9","3,9",LSO,LS,Lesotho 🇱🇸
-Afrique,Afrique australe,Namibie,🇳🇦,3093,"25,4","6,2","67,7","26,3","3,17","19,9","3,8",NAM,NA,Namibie 🇳🇦
-Afrique,Afrique australe,Afrique australe,,74022,"18,9","9,0","66,3","24,3","2,27","11,7","6,5",,,Afrique australe 
-Afrique,Afrique Centrale,Angola,🇦🇴,39040,"36,6","6,8","65,0","46,8","4,95","29,8","2,9",AGO,AO,Angola 🇦🇴
-Afrique,Afrique Centrale,Cameroun,🇨🇲,29879,"32,8","6,9","64,2","44,8","4,19","25,4","2,8",CMR,CM,Cameroun 🇨🇲
-Afrique,Afrique Centrale,Rep. Centrafricaine,🇨🇫,5513,"45,4","9,3","57,9","65,9","5,81","33,4","2,2",CAF,CF,Rep. Centrafricaine 🇨🇫
-Afrique,Afrique Centrale,Congo,🇨🇬,6484,"30,2","6,2","66,2","27,3","4,05","23,5","3,1",COG,CG,Congo 🇨🇬
-Afrique,Afrique Centrale,RD. Congo ,🇨🇩,112832,"40,4","8,3","62,2","48,0","5,90","31,8","3,1",COD,CD,RD. Congo  🇨🇩
-Afrique,Afrique Centrale,Gabon,🇬🇦,2593,"26,6","6,2","68,7","25,9","3,54","20,9","4,1",GAB,GA,Gabon 🇬🇦
-Afrique,Afrique Centrale,Guinée équatoriale,🇬🇶,1938,"29,6","7,8","64,1","50,8","4,04","23,8","3,8",GNQ,GQ,Guinée équatoriale 🇬🇶
-Afrique,Afrique Centrale,Sao Tomé-et-Principe,🇸🇹,240,"27,8","5,5","70,1","10,7","3,53","19,7","3,9",STP,ST,Sao Tomé-et-Principe 🇸🇹
-Afrique,Afrique Centrale,Tchad,🇹🇩,21004,"43,2","11,1","55,4","62,4","5,94","26,3","2,1",TCD,TD,Tchad 🇹🇩
-Afrique,Afrique Centrale,Afrique Centrale,,219525,"38,5","8,0","62,4","48,8","5,37","29,6","2,9",,,Afrique Centrale 
-Afrique,Afrique occidentale,Bénin,🇧🇯,14814,"33,0","8,6","61,1","50,9","4,42","23,9","3,2",BEN,BJ,Bénin 🇧🇯
-Afrique,Afrique occidentale,Burkina Faso,🇧🇫,24075,"30,8","7,8","61,5","53,4","4,00","21,8","2,7",BFA,BF,Burkina Faso 🇧🇫
-Afrique,Afrique occidentale,Cap-Vert,🇨🇻,527,"12,1","5,1","76,4","9,2","1,50","4,5","7,2",CPV,CV,Cap-Vert 🇨🇻
-Afrique,Afrique occidentale,Côte d'Ivoire,🇨🇮,32712,"31,1","7,6","62,3","50,1","4,17","23,9","2,7",CIV,CI,Côte d'Ivoire 🇨🇮
-Afrique,Afrique occidentale,Gambie,🇬🇲,2822,"29,3","6,2","66,3","28,3","3,80","22,0","3,2",GMB,GM,Gambie 🇬🇲
-Afrique,Afrique occidentale,Ghana,🇬🇭,35064,"25,6","7,0","65,9","29,5","3,30","18,1","3,8",GHA,GH,Ghana 🇬🇭
-Afrique,Afrique occidentale,Guinée,🇬🇳,15100,"32,8","8,9","61,1","63,8","4,04","22,7","3,5",GIN,GN,Guinée 🇬🇳
-Afrique,Afrique occidentale,Guinée-Bissau,🇬🇼,2250,"29,1","7,0","64,4","47,4","3,68","21,5","3,2",GNB,GW,Guinée-Bissau 🇬🇼
-Afrique,Afrique occidentale,Libéria,🇱🇷,5731,"30,3","8,0","62,5","54,3","3,79","20,6","3,3",LBR,LR,Libéria 🇱🇷
-Afrique,Afrique occidentale,Mali,🇲🇱,25199,"39,2","8,4","60,9","58,9","5,42","28,9","2,4",MLI,ML,Mali 🇲🇱
-Afrique,Afrique occidentale,Mauritanie,🇲🇷,5315,"33,7","5,3","68,9","28,5","4,56","27,4","3,2",MRT,MR,Mauritanie 🇲🇷
-Afrique,Afrique occidentale,Niger,🇳🇪,27918,"40,8","8,6","61,7","62,1","5,79","31,9","2,6",NER,NE,Niger 🇳🇪
-Afrique,Afrique occidentale,Nigéria,🇳🇬,237528,"32,2","11,6","54,8","67,7","4,30","20,6","3,1",NGA,NG,Nigéria 🇳🇬
-Afrique,Afrique occidentale,Sénégal,🇸🇳,18932,"28,9","5,4","69,2","22,3","3,71","22,8","3,6",SEN,SN,Sénégal 🇸🇳
-Afrique,Afrique occidentale,Sierra Leone,🇸🇱,8820,"29,5","8,1","62,2","69,3","3,61","20,1","3,3",SLE,SL,Sierra Leone 🇸🇱
-Afrique,Afrique occidentale,Togo,🇹🇬,9722,"30,5","7,6","63,1","39,8","4,07","21,3","3,3",TGO,TG,Togo 🇹🇬
-Afrique,Afrique occidentale,Afrique occidentale,,466533,"32,2","9,6","58,6","58,7","4,27","22,2","3,1",,,Afrique occidentale 
-Afrique,Afrique orientale,Burundi,🇧🇮,14390,"32,6","6,6","64,0","34,4","4,68","23,5","2,5",BDI,BI,Burundi 🇧🇮
-Afrique,Afrique orientale,Comores,🇰🇲,883,"27,8","7,0","67,2","34,5","3,76","18,4","4,5",COM,KM,Comores 🇰🇲
-Afrique,Afrique orientale,Djibouti,🇩🇯,1184,"20,7","7,5","66,4","34,7","2,58","12,7","5,0",DJI,DJ,Djibouti 🇩🇯
-Afrique,Afrique orientale,Erythrée,🇪🇷,3607,"28,6","5,9","69,2","25,0","3,61","20,8","4,3",ERI,ER,Erythrée 🇪🇷
-Afrique,Afrique orientale,Ethiopie,🇪🇹,135472,"30,8","5,8","67,9","30,9","3,81","25,2","3,3",ETH,ET,Ethiopie 🇪🇹
-Afrique,Afrique orientale,France - La Réunion,🇷🇪,882,"13,0","5,8","83,8","4,1","2,13","4,3","16,2",REU,RE,France - La Réunion 🇷🇪
-Afrique,Afrique orientale,Kenya,🇰🇪,57533,"26,8","7,1","64,0","28,6","3,12","19,2","3,0",KEN,KE,Kenya 🇰🇪
-Afrique,Afrique orientale,Madagascar,🇲🇬,32741,"31,3","7,4","64,0","43,4","3,84","23,8","3,5",MDG,MG,Madagascar 🇲🇬
-Afrique,Afrique orientale,Malawi,🇲🇼,22216,"30,8","5,2","67,7","28,2","3,53","25,4","2,6",MWI,MW,Malawi 🇲🇼
-Afrique,Afrique orientale,Maurice,🇲🇺,1268,"9,0","9,2","75,3","11,4","1,21","-2,4","14,1",MUS,MU,Maurice 🇲🇺
-Afrique,Afrique orientale,Mayotte,🇾🇹,337,"33,7","2,7","76,4","8,2","4,50","31,2","2,8",MYT,YT,Mayotte 🇾🇹
-Afrique,Afrique orientale,Mozambique,🇲🇿,35632,"36,6","6,8","64,0","47,8","4,62","27,9","2,7",MOZ,MZ,Mozambique 🇲🇿
-Afrique,Afrique orientale,Ouganda,🇺🇬,51385,"33,8","4,7","68,7","26,9","4,06","26,7","2,2",UGA,UG,Ouganda 🇺🇬
-Afrique,Afrique orientale,Rwanda,🇷🇼,14569,"27,7","5,9","68,2","25,5","3,59","22,3","4,0",RWA,RW,Rwanda 🇷🇼
-Afrique,Afrique orientale,Seychelles,🇸🇨,133,"13,3","8,1","73,1","9,9","2,08","17,3","8,7",SYC,SC,Seychelles 🇸🇨
-Afrique,Afrique orientale,Somalie,🇸🇴,19655,"41,8","9,7","59,1","65,0","5,91","32,8","2,6",SOM,SO,Somalie 🇸🇴
-Afrique,Afrique orientale,Sud Soudan,🇸🇸,12189,"29,3","9,9","57,9","62,7","3,71","20,0","3,1",SSD,SS,Sud Soudan 🇸🇸
-Afrique,Afrique orientale,Tanzanie,🇹🇿,70546,"34,3","5,7","67,4","27,5","4,47","28,5","3,0",TZA,TZ,Tanzanie 🇹🇿
-Afrique,Afrique orientale,Zambie,🇿🇲,21914,"32,4","5,1","66,7","36,6","3,97","27,5","2,0",ZMB,ZM,Zambie 🇿🇲
-Afrique,Afrique orientale,Zimbabwe,🇿🇼,16951,"29,5","7,4","63,3","31,4","3,62","18,9","3,6",ZWE,ZW,Zimbabwe 🇿🇼
-Afrique,Afrique orientale,Afrique orientale,,513486,"31,8","6,3","66,0","34,3","3,96","25,0","3,0",,,Afrique orientale 
-Afrique,Afrique septentrionale,Algérie,🇩🇿,47435,"18,0","4,6","76,7","16,4","2,67","12,8","6,8",DZA,DZ,Algérie 🇩🇿
-Afrique,Afrique septentrionale,Egypte,🇪🇬,118366,"20,7","5,6","72,0","12,6","2,71","14,7","5,3",EGY,EG,Egypte 🇪🇬
-Afrique,Afrique septentrionale,Libye,🇱🇾,7459,"16,1","5,6","73,2","9,8","2,25","10,5","5,2",LBY,LY,Libye 🇱🇾
-Afrique,Afrique septentrionale,Maroc,🇲🇦,38431,"16,1","5,8","75,7","13,3","2,18","8,8","8,5",MAR,MA,Maroc 🇲🇦
-Afrique,Afrique septentrionale,Sahara occidental,🇪🇭,601,"15,0","6,5","71,8","22,0","2,15","16,9","6,8",ESH,EH,Sahara occidental 🇪🇭
-Afrique,Afrique septentrionale,Soudan,🇸🇩,51662,"32,1","6,2","66,7","36,6","4,19","31,5","3,4",SDN,SD,Soudan 🇸🇩
-Afrique,Afrique septentrionale,Tunisie,🇹🇳,12349,"13,0","6,2","76,9","9,1","1,80","5,6","9,9",TUN,TN,Tunisie 🇹🇳
-Afrique,Afrique septentrionale,Afrique septentrionale,,276302,"21,2","5,6","72,5","19,9","2,88","16,2","5,8",,,Afrique septentrionale 
-Europe,--,Europe de l'Est,,284452,"8,1","12,7","75,1","4,0","1,40","-1,5","18,9",,,Europe de l'Est 
-Europe,--,Europe de l'Ouest,,199671,"8,9","10,7","82,5","2,9","1,50","-2,0","22,6",,,Europe de l'Ouest 
-Europe,--,Europe du Nord,,109500,"9,5","9,7","81,7","3,1","1,50","4,4","20,0",,,Europe du Nord 
-Europe,--,Europe du Sud,,150776,"7,1","10,9","82,9","2,7","1,29","-2,9","23,3",,,Europe du Sud 
-Europe,--,Europe,,744399,"8,3","11,4","79,5","3,3","1,41","-1,0","20,9",,,Europe 
-Europe,Europe de l'Est,Biélorussie,🇧🇾,8998,"6,9","13,2","74,8","2,3","1,22","-6,6","18,3",BLR,BY,Biélorussie 🇧🇾
-Europe,Europe de l'Est,Bulgarie,🇧🇬,6715,"9,0","15,3","76,0","4,7","1,74","-6,7","22,2",BGR,BG,Bulgarie 🇧🇬
-Europe,Europe de l'Est,Hongrie,🇭🇺,9632,"8,8","13,3","77,3","2,8","1,50","-6,3","21,2",HUN,HU,Hongrie 🇭🇺
-Europe,Europe de l'Est,Moldavie,🇲🇩,2996,"10,4","14,0","71,5","9,6","1,72","-13,6","16,9",MDA,MD,Moldavie 🇲🇩
-Europe,Europe de l'Est,Pologne,🇵🇱,38141,"7,8","11,0","79,0","3,2","1,31","-11,8","20,8",POL,PL,Pologne 🇵🇱
-Europe,Europe de l'Est,Roumanie,🇷🇴,18909,"9,4","13,6","76,2","5,0","1,71","-5,7","20,1",ROU,RO,Roumanie 🇷🇴
-Europe,Europe de l'Est,Russie,🇷🇺,143997,"8,6","13,0","73,5","4,1","1,46","-6,1","17,8",RUS,RU,Russie 🇷🇺
-Europe,Europe de l'Est,Slovaquie,🇸🇰,5475,"9,1","10,3","78,7","3,8","1,57","-7,0","19,0",SVK,SK,Slovaquie 🇸🇰
-Europe,Europe de l'Est,Tchéquie,🇨🇿,10609,"8,2","11,0","80,1","2,1","1,47","-13,4","21,2",CZE,CZ,Tchéquie 🇨🇿
-Europe,Europe de l'Est,Ukraine,🇺🇦,38980,"5,6","13,3","74,9","4,8","1,00","36,0","19,0",UKR,UA,Ukraine 🇺🇦
-Europe,Europe de l'Est,Europe de l'Est,,284452,"8,1","12,7","75,1","4,0","1,40","-1,5","18,9",,,Europe de l'Est 
-Europe,Europe de l'Ouest,Allemagne,🇩🇪,84075,"8,4","12,4","81,7","2,7","1,46","-7,9","23,7",DEU,DE,Allemagne 🇩🇪
-Europe,Europe de l'Ouest,Autriche,🇦🇹,9114,"8,3","10,2","82,3","2,5","1,33","-0,7","21,1",AUT,AT,Autriche 🇦🇹
-Europe,Europe de l'Ouest,Belgique,🇧🇪,11759,"8,6","9,8","82,4","2,8","1,39","1,5","21,0",BEL,BE,Belgique 🇧🇪
-Europe,Europe de l'Ouest,France (hexa.),🇫🇷,66651,"9,5","9,4","83,6","3,1","1,64","1,5","22,5",FRA,FR,France (hexa.) 🇫🇷
-Europe,Europe de l'Ouest,Luxembourg,🇱🇺,680,"10,2","7,4","82,5","2,8","1,40","10,5","15,8",LUX,LU,Luxembourg 🇱🇺
-Europe,Europe de l'Ouest,Pays-Bas,🇳🇱,18347,"9,5","9,2","82,4","3,0","1,44","6,0","20,9",NLD,NL,Pays-Bas 🇳🇱
-Europe,Europe de l'Ouest,Suisse,🇨🇭,8967,"9,1","8,5","84,2","3,1","1,44","4,8","20,4",CHE,CH,Suisse 🇨🇭
-Europe,Europe de l'Ouest,Europe de l'Ouest,,199671,"8,9","10,7","82,5","2,9","1,50","-2,0","22,6",,,Europe de l'Ouest 
-Europe,Europe du Nord,Danemark,🇩🇰,6003,"9,9","9,7","82,2","2,7","1,52","3,9","21,1",DNK,DK,Danemark 🇩🇰
-Europe,Europe du Nord,Estonie,🇪🇪,1344,"7,9","12,3","79,5","1,6","1,37","-14,3","21,8",EST,EE,Estonie 🇪🇪
-Europe,Europe du Nord,Finlande,🇫🇮,5623,"7,8","10,8","82,2","1,6","1,30","0,3","24,2",FIN,FI,Finlande 🇫🇮
-Europe,Europe du Nord,Guernsey,🇬🇬,64,"8,1","9,5","83,5","5,6","1,37","2,7","22,2",GGY,GG,Guernsey 🇬🇬
-Europe,Europe du Nord,Irlande,🇮🇪,5308,"9,9","7,0","82,7","2,6","1,60","9,6","16,2",IRL,IE,Irlande 🇮🇪
-Europe,Europe du Nord,Islande,🇮🇸,398,"11,0","6,6","83,2","1,2","1,50","11,1","16,0",ISL,IS,Islande 🇮🇸
-Europe,Europe du Nord,Jersey,🇯🇪,104,"8,2","11,0","80,0","8,4","1,38","1,2","19,3",JEY,JE,Jersey 🇯🇪
-Europe,Europe du Nord,Lettonie,🇱🇻,1854,"7,4","14,8","76,5","2,7","1,35","-11,3","22,2",LVA,LV,Lettonie 🇱🇻
-Europe,Europe du Nord,Lituanie,🇱🇹,2830,"7,8","14,1","76,3","3,0","1,22","-15,0","20,7",LTU,LT,Lituanie 🇱🇹
-Europe,Europe du Nord,Norvège,🇳🇴,5623,"9,4","7,8","83,6","1,7","1,42","7,0","19,1",NOR,NO,Norvège 🇳🇴
-Europe,Europe du Nord,Royaume Uni,🇬🇧,69551,"9,8","9,7","81,6","3,5","1,54","5,7","19,7",GBR,GB,Royaume Uni 🇬🇧
-Europe,Europe du Nord,Suède,🇸🇪,10657,"9,1","9,1","83,6","1,8","1,44","4,5","20,9",SWE,SE,Suède 🇸🇪
-Europe,Europe du Nord,Europe du Nord,,109500,"9,5","9,7","81,7","3,1","1,50","4,4","20,0",,,Europe du Nord 
-Europe,Europe du Sud,Albanie,🇦🇱,2772,"9,9","8,6","80,0","6,9","1,33","-7,5","17,6",ALB,AL,Albanie 🇦🇱
-Europe,Europe du Sud,Bosnie-Herzégovine,🇧🇦,3140,"7,7","13,6","78,2","4,7","1,50","-8,1","22,9",BIH,BA,Bosnie-Herzégovine 🇧🇦
-Europe,Europe du Sud,Croatie,🇭🇷,3848,"8,1","14,0","78,9","3,3","1,47","-6,8","23,6",HRV,HR,Croatie 🇭🇷
-Europe,Europe du Sud,Espagne,🇪🇸,47890,"6,9","9,5","84,0","2,1","1,23","-0,6","21,6",ESP,ES,Espagne 🇪🇸
-Europe,Europe du Sud,Grèce,🇬🇷,9939,"6,9","12,6","82,2","2,8","1,34","-4,1","24,4",GRC,GR,Grèce 🇬🇷
-Europe,Europe du Sud,Italie,🇮🇹,59146,"6,5","11,3","84,0","2,1","1,21","-3,5","25,1",ITA,IT,Italie 🇮🇹
-Europe,Europe du Sud,Kosovo,🇽🇰,1674,"11,7","6,1","78,4","8,6","1,53","-5,4","10,5",KOS,XK,Kosovo 🇽🇰
-Europe,Europe du Sud,Macédoine du Nord,🇲🇰,1814,"9,0","11,1","77,7","5,9","1,47","-5,2","18,5",MKD,MK,Macédoine du Nord 🇲🇰
-Europe,Europe du Sud,Malte,🇲🇹,545,"7,8","7,7","83,6","4,5","1,11","9,5","20,5",MLT,MT,Malte 🇲🇹
-Europe,Europe du Sud,Monténégro,🇲🇪,633,"11,0","11,5","77,4","1,8","1,80","-15,2","18,3",MNE,ME,Monténégro 🇲🇪
-Europe,Europe du Sud,Portugal,🇵🇹,10412,"8,2","11,4","82,7","2,2","1,52","-1,6","24,9",PRT,PT,Portugal 🇵🇹
-Europe,Europe du Sud,Serbie,🇷🇸,6689,"8,7","14,2","77,1","3,8","1,50","-7,5","23,1",SRB,RS,Serbie 🇷🇸
-Europe,Europe du Sud,Slovénie,🇸🇮,2117,"8,1","10,4","81,9","1,4","1,58","-1,0","22,2",SVN,SI,Slovénie 🇸🇮
-Europe,Europe du Sud,Europe du Sud,,150776,"7,1","10,9","82,9","2,7","1,29","-2,9","23,3",,,Europe du Sud 
-Amérique Latine-Caraïbes,--,Amérique centrale,,185161,"16,1","6,0","75,3","11,0","1,95","9,3","7,9",,,Amérique centrale 
-Amérique Latine-Caraïbes,--,Amérique du Sud,,438105,"12,8","6,9","76,6","11,7","1,69","5,6","11,0",,,Amérique du Sud 
-Amérique Latine-Caraïbes,--,Caraïbes,,44622,"14,4","8,5","73,4","27,2","1,95","3,8","11,4",,,Caraïbes 
-Amérique Latine-Caraïbes,--,Amérique Latine-Caraïbes,,667889,"13,8","6,7","76,0","12,6","1,78","6,5","10,2",,,Amérique Latine-Caraïbes 
-Amérique Latine-Caraïbes,Amérique centrale,Belize,🇧🇿,423,"17,8","5,0","73,9","8,5","2,01","13,6","5,2",BLZ,BZ,Belize 🇧🇿
-Amérique Latine-Caraïbes,Amérique centrale,Costa Rica,🇨🇷,5153,"9,8","5,7","81,2","6,2","1,31","4,4","12,8",CRI,CR,Costa Rica 🇨🇷
-Amérique Latine-Caraïbes,Amérique centrale,Guatemala,🇬🇹,18688,"20,3","4,9","72,9","16,8","2,26","15,0","5,0",GTM,GT,Guatemala 🇬🇹
-Amérique Latine-Caraïbes,Amérique centrale,Honduras,🇭🇳,11006,"21,3","4,6","73,2","12,2","2,45","16,3","4,5",HND,HN,Honduras 🇭🇳
-Amérique Latine-Caraïbes,Amérique centrale,Mexique,🇲🇽,131947,"15,2","6,3","75,4","10,0","1,87","8,1","8,5",MEX,MX,Mexique 🇲🇽
-Amérique Latine-Caraïbes,Amérique centrale,Nicaragua,🇳🇮,7008,"18,8","4,7","75,3","10,5","2,18","12,9","5,7",NIC,NI,Nicaragua 🇳🇮
-Amérique Latine-Caraïbes,Amérique centrale,Panama,🇵🇦,4571,"15,7","5,0","80,0","10,0","2,09","12,0","9,7",PAN,PA,Panama 🇵🇦
-Amérique Latine-Caraïbes,Amérique centrale,Salvador,🇸🇻,6366,"15,4","7,5","72,5","9,0","1,75","4,1","8,3",SLV,SV,Salvador 🇸🇻
-Amérique Latine-Caraïbes,Amérique centrale,Amérique centrale,,185161,"16,1","6,0","75,3","11,0","1,95","9,3","7,9",,,Amérique centrale 
-Amérique Latine-Caraïbes,Amérique du Sud,Argentine,🇦🇷,45851,"11,1","7,8","77,7","8,7","1,50","3,4","12,6",ARG,AR,Argentine 🇦🇷
-Amérique Latine-Caraïbes,Amérique du Sud,Bolivie,🇧🇴,12582,"20,8","7,2","68,9","30,3","2,50","13,4","5,7",BOL,BO,Bolivie 🇧🇴
-Amérique Latine-Caraïbes,Amérique du Sud,Brésil,🇧🇷,212812,"11,9","7,2","76,2","11,6","1,60","3,7","11,5",BRA,BR,Brésil 🇧🇷
-Amérique Latine-Caraïbes,Amérique du Sud,Chili,🇨🇱,19860,"8,6","6,7","81,5","5,4","1,13","4,5","14,6",CHL,CL,Chili 🇨🇱
-Amérique Latine-Caraïbes,Amérique du Sud,Colombie,🇨🇴,53426,"13,0","5,6","78,1","9,3","1,62","9,8","10,2",COL,CO,Colombie 🇨🇴
-Amérique Latine-Caraïbes,Amérique du Sud,Equateur,🇪🇨,18290,"14,6","5,3","77,8","9,6","1,79","8,4","8,6",ECU,EC,Equateur 🇪🇨
-Amérique Latine-Caraïbes,Amérique du Sud,Guyana,🇬🇾,836,"19,5","7,6","70,4","17,9","2,37","5,9","7,0",GUY,GY,Guyana 🇬🇾
-Amérique Latine-Caraïbes,Amérique du Sud,Guyane (française),🇬🇫,314,"24,2","4,9","77,4","8,6","3,29","16,5","7,3",GUF,GF,Guyane (française) 🇬🇫
-Amérique Latine-Caraïbes,Amérique du Sud,Paraguay,🇵🇾,7013,"19,4","5,7","74,1","15,5","2,39","11,9","6,7",PRY,PY,Paraguay 🇵🇾
-Amérique Latine-Caraïbes,Amérique du Sud,Pérou,🇵🇪,34577,"15,5","5,7","78,1","9,8","1,94","10,2","9,5",PER,PE,Pérou 🇵🇪
-Amérique Latine-Caraïbes,Amérique du Sud,Surinam,🇸🇷,640,"17,0","6,9","73,9","10,5","2,21","8,5","8,2",SUR,SR,Surinam 🇸🇷
-Amérique Latine-Caraïbes,Amérique du Sud,Uruguay,🇺🇾,3385,"9,7","9,9","78,5","5,8","1,39","-0,6","16,3",URY,UY,Uruguay 🇺🇾
-Amérique Latine-Caraïbes,Amérique du Sud,Venezuela,🇻🇪,28517,"15,3","7,8","72,8","14,4","2,06","4,0","10,0",VEN,VE,Venezuela 🇻🇪
-Amérique Latine-Caraïbes,Amérique du Sud,Amérique du Sud,,438105,"12,8","6,9","76,6","11,7","1,69","5,6","11,0",,,Amérique du Sud 
-Amérique Latine-Caraïbes,Caraïbes,Antigua-et-Barbuda,🇦🇬,94,"11,6","7,1","77,9","7,2","1,58","4,6","12,3",ATG,AG,Antigua-et-Barbuda 🇦🇬
-Amérique Latine-Caraïbes,Caraïbes,Aruba,🇦🇼,108,"9,5","10,0","76,6","10,7","1,61","0,5","17,8",ABW,AW,Aruba 🇦🇼
-Amérique Latine-Caraïbes,Caraïbes,Bahamas,🇧🇸,403,"10,7","8,9","74,9","10,4","1,36","4,1","12,1",BHS,BS,Bahamas 🇧🇸
-Amérique Latine-Caraïbes,Caraïbes,Barbade,🇧🇧,283,"11,0","10,3","76,5","10,7","1,70","0,5","17,1",BRB,BB,Barbade 🇧🇧
-Amérique Latine-Caraïbes,Caraïbes,Cuba,🇨🇺,10937,"8,5","10,5","78,4","4,4","1,45","-4,0","17,0",CUB,CU,Cuba 🇨🇺
-Amérique Latine-Caraïbes,Caraïbes,Curaçao,🇨🇼,185,"7,5","10,2","77,2","8,0","1,07","-0,2","17,3",CUW,CW,Curaçao 🇨🇼
-Amérique Latine-Caraïbes,Caraïbes,Rep. Dominicaine,🇩🇴,11520,"17,3","6,3","74,0","24,8","2,19","7,9","8,2",DOM,DO,Rep. Dominicaine 🇩🇴
-Amérique Latine-Caraïbes,Caraïbes,France - Guadeloupe,🇬🇵,374,"10,6","9,9","82,4","6,4","2,05","-3,6","24,7",GLP,GP,France - Guadeloupe 🇬🇵
-Amérique Latine-Caraïbes,Caraïbes,France - Martinique,🇲🇶,340,"10,0","10,7","82,9","6,1","1,97","-8,1","26,3",MTQ,MQ,France - Martinique 🇲🇶
-Amérique Latine-Caraïbes,Caraïbes,Grenade,🇬🇩,117,"11,2","9,0","75,5","11,4","1,46","0,7","12,6",GRD,GD,Grenade 🇬🇩
-Amérique Latine-Caraïbes,Caraïbes,Haïti,🇭🇹,11906,"21,6","7,8","65,3","43,4","2,59","11,1","4,8",HTI,HT,Haïti 🇭🇹
-Amérique Latine-Caraïbes,Caraïbes,Îles Vierges américaines,🇻🇮,84,"11,0","15,5","75,9","4,7","2,07","-8,8","23,1",VIR,VI,Îles Vierges américaines 🇻🇮
-Amérique Latine-Caraïbes,Caraïbes,Jamaïque,🇯🇲,2837,"11,2","8,3","71,7","15,1","1,34","-1,0","8,6",JAM,JM,Jamaïque 🇯🇲
-Amérique Latine-Caraïbes,Caraïbes,Porto Rico,🇵🇷,3235,"5,9","10,7","82,1","4,8","0,94","-3,1","25,3",PRI,PR,Porto Rico 🇵🇷
-Amérique Latine-Caraïbes,Caraïbes,Sainte Lucie,🇱🇨,180,"11,0","8,8","73,0","13,4","1,38","2,1","10,0",LCA,LC,Sainte Lucie 🇱🇨
-Amérique Latine-Caraïbes,Caraïbes,St Vincent-et-les-Grenad.,🇻🇨,100,"11,8","11,6","71,5","12,1","1,75","-6,8","12,2",VCT,VC,St Vincent-et-les-Grenad. 🇻🇨
-Amérique Latine-Caraïbes,Caraïbes,Trinité-et-Tobago,🇹🇹,1511,"10,3","9,0","73,7","13,4","1,52","1,8","12,9",TTO,TT,Trinité-et-Tobago 🇹🇹
-Amérique Latine-Caraïbes,Caraïbes,Caraïbes,,44622,"14,4","8,5","73,4","27,2","1,95","3,8","11,4",,,Caraïbes 
-Amérique septentrionale,--,Canada,🇨🇦,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3",CAN,CA,Canada 🇨🇦
-Amérique septentrionale,--,Etats-Unis,🇺🇸,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4",USA,US,Etats-Unis 🇺🇸
-Amérique septentrionale,--,Amérique septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique septentrionale 
-Amérique septentrionale,Amérique septentrionale,Canada,🇨🇦,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3",CAN,CA,Canada 🇨🇦
-Amérique septentrionale,Amérique septentrionale,Etats-Unis,🇺🇸,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4",USA,US,Etats-Unis 🇺🇸
-Amérique septentrionale,Amérique septentrionale,Amérique septentrionale,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6",,,Amérique septentrionale 
-Asie,--,Asie de l'Est,,1652186,"6,2","8,6","79,3","5,8","1,03","-2,4","16,3",,,Asie de l'Est 
-Asie,--,Asie de l'Ouest,,314297,"19,0","4,8","75,9","16,3","2,52","15,1","6,3",,,Asie de l'Ouest 
-Asie,--,Asie du Centre et du Sud,,2168806,"17,9","6,4","72,2","25,6","2,21","10,4","6,9",,,Asie du Centre et du Sud 
-Asie,--,Asie du Sud-Est,,700032,"14,5","7,4","72,5","17,2","1,91","6,9","8,4",,,Asie du Sud-Est 
-Asie,--,Asie,,4835320,"13,5","7,2","75,0","20,3","1,87","5,8","10,3",,,Asie 
-Asie,Asie de l'Est,Chine,🇨🇳,1416096,"6,2","8,3","78,4","6,0","1,02","-2,3","14,9",CHN,CN,Chine 🇨🇳
-Asie,Asie de l'Est,Chine - Hong Kong,🇭🇰,7396,"5,3","7,9","85,8","1,4","0,74","-0,2","23,7",HKG,HK,Chine - Hong Kong 🇭🇰
-Asie,Asie de l'Est,Chine - Macao,🇲🇴,722,"6,3","4,9","83,4","2,5","0,69","1,0","15,1",MAC,MO,Chine - Macao 🇲🇴
-Asie,Asie de l'Est,Corée du Nord,🇰🇵,26571,"12,6","10,0","73,9","13,0","1,77","2,5","12,7",PRK,KP,Corée du Nord 🇰🇵
-Asie,Asie de l'Est,Corée du Sud,🇰🇷,51667,"4,8","7,2","84,5","1,9","0,75","-1,2","20,3",KOR,KR,Corée du Sud 🇰🇷
-Asie,Asie de l'Est,Japon,🇯🇵,123104,"6,1","12,6","85,0","1,6","1,23","-5,4","30,0",JPN,JP,Japon 🇯🇵
-Asie,Asie de l'Est,Mongolie,🇲🇳,3517,"17,5","6,0","72,2","8,6","2,58","11,5","5,4",MNG,MN,Mongolie 🇲🇳
-Asie,Asie de l'Est,Taïwan,🇹🇼,23113,"5,4","8,9","80,9","3,0","0,86","-4,4","20,1",TWN,TW,Taïwan 🇹🇼
-Asie,Asie de l'Est,Asie de l'Est,,1652186,"6,2","8,6","79,3","5,8","1,03","-2,4","16,3",,,Asie de l'Est 
-Asie,Asie de l'Ouest,Arabie saoudite,🇸🇦,34566,"16,3","2,3","79,2","5,8","2,29","17,5","3,1",SAU,SA,Arabie saoudite 🇸🇦
-Asie,Asie de l'Ouest,Arménie,🇦🇲,2952,"11,8","9,4","76,0","8,8","1,71","-7,4","14,4",ARM,AM,Arménie 🇦🇲
-Asie,Asie de l'Ouest,Azerbaïdjan,🇦🇿,10398,"11,6","6,7","74,7","13,7","1,66","5,6","9,2",AZE,AZ,Azerbaïdjan 🇦🇿
-Asie,Asie de l'Ouest,Bahreïn,🇧🇭,1643,"11,9","2,2","81,6","5,1","1,78","20,7","4,0",BHR,BH,Bahreïn 🇧🇭
-Asie,Asie de l'Ouest,Chypre,🇨🇾,1371,"10,2","7,0","82,0","2,5","1,37","8,8","14,9",CYP,CY,Chypre 🇨🇾
-Asie,Asie de l'Ouest,Emirats Arabes Unis,🇦🇪,11346,"10,1","1,0","83,2","4,8","1,21","23,1","1,8",ARE,AE,Emirats Arabes Unis 🇦🇪
-Asie,Asie de l'Ouest,Géorgie,🇬🇪,3807,"11,1","11,8","74,8","6,4","1,79","-0,4","16,0",GEO,GE,Géorgie 🇬🇪
-Asie,Asie de l'Ouest,Irak,🇮🇶,47021,"25,3","4,2","72,5","18,3","3,17","21,0","3,4",IRQ,IQ,Irak 🇮🇶
-Asie,Asie de l'Ouest,Israël,🇮🇱,9517,"18,0","5,6","82,8","2,9","2,75","13,7","12,7",ISR,IL,Israël 🇮🇱
-Asie,Asie de l'Ouest,Jordanie,🇯🇴,11521,"20,1","3,2","78,1","11,1","2,57","-9,4","4,8",JOR,JO,Jordanie 🇯🇴
-Asie,Asie de l'Ouest,Koweït,🇰🇼,5026,"9,7","1,8","80,8","6,2","1,50","16,4","3,2",KWT,KW,Koweït 🇰🇼
-Asie,Asie de l'Ouest,Liban,🇱🇧,5849,"15,8","6,1","78,1","14,9","2,21","8,0","10,4",LBN,LB,Liban 🇱🇧
-Asie,Asie de l'Ouest,Oman,🇴🇲,5495,"16,4","1,9","80,5","8,0","2,48","35,2","2,7",OMN,OM,Oman 🇴🇲
-Asie,Asie de l'Ouest,Palestine,🇵🇸,5590,"25,9","4,2","73,1","17,1","3,19","17,6","3,9",PSE,PS,Palestine 🇵🇸
-Asie,Asie de l'Ouest,Qatar,🇶🇦,3116,"9,6","1,0","82,7","5,6","1,70","20,2","1,7",QAT,QA,Qatar 🇶🇦
-Asie,Asie de l'Ouest,Syrie,🇸🇾,25620,"23,5","4,8","73,0","14,3","2,66","35,1","4,8",SYR,SY,Syrie 🇸🇾
-Asie,Asie de l'Ouest,Turquie,🇹🇷,87685,"12,0","6,6","77,8","8,8","1,62","2,5","10,6",TUR,TR,Turquie 🇹🇷
-Asie,Asie de l'Ouest,Yémen,🇾🇪,41774,"33,5","4,7","69,6","30,7","4,41","28,5","2,5",YEM,YE,Yémen 🇾🇪
-Asie,Asie de l'Ouest,Asie de l'Ouest,,314297,"19,0","4,8","75,9","16,3","2,52","15,1","6,3",,,Asie de l'Ouest 
-Asie,Asie du Centre et du Sud,Afghanistan,🇦🇫,43844,"34,4","5,6","66,5","41,4","4,66","27,1","2,4",AFG,AF,Afghanistan 🇦🇫
-Asie,Asie du Centre et du Sud,Bangladesh,🇧🇩,175687,"19,6","5,1","75,2","16,1","2,11","12,2","6,7",BGD,BD,Bangladesh 🇧🇩
-Asie,Asie du Centre et du Sud,Bhoutan,🇧🇹,797,"12,3","6,0","73,5","17,4","1,44","6,9","6,6",BTN,BT,Bhoutan 🇧🇹
-Asie,Asie du Centre et du Sud,Inde,🇮🇳,1463866,"15,8","6,6","72,5","21,7","1,94","8,8","7,4",IND,IN,Inde 🇮🇳
-Asie,Asie du Centre et du Sud,Iran,🇮🇷,92418,"12,2","4,8","78,1","8,8","1,67","8,6","8,6",IRN,IR,Iran 🇮🇷
-Asie,Asie du Centre et du Sud,Kazakhstan,🇰🇿,20844,"19,0","6,7","74,7","6,5","2,95","11,8","9,0",KAZ,KZ,Kazakhstan 🇰🇿
-Asie,Asie du Centre et du Sud,Kirgizistan,🇰🇬,7295,"20,5","6,0","72,0","11,7","2,75","14,7","6,0",KGZ,KG,Kirgizistan 🇰🇬
-Asie,Asie du Centre et du Sud,Maldives,🇲🇻,530,"10,2","2,4","81,5","4,3","1,55","3,5","5,0",MDV,MV,Maldives 🇲🇻
-Asie,Asie du Centre et du Sud,Népal,🇳🇵,29618,"18,6","7,0","70,9","19,6","1,94","-0,7","6,6",NPL,NP,Népal 🇳🇵
-Asie,Asie du Centre et du Sud,Ouzbékistan,🇺🇿,37053,"24,6","6,0","72,7","11,9","3,45","18,4","6,1",UZB,UZ,Ouzbékistan 🇺🇿
-Asie,Asie du Centre et du Sud,Pakistan,🇵🇰,255220,"27,1","6,4","67,9","47,4","3,50","15,8","4,4",PAK,PK,Pakistan 🇵🇰
-Asie,Asie du Centre et du Sud,Sri Lanka,🇱🇰,23229,"13,7","7,2","77,9","4,8","1,94","5,2","12,5",LKA,LK,Sri Lanka 🇱🇰
-Asie,Asie du Centre et du Sud,Tadjikistan,🇹🇯,10787,"24,5","4,6","72,1","20,4","2,99","17,9","4,1",TJK,TJ,Tadjikistan 🇹🇯
-Asie,Asie du Centre et du Sud,Turkménistan,🇹🇲,7619,"20,0","5,9","70,3","27,8","2,63","15,9","4,8",TKM,TM,Turkménistan 🇹🇲
-Asie,Asie du Centre et du Sud,Asie du Centre et du Sud,,2168806,"17,9","6,4","72,2","25,6","2,21","10,4","6,9",,,Asie du Centre et du Sud 
-Asie,Asie du Sud-Est,Brunei,🇧🇳,466,"13,0","5,4","75,7","7,5","1,71","7,5","7,2",BRN,BN,Brunei 🇧🇳
-Asie,Asie du Sud-Est,Cambodge,🇰🇭,17848,"19,9","6,5","71,0","18,1","2,51","11,6","6,4",KHM,KH,Cambodge 🇰🇭
-Asie,Asie du Sud-Est,Indonésie,🇮🇩,285721,"15,5","7,7","71,4","16,1","2,10","7,7","7,5",IDN,ID,Indonésie 🇮🇩
-Asie,Asie du Sud-Est,Laos,🇱🇦,7873,"20,5","6,2","69,5","29,0","2,36","13,0","4,8",LAO,LA,Laos 🇱🇦
-Asie,Asie du Sud-Est,Malaisie,🇲🇾,35978,"12,2","5,4","77,0","4,9","1,53","11,5","8,0",MYS,MY,Malaisie 🇲🇾
-Asie,Asie du Sud-Est,Myanmar (Birmanie),🇲🇲,54851,"16,2","9,2","67,3","32,4","2,08","6,2","7,5",MMR,MM,Myanmar (Birmanie) 🇲🇲
-Asie,Asie du Sud-Est,Philippines,🇵🇭,116787,"15,8","6,5","70,1","19,4","1,88","8,1","5,7",PHL,PH,Philippines 🇵🇭
-Asie,Asie du Sud-Est,Singapour,🇸🇬,5871,"8,5","5,1","84,0","1,7","0,96","6,3","14,2",SGP,SG,Singapour 🇸🇬
-Asie,Asie du Sud-Est,Thaïlande,🇹🇭,71620,"8,0","9,1","76,8","7,8","1,19","-0,8","16,0",THA,TH,Thaïlande 🇹🇭
-Asie,Asie du Sud-Est,Timor-Est,🇹🇱,1419,"21,6","7,2","68,1","35,0","2,56","12,6","5,2",TLS,TL,Timor-Est 🇹🇱
-Asie,Asie du Sud-Est,Viêt Nam,🇻🇳,101598,"13,1","6,7","74,9","14,3","1,88","5,9","9,5",VNM,VN,Viêt Nam 🇻🇳
-Asie,Asie du Sud-Est,Asie du Sud-Est,,700032,"14,5","7,4","72,5","17,2","1,91","6,9","8,4",,,Asie du Sud-Est 
-Océanie,--,Australie / Nouvelle-Zélande,,32226,"11,3","6,9","83,9","2,7","1,64","9,2","18,0",,,Australie / Nouvelle-Zélande 
-Océanie,--,Mélanésie,,13165,"23,5","6,7","67,2","28,3","2,99","16,7","4,0",,,Mélanésie 
-Océanie,--,Micronésie,,529,"19,8","7,3","71,8","23,1","2,79","3,3","8,3",FSM,FM,Micronésie 
-Océanie,--,Polynésie,,690,"17,3","5,6","77,6","9,5","2,50","0,1","9,1",,,Polynésie 
-Océanie,--,Océanie,,46610,"14,9","6,8","79,5","14,5","2,13","11,1","13,8",,,Océanie 
-Océanie,Australie / Nouvelle-Zélande,Australie,🇦🇺,26974,"11,3","6,8","84,2","2,6","1,64","9,6","18,1",AUS,AU,Australie 🇦🇺
-Océanie,Australie / Nouvelle-Zélande,Nouvelle-Zélande,🇳🇿,5252,"11,1","7,5","82,4","3,6","1,65","7,0","17,6",NZL,NZ,Nouvelle-Zélande 🇳🇿
-Océanie,Australie / Nouvelle-Zélande,Australie / Nouvelle-Zélande,,32226,"11,3","6,9","83,9","2,7","1,64","9,2","18,0",,,Australie / Nouvelle-Zélande 
-Océanie,Mélanésie,Fidji,🇫🇯,933,"17,6","9,5","67,6","15,8","2,25","4,6","6,6",FJI,FJ,Fidji 🇫🇯
-Océanie,Mélanésie,France/ Nouvelle Calédonie,🇳🇨,295,"13,8","6,3","79,1","8,2","1,95","9,0","11,8",NCL,NC,France/ Nouvelle Calédonie 🇳🇨
-Océanie,Mélanésie,Papouasie-Nouvelle-Guinée,🇵🇬,10763,"23,9","6,6","66,4","31,2","3,03","17,3","3,6",PNG,PG,Papouasie-Nouvelle-Guinée 🇵🇬
-Océanie,Mélanésie,Salomon (Îles),🇸🇧,839,"26,4","5,0","70,8","13,6","3,47","23,3","3,7",LSB,SB,Salomon (Îles) 🇸🇧
-Océanie,Mélanésie,Vanuatu,🇻🇺,335,"27,2","5,0","71,8","13,7","3,53","22,1","4,4",VUT,VU,Vanuatu 🇻🇺
-Océanie,Mélanésie,Mélanésie,,13165,"23,5","6,7","67,2","28,3","2,99","16,7","4,0",,,Mélanésie 
-Océanie,Micronésie,Guam,🇬🇺,169,"17,0","7,0","77,6","9,7","2,71","7,1","13,1",GUM,GU,Guam 🇬🇺
-Océanie,Micronésie,Kiribati,🇰🇮,137,"24,8","7,1","66,7","41,9","3,09","14,4","4,4",KIR,KI,Kiribati 🇰🇮
-Océanie,Micronésie,Micronésie (États fédérés de),🇫🇲,114,"22,1","7,8","67,5","18,2","2,71","4,5","6,2",FSM,FM,Micronésie (États fédérés de) 🇫🇲
-Océanie,Micronésie,Micronésie,,529,"19,8","7,3","71,8","23,1","2,79","3,3","8,3",,,Micronésie 
-Océanie,Polynésie,Polynésie française,🇵🇫,282,"10,5","4,0","84,3","5,0","1,48","2,3","11,9",PYF,PF,Polynésie française 🇵🇫
-Océanie,Polynésie,Samoa occidentales,🇼🇸,219,"24,6","6,2","71,9","12,5","3,75","5,6","6,1",WSM,WS,Samoa occidentales 🇼🇸
-Océanie,Polynésie,Tonga,🇹🇴,104,"22,8","6,5","73,2","8,4","3,07","-4,4","6,8",TON,TO,Tonga 🇹🇴
-Océanie,Polynésie,Polynésie,,690,"17,3","5,6","77,6","9,5","2,50","0,1","9,1",,,Polynésie 
+Région1,Région1En,Région2,Région2En,Pays,paysEn,PaysFlag,Population_totale,Taux_natalité,Taux_mortalité,Espérance_vie,Taux_mortalité_infantile,Nombre_enfant_femme,Taux_croissance,Part_65ans
+Monde,World,--,--,Afrique,Africa,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7"
+Monde,World,--,,Amérique Latine-Caraïbes,Latin America and the Caribbean,,667889,"13,8","6,7","76,0","12,6","1,78","6,5","10,2"
+Monde,World,--,--,Amérique Septentrionale,Northern America,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6"
+Monde,World,--,--,Asie,Asia,,4835320,"13,5","7,2","75,0","20,3","1,87","5,8","10,3"
+Monde,World,--,--,Europe,Europe,,744399,"8,3","11,4","79,5","3,3","1,41","-1,0","20,9"
+Monde,World,--,--,Océanie,Oceania,,46610,"14,9","6,8","79,5","14,5","2,13","11,1","13,8"
+Monde,World,--,--,Monde,World,,8231615,"16,1","7,7","73,5","26,4","2,24","8,4","10,4"
+Afrique,Africa,--,--,Afrique Australe,Southern Africa,,74022,"18,9","9,0","66,3","24,3","2,27","11,7","6,5"
+Afrique,Africa,--,--,Afrique centrale,Central Africa,,219525,"38,5","8,0","62,4","48,8","5,37","29,6","2,9"
+Afrique,Africa,--,--,Afrique occidentale,West Africa,,466533,"32,2","9,6","58,6","58,7","4,27","22,2","3,1"
+Afrique,Africa,--,--,Afrique orientale,East Africa,,513486,"31,8","6,3","66,0","34,3","3,96","25,0","3,0"
+Afrique,Africa,--,--,Afrique septentrionale,Northern Africa,,276302,"21,2","5,6","72,5","19,9","2,88","16,2","5,8"
+Afrique,Africa,--,--,Afrique,Africa,,1549867,"30,4","7,6","64,2","42,6","3,95","22,6","3,7"
+Afrique,Africa,Afrique australe,Southern Africa,Afrique du Sud,South Africa,🇿🇦,64747,"18,2","9,3","66,5","22,4","2,19","11,2","6,9"
+Afrique,Africa,Afrique australe,Southern Africa,Botswana,Botswana,🇧🇼,2562,"23,9","5,7","69,4","27,2","2,66","15,9","4,1"
+Afrique,Africa,Afrique australe,Southern Africa,Eswatini,Eswatini,,1256,"23,3","7,8","64,4","36,5","2,68","10,9","4,3"
+Afrique,Africa,Afrique australe,Southern Africa,Lesotho,Lesotho,🇱🇸,2363,"23,5","10,3","58,2","52,9","2,64","10,9","3,9"
+Afrique,Africa,Afrique australe,Southern Africa,Namibie,Namibia,🇳🇦,3093,"25,4","6,2","67,7","26,3","3,17","19,9","3,8"
+Afrique,Africa,Afrique australe,Southern Africa,Afrique australe,Southern Africa,,74022,"18,9","9,0","66,3","24,3","2,27","11,7","6,5"
+Afrique,Africa,Afrique Centrale,Central Africa,Angola,Angola,🇦🇴,39040,"36,6","6,8","65,0","46,8","4,95","29,8","2,9"
+Afrique,Africa,Afrique Centrale,Central Africa,Cameroun,Cameroon,🇨🇲,29879,"32,8","6,9","64,2","44,8","4,19","25,4","2,8"
+Afrique,Africa,Afrique Centrale,Central Africa,Rep. Centrafricaine,Central African Republic,🇨🇫,5513,"45,4","9,3","57,9","65,9","5,81","33,4","2,2"
+Afrique,Africa,Afrique Centrale,Central Africa,Congo,Congo,🇨🇬,6484,"30,2","6,2","66,2","27,3","4,05","23,5","3,1"
+Afrique,Africa,Afrique Centrale,Central Africa,RD. Congo ,RD. Congo,🇨🇩,112832,"40,4","8,3","62,2","48,0","5,90","31,8","3,1"
+Afrique,Africa,Afrique Centrale,Central Africa,Gabon,Gabon,🇬🇦,2593,"26,6","6,2","68,7","25,9","3,54","20,9","4,1"
+Afrique,Africa,Afrique Centrale,Central Africa,Guinée équatoriale,Equatorial Guinea,🇬🇶,1938,"29,6","7,8","64,1","50,8","4,04","23,8","3,8"
+Afrique,Africa,Afrique Centrale,Central Africa,Sao Tomé-et-Principe,Sao Tome and Principe,🇸🇹,240,"27,8","5,5","70,1","10,7","3,53","19,7","3,9"
+Afrique,Africa,Afrique Centrale,Central Africa,Tchad,Chad,🇹🇩,21004,"43,2","11,1","55,4","62,4","5,94","26,3","2,1"
+Afrique,Africa,Afrique Centrale,Central Africa,Afrique Centrale,Central Africa,,219525,"38,5","8,0","62,4","48,8","5,37","29,6","2,9"
+Afrique,Africa,Afrique occidentale,West Africa,Bénin,Benin,🇧🇯,14814,"33,0","8,6","61,1","50,9","4,42","23,9","3,2"
+Afrique,Africa,Afrique occidentale,West Africa,Burkina Faso,Burkina Faso,🇧🇫,24075,"30,8","7,8","61,5","53,4","4,00","21,8","2,7"
+Afrique,Africa,Afrique occidentale,West Africa,Cap-Vert,Cape Verde,🇨🇻,527,"12,1","5,1","76,4","9,2","1,50","4,5","7,2"
+Afrique,Africa,Afrique occidentale,West Africa,Côte d'Ivoire,Ivory Coast,🇨🇮,32712,"31,1","7,6","62,3","50,1","4,17","23,9","2,7"
+Afrique,Africa,Afrique occidentale,West Africa,Gambie,Gambia,🇬🇲,2822,"29,3","6,2","66,3","28,3","3,80","22,0","3,2"
+Afrique,Africa,Afrique occidentale,West Africa,Ghana,Ghana,🇬🇭,35064,"25,6","7,0","65,9","29,5","3,30","18,1","3,8"
+Afrique,Africa,Afrique occidentale,West Africa,Guinée,Guinea,🇬🇳,15100,"32,8","8,9","61,1","63,8","4,04","22,7","3,5"
+Afrique,Africa,Afrique occidentale,West Africa,Guinée-Bissau,Guinea-Bissau,🇬🇼,2250,"29,1","7,0","64,4","47,4","3,68","21,5","3,2"
+Afrique,Africa,Afrique occidentale,West Africa,Libéria,Liberia,🇱🇷,5731,"30,3","8,0","62,5","54,3","3,79","20,6","3,3"
+Afrique,Africa,Afrique occidentale,West Africa,Mali,Mali,🇲🇱,25199,"39,2","8,4","60,9","58,9","5,42","28,9","2,4"
+Afrique,Africa,Afrique occidentale,West Africa,Mauritanie,Mauritania,🇲🇷,5315,"33,7","5,3","68,9","28,5","4,56","27,4","3,2"
+Afrique,Africa,Afrique occidentale,West Africa,Niger,Niger,🇳🇪,27918,"40,8","8,6","61,7","62,1","5,79","31,9","2,6"
+Afrique,Africa,Afrique occidentale,West Africa,Nigéria,Nigeria,🇳🇬,237528,"32,2","11,6","54,8","67,7","4,30","20,6","3,1"
+Afrique,Africa,Afrique occidentale,West Africa,Sénégal,Senegal,🇸🇳,18932,"28,9","5,4","69,2","22,3","3,71","22,8","3,6"
+Afrique,Africa,Afrique occidentale,West Africa,Sierra Leone,Sierra Leone,🇸🇱,8820,"29,5","8,1","62,2","69,3","3,61","20,1","3,3"
+Afrique,Africa,Afrique occidentale,West Africa,Togo,Togo,🇹🇬,9722,"30,5","7,6","63,1","39,8","4,07","21,3","3,3"
+Afrique,Africa,Afrique occidentale,West Africa,Afrique occidentale,West Africa,,466533,"32,2","9,6","58,6","58,7","4,27","22,2","3,1"
+Afrique,Africa,Afrique orientale,East Africa,Burundi,Burundi,🇧🇮,14390,"32,6","6,6","64,0","34,4","4,68","23,5","2,5"
+Afrique,Africa,Afrique orientale,East Africa,Comores,Comoros,🇰🇲,883,"27,8","7,0","67,2","34,5","3,76","18,4","4,5"
+Afrique,Africa,Afrique orientale,East Africa,Djibouti,Djibouti,🇩🇯,1184,"20,7","7,5","66,4","34,7","2,58","12,7","5,0"
+Afrique,Africa,Afrique orientale,East Africa,Erythrée,Eritrea,🇪🇷,3607,"28,6","5,9","69,2","25,0","3,61","20,8","4,3"
+Afrique,Africa,Afrique orientale,East Africa,Ethiopie,Ethiopia,🇪🇹,135472,"30,8","5,8","67,9","30,9","3,81","25,2","3,3"
+Afrique,Africa,Afrique orientale,East Africa,France - La Réunion,France - Reunion Island,🇷🇪,882,"13,0","5,8","83,8","4,1","2,13","4,3","16,2"
+Afrique,Africa,Afrique orientale,East Africa,Kenya,Kenya,🇰🇪,57533,"26,8","7,1","64,0","28,6","3,12","19,2","3,0"
+Afrique,Africa,Afrique orientale,East Africa,Madagascar,Madagascar,🇲🇬,32741,"31,3","7,4","64,0","43,4","3,84","23,8","3,5"
+Afrique,Africa,Afrique orientale,East Africa,Malawi,Malawi,🇲🇼,22216,"30,8","5,2","67,7","28,2","3,53","25,4","2,6"
+Afrique,Africa,Afrique orientale,East Africa,Maurice,Mauritius,🇲🇺,1268,"9,0","9,2","75,3","11,4","1,21","-2,4","14,1"
+Afrique,Africa,Afrique orientale,East Africa,Mayotte,Mayotte,🇾🇹,337,"33,7","2,7","76,4","8,2","4,50","31,2","2,8"
+Afrique,Africa,Afrique orientale,East Africa,Mozambique,Mozambique,🇲🇿,35632,"36,6","6,8","64,0","47,8","4,62","27,9","2,7"
+Afrique,Africa,Afrique orientale,East Africa,Ouganda,Uganda,🇺🇬,51385,"33,8","4,7","68,7","26,9","4,06","26,7","2,2"
+Afrique,Africa,Afrique orientale,East Africa,Rwanda,Rwanda,🇷🇼,14569,"27,7","5,9","68,2","25,5","3,59","22,3","4,0"
+Afrique,Africa,Afrique orientale,East Africa,Seychelles,Seychelles,🇸🇨,133,"13,3","8,1","73,1","9,9","2,08","17,3","8,7"
+Afrique,Africa,Afrique orientale,East Africa,Somalie,Somalia,🇸🇴,19655,"41,8","9,7","59,1","65,0","5,91","32,8","2,6"
+Afrique,Africa,Afrique orientale,East Africa,Sud Soudan,South Sudan,🇸🇸,12189,"29,3","9,9","57,9","62,7","3,71","20,0","3,1"
+Afrique,Africa,Afrique orientale,East Africa,Tanzanie,Tanzania,🇹🇿,70546,"34,3","5,7","67,4","27,5","4,47","28,5","3,0"
+Afrique,Africa,Afrique orientale,East Africa,Zambie,Zambia,🇿🇲,21914,"32,4","5,1","66,7","36,6","3,97","27,5","2,0"
+Afrique,Africa,Afrique orientale,East Africa,Zimbabwe,Zimbabwe,🇿🇼,16951,"29,5","7,4","63,3","31,4","3,62","18,9","3,6"
+Afrique,Africa,Afrique orientale,East Africa,Afrique orientale,East Africa,,513486,"31,8","6,3","66,0","34,3","3,96","25,0","3,0"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Algérie,Algeria,🇩🇿,47435,"18,0","4,6","76,7","16,4","2,67","12,8","6,8"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Egypte,Egypt,🇪🇬,118366,"20,7","5,6","72,0","12,6","2,71","14,7","5,3"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Libye,Libya,🇱🇾,7459,"16,1","5,6","73,2","9,8","2,25","10,5","5,2"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Maroc,Morocco,🇲🇦,38431,"16,1","5,8","75,7","13,3","2,18","8,8","8,5"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Sahara occidental,Western Sahara,🇪🇭,601,"15,0","6,5","71,8","22,0","2,15","16,9","6,8"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Soudan,Sudan,🇸🇩,51662,"32,1","6,2","66,7","36,6","4,19","31,5","3,4"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Tunisie,Tunisia,🇹🇳,12349,"13,0","6,2","76,9","9,1","1,80","5,6","9,9"
+Afrique,Africa,Afrique septentrionale,Northern Africa,Afrique septentrionale,Northern Africa,,276302,"21,2","5,6","72,5","19,9","2,88","16,2","5,8"
+Europe,Europe,--,--,Europe de l'Est,Eastern Europe,,284452,"8,1","12,7","75,1","4,0","1,40","-1,5","18,9"
+Europe,Europe,--,--,Europe de l'Ouest,Western Europe,,199671,"8,9","10,7","82,5","2,9","1,50","-2,0","22,6"
+Europe,Europe,--,--,Europe du Nord,Northern Europe,,109500,"9,5","9,7","81,7","3,1","1,50","4,4","20,0"
+Europe,Europe,--,--,Europe du Sud,Southern Europe,,150776,"7,1","10,9","82,9","2,7","1,29","-2,9","23,3"
+Europe,Europe,--,--,Europe,Europe,,744399,"8,3","11,4","79,5","3,3","1,41","-1,0","20,9"
+Europe,Europe,Europe de l'Est,Eastern Europe,Biélorussie,Belarus,🇧🇾,8998,"6,9","13,2","74,8","2,3","1,22","-6,6","18,3"
+Europe,Europe,Europe de l'Est,Eastern Europe,Bulgarie,Bulgaria,🇧🇬,6715,"9,0","15,3","76,0","4,7","1,74","-6,7","22,2"
+Europe,Europe,Europe de l'Est,Eastern Europe,Hongrie,Hungary,🇭🇺,9632,"8,8","13,3","77,3","2,8","1,50","-6,3","21,2"
+Europe,Europe,Europe de l'Est,Eastern Europe,Moldavie,Moldova,🇲🇩,2996,"10,4","14,0","71,5","9,6","1,72","-13,6","16,9"
+Europe,Europe,Europe de l'Est,Eastern Europe,Pologne,Poland,🇵🇱,38141,"7,8","11,0","79,0","3,2","1,31","-11,8","20,8"
+Europe,Europe,Europe de l'Est,Eastern Europe,Roumanie,Romania,🇷🇴,18909,"9,4","13,6","76,2","5,0","1,71","-5,7","20,1"
+Europe,Europe,Europe de l'Est,Eastern Europe,Russie,Russia,🇷🇺,143997,"8,6","13,0","73,5","4,1","1,46","-6,1","17,8"
+Europe,Europe,Europe de l'Est,Eastern Europe,Slovaquie,Slovakia,🇸🇰,5475,"9,1","10,3","78,7","3,8","1,57","-7,0","19,0"
+Europe,Europe,Europe de l'Est,Eastern Europe,Tchéquie,Czechia,🇨🇿,10609,"8,2","11,0","80,1","2,1","1,47","-13,4","21,2"
+Europe,Europe,Europe de l'Est,Eastern Europe,Ukraine,Ukraine,🇺🇦,38980,"5,6","13,3","74,9","4,8","1,00","36,0","19,0"
+Europe,Europe,Europe de l'Est,Eastern Europe,Europe de l'Est,Eastern Europe,,284452,"8,1","12,7","75,1","4,0","1,40","-1,5","18,9"
+Europe,Europe,Europe de l'Ouest,Western Europe,Allemagne,Germany,🇩🇪,84075,"8,4","12,4","81,7","2,7","1,46","-7,9","23,7"
+Europe,Europe,Europe de l'Ouest,Western Europe,Autriche,Austria,🇦🇹,9114,"8,3","10,2","82,3","2,5","1,33","-0,7","21,1"
+Europe,Europe,Europe de l'Ouest,Western Europe,Belgique,Belgium,🇧🇪,11759,"8,6","9,8","82,4","2,8","1,39","1,5","21,0"
+Europe,Europe,Europe de l'Ouest,Western Europe,France (hexa.),France (metro.),🇫🇷,66651,"9,5","9,4","83,6","3,1","1,64","1,5","22,5"
+Europe,Europe,Europe de l'Ouest,Western Europe,Luxembourg,Luxembourg,🇱🇺,680,"10,2","7,4","82,5","2,8","1,40","10,5","15,8"
+Europe,Europe,Europe de l'Ouest,Western Europe,Pays-Bas,Netherlands,🇳🇱,18347,"9,5","9,2","82,4","3,0","1,44","6,0","20,9"
+Europe,Europe,Europe de l'Ouest,Western Europe,Suisse,Switzerland,🇨🇭,8967,"9,1","8,5","84,2","3,1","1,44","4,8","20,4"
+Europe,Europe,Europe de l'Ouest,Western Europe,Europe de l'Ouest,Western Europe,,199671,"8,9","10,7","82,5","2,9","1,50","-2,0","22,6"
+Europe,Europe,Europe du Nord,Northern Europe,Danemark,Denmark,,6003,"9,9","9,7","82,2","2,7","1,52","3,9","21,1"
+Europe,Europe,Europe du Nord,Northern Europe,Estonie,Estonia,,1344,"7,9","12,3","79,5","1,6","1,37","-14,3","21,8"
+Europe,Europe,Europe du Nord,Northern Europe,Finlande,Finland,,5623,"7,8","10,8","82,2","1,6","1,30","0,3","24,2"
+Europe,Europe,Europe du Nord,Northern Europe,Guernsey,Guernsey,,64,"8,1","9,5","83,5","5,6","1,37","2,7","22,2"
+Europe,Europe,Europe du Nord,Northern Europe,Irlande,Ireland,,5308,"9,9","7,0","82,7","2,6","1,60","9,6","16,2"
+Europe,Europe,Europe du Nord,Northern Europe,Islande,Iceland,,398,"11,0","6,6","83,2","1,2","1,50","11,1","16,0"
+Europe,Europe,Europe du Nord,Northern Europe,Jersey,Jersey,,104,"8,2","11,0","80,0","8,4","1,38","1,2","19,3"
+Europe,Europe,Europe du Nord,Northern Europe,Lettonie,Latvia,,1854,"7,4","14,8","76,5","2,7","1,35","-11,3","22,2"
+Europe,Europe,Europe du Nord,Northern Europe,Lituanie,Lithuania,,2830,"7,8","14,1","76,3","3,0","1,22","-15,0","20,7"
+Europe,Europe,Europe du Nord,Northern Europe,Norvège,Norway,,5623,"9,4","7,8","83,6","1,7","1,42","7,0","19,1"
+Europe,Europe,Europe du Nord,Northern Europe,Royaume Uni,United Kingdom,,69551,"9,8","9,7","81,6","3,5","1,54","5,7","19,7"
+Europe,Europe,Europe du Nord,Northern Europe,Suède,Sweden,,10657,"9,1","9,1","83,6","1,8","1,44","4,5","20,9"
+Europe,Europe,Europe du Nord,Northern Europe,Europe du Nord,Northern Europe,,109500,"9,5","9,7","81,7","3,1","1,50","4,4","20,0"
+Europe,Europe,Europe du Sud,Southern Europe,Albanie,Albania,,2772,"9,9","8,6","80,0","6,9","1,33","-7,5","17,6"
+Europe,Europe,Europe du Sud,Southern Europe,Bosnie-Herzégovine,Bosnia and Herzegovina,,3140,"7,7","13,6","78,2","4,7","1,50","-8,1","22,9"
+Europe,Europe,Europe du Sud,Southern Europe,Croatie,Croatia,,3848,"8,1","14,0","78,9","3,3","1,47","-6,8","23,6"
+Europe,Europe,Europe du Sud,Southern Europe,Espagne,Spain,,47890,"6,9","9,5","84,0","2,1","1,23","-0,6","21,6"
+Europe,Europe,Europe du Sud,Southern Europe,Grèce,Greece,,9939,"6,9","12,6","82,2","2,8","1,34","-4,1","24,4"
+Europe,Europe,Europe du Sud,Southern Europe,Italie,Italy,,59146,"6,5","11,3","84,0","2,1","1,21","-3,5","25,1"
+Europe,Europe,Europe du Sud,Southern Europe,Kosovo,Kosovo,,1674,"11,7","6,1","78,4","8,6","1,53","-5,4","10,5"
+Europe,Europe,Europe du Sud,Southern Europe,Macédoine du Nord,North Macedonia,,1814,"9,0","11,1","77,7","5,9","1,47","-5,2","18,5"
+Europe,Europe,Europe du Sud,Southern Europe,Malte,Malta,,545,"7,8","7,7","83,6","4,5","1,11","9,5","20,5"
+Europe,Europe,Europe du Sud,Southern Europe,Monténégro,Montenegro,,633,"11,0","11,5","77,4","1,8","1,80","-15,2","18,3"
+Europe,Europe,Europe du Sud,Southern Europe,Portugal,Portugal,,10412,"8,2","11,4","82,7","2,2","1,52","-1,6","24,9"
+Europe,Europe,Europe du Sud,Southern Europe,Serbie,Serbia,,6689,"8,7","14,2","77,1","3,8","1,50","-7,5","23,1"
+Europe,Europe,Europe du Sud,Southern Europe,Slovénie,Slovenia,,2117,"8,1","10,4","81,9","1,4","1,58","-1,0","22,2"
+Europe,Europe,Europe du Sud,Southern Europe,Europe du Sud,Southern Europe,,150776,"7,1","10,9","82,9","2,7","1,29","-2,9","23,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,--,--,Amérique centrale,Central America,,185161,"16,1","6,0","75,3","11,0","1,95","9,3","7,9"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,--,--,Amérique du Sud,South America,,438105,"12,8","6,9","76,6","11,7","1,69","5,6","11,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,--,--,Caraïbes,Caribbean,,44622,"14,4","8,5","73,4","27,2","1,95","3,8","11,4"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,--,--,Amérique Latine-Caraïbes,Latin America and the Caribbean,,667889,"13,8","6,7","76,0","12,6","1,78","6,5","10,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Belize,Belize,,423,"17,8","5,0","73,9","8,5","2,01","13,6","5,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Costa Rica,Costa Rica,,5153,"9,8","5,7","81,2","6,2","1,31","4,4","12,8"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Guatemala,Guatemala,,18688,"20,3","4,9","72,9","16,8","2,26","15,0","5,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Honduras,Honduras,,11006,"21,3","4,6","73,2","12,2","2,45","16,3","4,5"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Mexique,Mexico,,131947,"15,2","6,3","75,4","10,0","1,87","8,1","8,5"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Nicaragua,Nicaragua,,7008,"18,8","4,7","75,3","10,5","2,18","12,9","5,7"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Panama,Panama,,4571,"15,7","5,0","80,0","10,0","2,09","12,0","9,7"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Salvador,El Salvador,,6366,"15,4","7,5","72,5","9,0","1,75","4,1","8,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique centrale,Central America,Amérique centrale,Central America,,185161,"16,1","6,0","75,3","11,0","1,95","9,3","7,9"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Argentine,Argentina,,45851,"11,1","7,8","77,7","8,7","1,50","3,4","12,6"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Bolivie,Bolivia,,12582,"20,8","7,2","68,9","30,3","2,50","13,4","5,7"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Brésil,Brazil,,212812,"11,9","7,2","76,2","11,6","1,60","3,7","11,5"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Chili,Chile,,19860,"8,6","6,7","81,5","5,4","1,13","4,5","14,6"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Colombie,Colombia,,53426,"13,0","5,6","78,1","9,3","1,62","9,8","10,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Equateur,Ecuador,,18290,"14,6","5,3","77,8","9,6","1,79","8,4","8,6"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Guyana,Guyana,,836,"19,5","7,6","70,4","17,9","2,37","5,9","7,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Guyane (française),French Guiana,,314,"24,2","4,9","77,4","8,6","3,29","16,5","7,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Paraguay,Paraguay,,7013,"19,4","5,7","74,1","15,5","2,39","11,9","6,7"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Pérou,Peru,,34577,"15,5","5,7","78,1","9,8","1,94","10,2","9,5"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Surinam,Suriname,,640,"17,0","6,9","73,9","10,5","2,21","8,5","8,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Uruguay,Uruguay,,3385,"9,7","9,9","78,5","5,8","1,39","-0,6","16,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Venezuela,Venezuela,,28517,"15,3","7,8","72,8","14,4","2,06","4,0","10,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Amérique du Sud,South America,Amérique du Sud,South America,,438105,"12,8","6,9","76,6","11,7","1,69","5,6","11,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Antigua-et-Barbuda,Antigua and Barbuda,,94,"11,6","7,1","77,9","7,2","1,58","4,6","12,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Aruba,Aruba,,108,"9,5","10,0","76,6","10,7","1,61","0,5","17,8"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Bahamas,Bahamas,,403,"10,7","8,9","74,9","10,4","1,36","4,1","12,1"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Barbade,Barbados,,283,"11,0","10,3","76,5","10,7","1,70","0,5","17,1"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Cuba,Cuba,,10937,"8,5","10,5","78,4","4,4","1,45","-4,0","17,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Curaçao,Curaçao,,185,"7,5","10,2","77,2","8,0","1,07","-0,2","17,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Rep. Dominicaine,Dominican Republic,,11520,"17,3","6,3","74,0","24,8","2,19","7,9","8,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,France - Guadeloupe,France - Guadeloupe,,374,"10,6","9,9","82,4","6,4","2,05","-3,6","24,7"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,France - Martinique,France - Martinique,,340,"10,0","10,7","82,9","6,1","1,97","-8,1","26,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Grenade,Granada,,117,"11,2","9,0","75,5","11,4","1,46","0,7","12,6"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Haïti,Haiti,,11906,"21,6","7,8","65,3","43,4","2,59","11,1","4,8"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Îles Vierges américaines,U.S. Virgin Islands,,84,"11,0","15,5","75,9","4,7","2,07","-8,8","23,1"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Jamaïque,Jamaica,,2837,"11,2","8,3","71,7","15,1","1,34","-1,0","8,6"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Porto Rico,Puerto Rico,,3235,"5,9","10,7","82,1","4,8","0,94","-3,1","25,3"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Sainte Lucie,Saint Lucia,,180,"11,0","8,8","73,0","13,4","1,38","2,1","10,0"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,St Vincent-et-les-Grenad.,St Vincent and the Grenad.,,100,"11,8","11,6","71,5","12,1","1,75","-6,8","12,2"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Trinité-et-Tobago,Trinidad and Tobago,,1511,"10,3","9,0","73,7","13,4","1,52","1,8","12,9"
+Amérique Latine-Caraïbes,Latin America and the Caribbean,Caraïbes,Caribbean,Caraïbes,Caribbean,,44622,"14,4","8,5","73,4","27,2","1,95","3,8","11,4"
+Amérique septentrionale,Northern America,--,Northern America,Canada,Canada,,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3"
+Amérique septentrionale,Northern America,--,Northern America,Etats-Unis,United States,,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4"
+Amérique septentrionale,Northern America,--,Northern America,Amérique septentrionale,Northern America,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6"
+Amérique septentrionale,Northern America,Amérique septentrionale,Northern America,Canada,Canada,,40127,"9,0","8,1","82,9","3,9","1,33","9,0","20,3"
+Amérique septentrionale,Northern America,Amérique septentrionale,Northern America,Etats-Unis,United States,,347276,"10,6","8,9","79,6","4,8","1,62","5,2","18,4"
+Amérique septentrionale,Northern America,Amérique septentrionale,Northern America,Amérique septentrionale,North America,,387528,"10,4","8,8","79,9","4,7","1,59","5,6","18,6"
+Asie,Asia,--,--,Asie de l'Est,East Asia,,1652186,"6,2","8,6","79,3","5,8","1,03","-2,4","16,3"
+Asie,Asia,--,--,Asie de l'Ouest,West Asia,,314297,"19,0","4,8","75,9","16,3","2,52","15,1","6,3"
+Asie,Asia,--,--,Asie du Centre et du Sud,Central and South Asia,,2168806,"17,9","6,4","72,2","25,6","2,21","10,4","6,9"
+Asie,Asia,--,--,Asie du Sud-Est,Southeast Asia,,700032,"14,5","7,4","72,5","17,2","1,91","6,9","8,4"
+Asie,Asia,--,--,Asie,Asia,,4835320,"13,5","7,2","75,0","20,3","1,87","5,8","10,3"
+Asie,Asia,Asie de l'Est,East Asia,Chine,China,,1416096,"6,2","8,3","78,4","6,0","1,02","-2,3","14,9"
+Asie,Asia,Asie de l'Est,East Asia,Chine - Hong Kong,China - Hong Kong,,7396,"5,3","7,9","85,8","1,4","0,74","-0,2","23,7"
+Asie,Asia,Asie de l'Est,East Asia,Chine - Macao,China - Macau,,722,"6,3","4,9","83,4","2,5","0,69","1,0","15,1"
+Asie,Asia,Asie de l'Est,East Asia,Corée du Nord,North Korea,,26571,"12,6","10,0","73,9","13,0","1,77","2,5","12,7"
+Asie,Asia,Asie de l'Est,East Asia,Corée du Sud,South Korea,,51667,"4,8","7,2","84,5","1,9","0,75","-1,2","20,3"
+Asie,Asia,Asie de l'Est,East Asia,Japon,Japan,,123104,"6,1","12,6","85,0","1,6","1,23","-5,4","30,0"
+Asie,Asia,Asie de l'Est,East Asia,Mongolie,Mongolia,,3517,"17,5","6,0","72,2","8,6","2,58","11,5","5,4"
+Asie,Asia,Asie de l'Est,East Asia,Taïwan,Taiwan,,23113,"5,4","8,9","80,9","3,0","0,86","-4,4","20,1"
+Asie,Asia,Asie de l'Est,East Asia,Asie de l'Est,East Asia,,1652186,"6,2","8,6","79,3","5,8","1,03","-2,4","16,3"
+Asie,Asia,Asie de l'Ouest,West Asia,Arabie saoudite,Saudi Arabia,,34566,"16,3","2,3","79,2","5,8","2,29","17,5","3,1"
+Asie,Asia,Asie de l'Ouest,West Asia,Arménie,Armenia,,2952,"11,8","9,4","76,0","8,8","1,71","-7,4","14,4"
+Asie,Asia,Asie de l'Ouest,West Asia,Azerbaïdjan,Azerbaijan,,10398,"11,6","6,7","74,7","13,7","1,66","5,6","9,2"
+Asie,Asia,Asie de l'Ouest,West Asia,Bahreïn,Bahrain,,1643,"11,9","2,2","81,6","5,1","1,78","20,7","4,0"
+Asie,Asia,Asie de l'Ouest,West Asia,Chypre,Cyprus,,1371,"10,2","7,0","82,0","2,5","1,37","8,8","14,9"
+Asie,Asia,Asie de l'Ouest,West Asia,Emirats Arabes Unis,United Arab Emirates,,11346,"10,1","1,0","83,2","4,8","1,21","23,1","1,8"
+Asie,Asia,Asie de l'Ouest,West Asia,Géorgie,Georgia,,3807,"11,1","11,8","74,8","6,4","1,79","-0,4","16,0"
+Asie,Asia,Asie de l'Ouest,West Asia,Irak,Iraq,,47021,"25,3","4,2","72,5","18,3","3,17","21,0","3,4"
+Asie,Asia,Asie de l'Ouest,West Asia,Israël,Israel,,9517,"18,0","5,6","82,8","2,9","2,75","13,7","12,7"
+Asie,Asia,Asie de l'Ouest,West Asia,Jordanie,Jordan,,11521,"20,1","3,2","78,1","11,1","2,57","-9,4","4,8"
+Asie,Asia,Asie de l'Ouest,West Asia,Koweït,Kuwait,,5026,"9,7","1,8","80,8","6,2","1,50","16,4","3,2"
+Asie,Asia,Asie de l'Ouest,West Asia,Liban,Lebanon,,5849,"15,8","6,1","78,1","14,9","2,21","8,0","10,4"
+Asie,Asia,Asie de l'Ouest,West Asia,Oman,Oman,,5495,"16,4","1,9","80,5","8,0","2,48","35,2","2,7"
+Asie,Asia,Asie de l'Ouest,West Asia,Palestine,Palestine,,5590,"25,9","4,2","73,1","17,1","3,19","17,6","3,9"
+Asie,Asia,Asie de l'Ouest,West Asia,Qatar,Qatar,,3116,"9,6","1,0","82,7","5,6","1,70","20,2","1,7"
+Asie,Asia,Asie de l'Ouest,West Asia,Syrie,Syria,,25620,"23,5","4,8","73,0","14,3","2,66","35,1","4,8"
+Asie,Asia,Asie de l'Ouest,West Asia,Turquie,Turkey,,87685,"12,0","6,6","77,8","8,8","1,62","2,5","10,6"
+Asie,Asia,Asie de l'Ouest,West Asia,Yémen,Yemen,,41774,"33,5","4,7","69,6","30,7","4,41","28,5","2,5"
+Asie,Asia,Asie de l'Ouest,West Asia,Asie de l'Ouest,West Asia,,314297,"19,0","4,8","75,9","16,3","2,52","15,1","6,3"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Afghanistan,Afghanistan,,43844,"34,4","5,6","66,5","41,4","4,66","27,1","2,4"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Bangladesh,Bangladesh,,175687,"19,6","5,1","75,2","16,1","2,11","12,2","6,7"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Bhoutan,Bhutan,,797,"12,3","6,0","73,5","17,4","1,44","6,9","6,6"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Inde,India,,1463866,"15,8","6,6","72,5","21,7","1,94","8,8","7,4"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Iran,Iran,,92418,"12,2","4,8","78,1","8,8","1,67","8,6","8,6"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Kazakhstan,Kazakhstan,,20844,"19,0","6,7","74,7","6,5","2,95","11,8","9,0"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Kirgizistan,Kyrgyzstan,,7295,"20,5","6,0","72,0","11,7","2,75","14,7","6,0"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Maldives,Maldives,,530,"10,2","2,4","81,5","4,3","1,55","3,5","5,0"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Népal,Nepal,,29618,"18,6","7,0","70,9","19,6","1,94","-0,7","6,6"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Ouzbékistan,Uzbekistan,,37053,"24,6","6,0","72,7","11,9","3,45","18,4","6,1"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Pakistan,Pakistan,,255220,"27,1","6,4","67,9","47,4","3,50","15,8","4,4"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Sri Lanka,Sri Lanka,,23229,"13,7","7,2","77,9","4,8","1,94","5,2","12,5"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Tadjikistan,Tajikistan,,10787,"24,5","4,6","72,1","20,4","2,99","17,9","4,1"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Turkménistan,Turkmenistan,,7619,"20,0","5,9","70,3","27,8","2,63","15,9","4,8"
+Asie,Asia,Asie du Centre et du Sud,Central and South Asia,Asie du Centre et du Sud,Central and South Asia,,2168806,"17,9","6,4","72,2","25,6","2,21","10,4","6,9"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Brunei,Brunei,,466,"13,0","5,4","75,7","7,5","1,71","7,5","7,2"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Cambodge,Cambodia,,17848,"19,9","6,5","71,0","18,1","2,51","11,6","6,4"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Indonésie,Indonesia,,285721,"15,5","7,7","71,4","16,1","2,10","7,7","7,5"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Laos,Laos,,7873,"20,5","6,2","69,5","29,0","2,36","13,0","4,8"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Malaisie,Malaysia,,35978,"12,2","5,4","77,0","4,9","1,53","11,5","8,0"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Myanmar (Birmanie),Myanmar (Burma),,54851,"16,2","9,2","67,3","32,4","2,08","6,2","7,5"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Philippines,Philippines,,116787,"15,8","6,5","70,1","19,4","1,88","8,1","5,7"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Singapour,Singapore,,5871,"8,5","5,1","84,0","1,7","0,96","6,3","14,2"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Thaïlande,Thailand,,71620,"8,0","9,1","76,8","7,8","1,19","-0,8","16,0"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Timor-Est,East Timor,,1419,"21,6","7,2","68,1","35,0","2,56","12,6","5,2"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Viêt Nam,Vietnam,,101598,"13,1","6,7","74,9","14,3","1,88","5,9","9,5"
+Asie,Asia,Asie du Sud-Est,Southeast Asia,Asie du Sud-Est,Southeast Asia,,700032,"14,5","7,4","72,5","17,2","1,91","6,9","8,4"
+Océanie,Oceania,--,--,Australie / Nouvelle-Zélande,Australia / New Zealand,,32226,"11,3","6,9","83,9","2,7","1,64","9,2","18,0"
+Océanie,Oceania,--,--,Mélanésie,Melanesia,,13165,"23,5","6,7","67,2","28,3","2,99","16,7","4,0"
+Océanie,Oceania,--,--,Micronésie,Micronesia,,529,"19,8","7,3","71,8","23,1","2,79","3,3","8,3"
+Océanie,Oceania,--,--,Polynésie,Polynesia,,690,"17,3","5,6","77,6","9,5","2,50","0,1","9,1"
+Océanie,Oceania,--,--,Océanie,Oceania,,46610,"14,9","6,8","79,5","14,5","2,13","11,1","13,8"
+Océanie,Oceania,Australie / Nouvelle-Zélande,Australia / New Zealand,Australie,Australia,,26974,"11,3","6,8","84,2","2,6","1,64","9,6","18,1"
+Océanie,Oceania,Australie / Nouvelle-Zélande,Australia / New Zealand,Nouvelle-Zélande,New Zealand,,5252,"11,1","7,5","82,4","3,6","1,65","7,0","17,6"
+Océanie,Oceania,Australie / Nouvelle-Zélande,Australia / New Zealand,Australie / Nouvelle-Zélande,Australia / New Zealand,,32226,"11,3","6,9","83,9","2,7","1,64","9,2","18,0"
+Océanie,Oceania,Mélanésie,Melanesia,Fidji,Fiji,,933,"17,6","9,5","67,6","15,8","2,25","4,6","6,6"
+Océanie,Oceania,Mélanésie,Melanesia,France/ Nouvelle Calédonie,France/ New Caledonia,,295,"13,8","6,3","79,1","8,2","1,95","9,0","11,8"
+Océanie,Oceania,Mélanésie,Melanesia,Papouasie-Nouvelle-Guinée,Papua New Guinea,,10763,"23,9","6,6","66,4","31,2","3,03","17,3","3,6"
+Océanie,Oceania,Mélanésie,Melanesia,Salomon (Îles),Solomon Islands,,839,"26,4","5,0","70,8","13,6","3,47","23,3","3,7"
+Océanie,Oceania,Mélanésie,Melanesia,Vanuatu,Vanuatu,,335,"27,2","5,0","71,8","13,7","3,53","22,1","4,4"
+Océanie,Oceania,Mélanésie,Melanesia,Mélanésie,Melanesia,,13165,"23,5","6,7","67,2","28,3","2,99","16,7","4,0"
+Océanie,Oceania,Micronésie,Micronesia,Guam,Guam,,169,"17,0","7,0","77,6","9,7","2,71","7,1","13,1"
+Océanie,Oceania,Micronésie,Micronesia,Kiribati,Kiribati,,137,"24,8","7,1","66,7","41,9","3,09","14,4","4,4"
+Océanie,Oceania,Micronésie,Micronesia,Micronésie (États fédérés),Micronesia (Federated States),,114,"22,1","7,8","67,5","18,2","2,71","4,5","6,2"
+Océanie,Oceania,Micronésie,Micronesia,Micronésie,Micronesia,,529,"19,8","7,3","71,8","23,1","2,79","3,3","8,3"
+Océanie,Oceania,Polynésie,Polynesia,Polynésie française,French Polynesia,,282,"10,5","4,0","84,3","5,0","1,48","2,3","11,9"
+Océanie,Oceania,Polynésie,Polynesia,Samoa occidentales,Western Samoa,,219,"24,6","6,2","71,9","12,5","3,75","5,6","6,1"
+Océanie,Oceania,Polynésie,Polynesia,Tonga,Tonga,,104,"22,8","6,5","73,2","8,4","3,07","-4,4","6,8"
+Océanie,Oceania,Polynésie,Polynesia,Polynésie,Polynesia,,690,"17,3","5,6","77,6","9,5","2,50","0,1","9,1"
