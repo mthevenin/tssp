@@ -1,13 +1,13 @@
-Lieudenaissance,sansDiplome,superieur,sansEmploi
-Afrique,25,51,28
-Maghreb,21,55,31
-Autres pays d’Afrique,29,45,24
-Asie,28,51,27
-"Turquie, Moyen-Orient",27,51,28
-Autres pays d’Asie,29,51,26
-Europe,18,51,49
-Europe du Sud,22,49,56
-Autres pays de l’UE 27,14,56,56
-Autres pays d’Europe,20,48,37
-"Amérique, Océanie",15,60,41
-Ensemble des immigrés,22,52,34
+Lieudenaissance,LieudenaissanceEn,sansDiplome,superieur,sansEmploi
+Afrique,Africa,25,51,28
+Maghreb,Maghreb,21,55,31
+Autres pays d’Afrique,Other African countries,29,45,24
+Asie,Asia,28,51,27
+"Turquie, Moyen-Orient","Turkey, Middle East",27,51,28
+Autres pays d’Asie,Other Asian countries,29,51,26
+Europe,Europe,18,51,49
+Europe du Sud,Southern Europe,22,49,56
+Autres pays de l’UE 27,Other EU27 countries,14,56,56
+Autres pays d’Europe,Other countries in Europe,20,48,37
+"Amérique, Océanie","America, Oceania",15,60,41
+Ensemble des immigrés,All immigrants,22,52,34
