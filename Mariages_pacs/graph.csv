@@ -33,7 +33,8 @@ annee,type,typeEn,n,p,provisoire,provisoireEn
 2021,Mariages sexes différents,Different-sex marriages,212413,,,
 2022,Mariages sexes différents,Different-sex marriages,234841,,,
 2023,Mariages sexes différents,Different-sex marriages,234466,,,
-2024,Mariages sexes différents,Different-sex marriages,240000,,Provisoire,Provisional
+2024,Mariages sexes différents,Different-sex marriages,241428,,,
+2025,Mariages sexes différents,Different-sex marriages,244000,,Provisoire,Provisional
 2013,Ensemble des mariages,All marriages,238592,3.087697827253219,,
 2014,Ensemble des mariages,All marriages,241292,4.360691610165278,,
 2015,Ensemble des mariages,All marriages,236316,3.279930262868363,,
@@ -45,7 +46,8 @@ annee,type,typeEn,n,p,provisoire,provisoireEn
 2021,Ensemble des mariages,All marriages,218819,2.927533715079587,,
 2022,Ensemble des mariages,All marriages,241710,2.841835257126308,,
 2023,Ensemble des mariages,All marriages,241080,2.743487638958022,,
-2024,Ensemble des mariages,All marriages,247000,2.834008097165992,Provisoire,Provisional
+2024,Ensemble des mariages,All marriages,248174,2.718254128152022,,
+2025,Ensemble des mariages,All marriages,251000,2.788844621513944,Provisoire,Provisional
 1999,Ensemble des Pacs,All Civil union (Pacs),6151,42.26954966672086,,
 2000,Ensemble des Pacs,All Civil union (Pacs),22271,24.30066005118764,,
 2001,Ensemble des Pacs,All Civil union (Pacs),19629,16.92903357277498,,
@@ -54,23 +56,24 @@ annee,type,typeEn,n,p,provisoire,provisoireEn
 2004,Ensemble des Pacs,All Civil union (Pacs),40080,12.53243512974052,,
 2005,Ensemble des Pacs,All Civil union (Pacs),60462,8.046376236313717,,
 2006,Ensemble des Pacs,All Civil union (Pacs),77347,6.556168952900565,,
-2007,Ensemble des Pacs,All Civil union (Pacs),101992,6.098517530786729,,
-2008,Ensemble des Pacs,All Civil union (Pacs),145938,5.59963820252436,,
-2009,Ensemble des Pacs,All Civil union (Pacs),174584,4.806855152820419,,
-2010,Ensemble des Pacs,All Civil union (Pacs),205561,4.454152295425689,,
-2011,Ensemble des Pacs,All Civil union (Pacs),152169,4.899158172821008,,
-2012,Ensemble des Pacs,All Civil union (Pacs),160639,4.310285796101819,,
-2013,Ensemble des Pacs,All Civil union (Pacs),168682,3.600265588503812,,
+2007,Ensemble des Pacs,All Civil union (Pacs),101978,6.085626311557395,,
+2008,Ensemble des Pacs,All Civil union (Pacs),145960,5.613866812825432,,
+2009,Ensemble des Pacs,All Civil union (Pacs),174629,4.831385394178516,,
+2010,Ensemble des Pacs,All Civil union (Pacs),205550,4.449039163220628,,
+2011,Ensemble des Pacs,All Civil union (Pacs),152213,4.926648840769185,,
+2012,Ensemble des Pacs,All Civil union (Pacs),160690,4.340655921339224,,
+2013,Ensemble des Pacs,All Civil union (Pacs),168692,3.60598012946672,,
 2014,Ensemble des Pacs,All Civil union (Pacs),173731,3.604422929701665,,
 2015,Ensemble des Pacs,All Civil union (Pacs),188947,3.713739831804686,,
 2016,Ensemble des Pacs,All Civil union (Pacs),191537,3.713120702527449,,
 2017,Ensemble des Pacs,All Civil union (Pacs),195633,3.782592916328023,,
-2018,Ensemble des Pacs,All Civil union (Pacs),208871,4.112107473033595,Provisoire,Provisional
-2019,Ensemble des Pacs,All Civil union (Pacs),196370,4.255232469318123,Provisoire,Provisional
-2020,Ensemble des Pacs,All Civil union (Pacs),173894,4.590727684681473,Provisoire,Provisional
-2021,Ensemble des Pacs,All Civil union (Pacs),209461,4.683449424952617,Provisoire,Provisional
-2022,Ensemble des Pacs,All Civil union (Pacs),209827,4.932634980245631,Provisoire,Provisional
-2023,Ensemble des Pacs,All Civil union (Pacs),204061,5.207756504182573,Provisoire,Provisional
+2018,Ensemble des Pacs,All Civil union (Pacs),209349,4.107495139694959,,
+2019,Ensemble des Pacs,All Civil union (Pacs),196370,4.255232469318123,,
+2020,Ensemble des Pacs,All Civil union (Pacs),173894,4.590727684681473,,
+2021,Ensemble des Pacs,All Civil union (Pacs),209461,4.683449424952617,,
+2022,Ensemble des Pacs,All Civil union (Pacs),202566,4.898650316440074,,
+2023,Ensemble des Pacs,All Civil union (Pacs),196132,5.188342544816757,,
+2024,Ensemble des Pacs,All Civil union (Pacs),197176,,,
 1999,Pacs sexes différents,Different-sex Pacs,3551,,,
 2000,Pacs sexes différents,Different-sex Pacs,16859,,,
 2001,Pacs sexes différents,Different-sex Pacs,16306,,,
@@ -90,9 +93,10 @@ annee,type,typeEn,n,p,provisoire,provisoireEn
 2015,Pacs sexes différents,Different-sex Pacs,181930,,,
 2016,Pacs sexes différents,Different-sex Pacs,184425,,,
 2017,Pacs sexes différents,Different-sex Pacs,188233,,,
-2018,Pacs sexes différents,Different-sex Pacs,200282,,Provisoire,Provisional
-2019,Pacs sexes différents,Different-sex Pacs,188014,,Provisoire,Provisional
-2020,Pacs sexes différents,Different-sex Pacs,165911,,Provisoire,Provisional
-2021,Pacs sexes différents,Different-sex Pacs,199651,,Provisoire,Provisional
-2022,Pacs sexes différents,Different-sex Pacs,199477,,Provisoire,Provisional
-2023,Pacs sexes différents,Different-sex Pacs,193434,,Provisoire,Provisional
+2018,Pacs sexes différents,Different-sex Pacs,200750,,,
+2019,Pacs sexes différents,Different-sex Pacs,188014,,,
+2020,Pacs sexes différents,Different-sex Pacs,165911,,,
+2021,Pacs sexes différents,Different-sex Pacs,199651,,,
+2022,Pacs sexes différents,Different-sex Pacs,192643,,,
+2023,Pacs sexes différents,Different-sex Pacs,185956,,,
+2024,Pacs sexes différents,Different-sex Pacs,186787,,,
