@@ -17,6 +17,7 @@ annee,n,flux,fluxEn,pop,popEn
 2021,104,Entrées,Inflows,Non immigrés,Non-immigrants
 2022,115,Entrées,Inflows,Non immigrés,Non-immigrants
 2023,120,Entrées,Inflows,Non immigrés,Non-immigrants
+2024,125,Entrées,Inflows,Non immigrés,Non-immigrants
 2006,143,Sorties,Outflows,Non immigrés,Non-immigrants
 2007,146,Sorties,Outflows,Non immigrés,Non-immigrants
 2008,161,Sorties,Outflows,Non immigrés,Non-immigrants
@@ -33,8 +34,9 @@ annee,n,flux,fluxEn,pop,popEn
 2019,180,Sorties,Outflows,Non immigrés,Non-immigrants
 2020,136,Sorties,Outflows,Non immigrés,Non-immigrants
 2021,74,Sorties,Outflows,Non immigrés,Non-immigrants
-2022,,Sorties,Outflows,Non immigrés,Non-immigrants
+2022,193,Sorties,Outflows,Non immigrés,Non-immigrants
 2023,,Sorties,Outflows,Non immigrés,Non-immigrants
+2024,,Sorties,Outflows,Non immigrés,Non-immigrants
 2006,-51,Solde,Net migration,Non immigrés,Non-immigrants
 2007,-66,Solde,Net migration,Non immigrés,Non-immigrants
 2008,-83,Solde,Net migration,Non immigrés,Non-immigrants
@@ -51,8 +53,9 @@ annee,n,flux,fluxEn,pop,popEn
 2019,-55,Solde,Net migration,Non immigrés,Non-immigrants
 2020,-12,Solde,Net migration,Non immigrés,Non-immigrants
 2021,30,Solde,Net migration,Non immigrés,Non-immigrants
-2022,,Solde,Net migration,Non immigrés,Non-immigrants
+2022,-78,Solde,Net migration,Non immigrés,Non-immigrants
 2023,,Solde,Net migration,Non immigrés,Non-immigrants
+2024,,Solde,Net migration,Non immigrés,Non-immigrants
 2006,234,Entrées,Inflows,Immigrés,Immigrants
 2007,230,Entrées,Inflows,Immigrés,Immigrants
 2008,235,Entrées,Inflows,Immigrés,Immigrants
@@ -71,6 +74,7 @@ annee,n,flux,fluxEn,pop,popEn
 2021,283,Entrées,Inflows,Immigrés,Immigrants
 2022,375,Entrées,Inflows,Immigrés,Immigrants
 2023,347,Entrées,Inflows,Immigrés,Immigrants
+2024,313,Entrées,Inflows,Immigrés,Immigrants
 2006,71,Sorties,Outflows,Immigrés,Immigrants
 2007,91,Sorties,Outflows,Immigrés,Immigrants
 2008,95,Sorties,Outflows,Immigrés,Immigrants
@@ -87,8 +91,9 @@ annee,n,flux,fluxEn,pop,popEn
 2019,125,Sorties,Outflows,Immigrés,Immigrants
 2020,94,Sorties,Outflows,Immigrés,Immigrants
 2021,123,Sorties,Outflows,Immigrés,Immigrants
-2022,,Sorties,Outflows,Immigrés,Immigrants
+2022,26,Sorties,Outflows,Immigrés,Immigrants
 2023,,Sorties,Outflows,Immigrés,Immigrants
+2024,,Sorties,Outflows,Immigrés,Immigrants
 2006,163,Solde,Net migration,Immigrés,Immigrants
 2007,139,Solde,Net migration,Immigrés,Immigrants
 2008,140,Solde,Net migration,Immigrés,Immigrants
@@ -105,5 +110,6 @@ annee,n,flux,fluxEn,pop,popEn
 2019,182,Solde,Net migration,Immigrés,Immigrants
 2020,152,Solde,Net migration,Immigrés,Immigrants
 2021,159,Solde,Net migration,Immigrés,Immigrants
-2022,,Solde,Net migration,Immigrés,Immigrants
+2022,348,Solde,Net migration,Immigrés,Immigrants
 2023,,Solde,Net migration,Immigrés,Immigrants
+2024,,Solde,Net migration,Immigrés,Immigrants
